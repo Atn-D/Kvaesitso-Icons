@@ -38,7 +38,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
-          name: KvaesitsoIcons
+          name: Kvaesitso-Icons
           path: ${{steps.sign_app.outputs.signedFile}}
       - name: Clean Workflow Logs
         uses: igorjs/gh-actions-clean-workflow@v3
@@ -63,7 +63,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v3
         with:
-          name: KvaesitsoIcons
+          name: Kvaesitso-Icons
           path: artifacts/release-apk
       - name: Send notifications
         run: python send_notifications.py
