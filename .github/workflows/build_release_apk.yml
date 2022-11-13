@@ -1,0 +1,75 @@
+name: Build release APK
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  build-release-apk:
+    runs-on: ubuntu-latest
+    continue-on-error: true
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+      - uses: actions/setup-java@v3
+        with:
+          distribution: 'zulu'
+          java-version: 17
+      - uses: gradle/gradle-build-action@v2
+        with:
+          gradle-home-cache-cleanup: true
+      - name: Build release APK
+        run: ./gradlew app:assembleRelease
+      - uses: ilharp/sign-android-release@v1.0.4
+        name: Sign app APK
+        id: sign_app
+        with:
+           releaseDir: app/build/outputs/apk/release
+           signingKey: ${{ secrets.ANDROID_SIGNING_KEY }}
+           keyAlias: ${{ secrets.ANDROID_KEY_ALIAS }}
+           keyStorePassword: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
+           keyPassword: ${{ secrets.ANDROID_KEY_PASSWORD }}
+           buildToolsVersion: 33.0.0
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v3
+        with:
+          name: KvaesitsoIcons
+          path: ${{steps.sign_app.outputs.signedFile}}
+      - name: Clean Workflow Logs
+        uses: igorjs/gh-actions-clean-workflow@v3
+        with:
+               token: ${{ secrets.TOKEN }}
+               days_old: 0  
+
+
+      - name: Check out repository
+        uses: actions/checkout@v3
+        with:
+          submodules: true
+          fetch-depth: 0
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install Python packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install gitpython requests
+      - name: Download artifact
+        uses: actions/download-artifact@v3
+        with:
+          name: KvaesitsoIcons
+          path: artifacts/release-apk
+      - name: Send notifications
+        run: python send_notifications.py
+        env:
+          GITHUB_EVENT_BEFORE: ${{ github.event.before }}
+          TELEGRAM_CI_BOT_TOKEN: ${{ secrets.TELEGRAM_CI_BOT_TOKEN }}
+          TELEGRAM_CI_CHANNEL_ID: ${{ secrets.TELEGRAM_CI_CHANNEL_ID }}
+          ARTIFACT_DIRECTORY: artifacts/release-apk
+          GITHUB_REF: ${{ github.ref }}

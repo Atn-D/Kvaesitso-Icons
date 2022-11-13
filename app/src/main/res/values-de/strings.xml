@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Kvaesitso Icons</string>
+    <string name="search_bar_hint">%d Icons durchsuchen</string>
+    <string name="acknowledgements">Danksagungen</string>
+    <string name="about">Über</string>
+    <string name="version_x">Version %s</string>
+    <string name="core_contributors">Hauptakteure</string>
+    <string name="see_all_contributors">Alle Mitwirkenden anzeigen</string>
+    <string name="contributors">Mitwirkende</string>
+    <string name="special_thanks">Besonderer Dank</string>
+    <string name="special_thanks_icon">Für die Inspiration des App-Symbols.</string>
+    <string name="special_thanks_name">Für die Namensgebung der App.</string>
+</resources>

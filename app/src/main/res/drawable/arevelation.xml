@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="48"
+    android:viewportHeight="48">
+
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M34.41,43.5 L39.65,43.5 A1.84,1.84,0,0,0,41.49,41.66 L41.49,41.66 L41.49,22 A17.42,17.42,0,0,0,38.18,11.78 L40.63,9.37 A2.85,2.85,0,0,0,40.63,5.37 L40.63,5.37 A2.87,2.87,0,0,0,36.63,5.37 L34.17,7.78 A17.41,17.41,0,0,0,13.83,7.78 L11.4,5.36 A2.88,2.88,0,0,0,7.34,5.36 L7.34,5.36 A2.85,2.85,0,0,0,7.34,9.36 L9.78,11.77 A17.39,17.39,0,0,0,6.51,22 L6.51,41.66 A1.84,1.84,0,0,0,8.35,43.5 L29.2849,43.5 M16.64,24.78 A3.22,3.22,0,1,1,19.86,21.56 L19.86,21.56 A3.22,3.22,0,0,1,16.64,24.77 Z M31.36,24.79 A3.22,3.22,0,1,1,34.58,21.57 L34.58,21.57 A3.22,3.22,0,0,1,31.36,24.78 Z" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M14.25,31.7763 A4.84,4.84,0,0,1,23.8255,31.2176 L25.0482,31.3709 L26.7462,30.0509 L28.0662,31.749 L29.7802,30.417 L31.1002,32.115 L32.7983,30.795 L34.1303,32.509 L37.1197,32.8839 L38.4397,34.5819 L36.7417,35.9019 L23.44,34.2344 A4.8243,4.8243,0,0,1,22.54,35.5326" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M24.7313,40.9851 L20.9839,38.9159 A4.8322,4.8322,0,1,1,22.4603,36.2569 L23.539,36.8526 L25.6053,36.2564 L26.2014,38.3227 L28.2871,37.721 L28.8832,39.7873 L30.9495,39.1911 L31.5512,41.2768 L34.1887,42.7331 L34.7848,44.7994 L32.7185,45.3956 L24.7313,40.9856" />
+    <path
+        android:strokeColor="#000"
+        android:strokeWidth="2"
+        android:strokeLineJoin="round"
+        android:strokeLineCap="round"
+        android:pathData="M14.8006,29.4785 C12.5961,29.2021,10.6906,29.92,10.5451,31.0821 S12.0684,33.4104,14.2729,33.6869 A7.2262,7.2262,0,0,0,15.8473,33.7163" />
+</vector>

@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg3653"
+   sodipodi:docname="galaxywearable.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview3655"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.041667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3653" />
+  <defs
+     id="defs3637">
+    <style
+       id="style3635">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="a"
+     d="M40.5,42.5H7.5a2,2,0,0,1-2-2V7.5a2,2,0,0,1,2-2h33a2,2,0,0,1,2,2v33A2,2,0,0,1,40.5,42.5Z"
+     id="path3639"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <polyline
+     class="a"
+     points="20.35 19.23 17.96 28.77 15.57 19.23 13.19 28.77 10.8 19.23"
+     id="polyline3641"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M34.81,24.83a2.39,2.39,0,0,1,2.39-2.38h0"
+     id="path3643"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     class="a"
+     x1="34.81"
+     y1="22.45"
+     x2="34.81"
+     y2="28.77"
+     id="line3645"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M25.64,27.57a2.39,2.39,0,0,1-2.08,1.2h0a2.39,2.39,0,0,1-2.38-2.38V24.83a2.39,2.39,0,0,1,2.38-2.38h0A2.39,2.39,0,0,1,26,24.83v.78H21.18"
+     id="path3647"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M32.72,26.39a2.39,2.39,0,0,1-2.38,2.38h0A2.39,2.39,0,0,1,28,26.39V24.83a2.39,2.39,0,0,1,2.39-2.38h0a2.39,2.39,0,0,1,2.38,2.38"
+     id="path3649"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <line
+     class="a"
+     x1="32.72"
+     y1="28.77"
+     x2="32.72"
+     y2="22.45"
+     id="line3651"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg6199"
+   sodipodi:docname="ausweisapp.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6201"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.041667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6199" />
+  <defs
+     id="defs6193">
+    <style
+       id="style6191">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="a"
+     d="M21,37.67A13.9937,13.9937,0,0,1,21,10.33V2.7334a21.4735,21.4735,0,0,0,0,42.5332Z"
+     id="path6195"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M27,2.7334V10.33A13.9937,13.9937,0,0,1,27,37.67v7.5969A21.4735,21.4735,0,0,0,27,2.7334Z"
+     id="path6197"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

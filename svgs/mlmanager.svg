@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="svg6003"
+   sodipodi:docname="mlmanager.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview6005"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="12.041667"
+     inkscape:cx="24"
+     inkscape:cy="24"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6003" />
+  <defs
+     id="defs5975">
+    <style
+       id="style5973">.a{fill:none;stroke:#000;stroke-linecap:round;stroke-linejoin:round;}</style>
+  </defs>
+  <path
+     class="a"
+     d="M14.5,5.5V22.7l1.9-1.8,2.5,2.4,2.5-2.5,2.5,2.6,2.5-2.5,2.5,2.4,2.5-2.5,2,2V5.5"
+     id="path5977"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M34.4,35.6c0-3.3,5.2-3.5,5.2,0"
+     id="path5979"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <rect
+     class="a"
+     x="34.4"
+     y="35.6"
+     width="5.2"
+     height="4.3"
+     id="rect5981"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M38.2,40v2.5"
+     id="path5983"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M35.7,40v2.5"
+     id="path5985"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M32.9,35.2v4"
+     id="path5987"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M41.1,35.2v4"
+     id="path5989"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M36.1,33.2,35,31.7"
+     id="path5991"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M37.9,33.2,39,31.7"
+     id="path5993"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <polyline
+     class="a"
+     points="27.6 9.7 27.6 17.7 31.6 17.7"
+     id="polyline5995"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <polyline
+     class="a"
+     points="17.3 17.7 17.3 9.7 21.3 17.7 25.3 9.7 25.3 17.7"
+     id="polyline5997"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M37,28.6a8.5,8.5,0,1,0,8.5,8.5h0A8.49,8.49,0,0,0,37,28.6Z"
+     id="path5999"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+  <path
+     class="a"
+     d="M30.5,42.5H7.5a2,2,0,0,1-2-2V7.5a2,2,0,0,1,2-2h33a2,2,0,0,1,2,2V30.6"
+     id="path6001"
+     style="stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none" />
+</svg>

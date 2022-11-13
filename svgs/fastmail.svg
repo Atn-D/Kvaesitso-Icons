@@ -1,0 +1,21 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 192 192"
+    id="vector">
+    <path
+        id="path"
+        d="M 175.5 16.5 L 16.5 175.5 L 166.905 175.5 C 168.414 175.5 169.896 174.888 171.203 173.725 C 172.509 172.562 173.594 170.889 174.349 168.875 C 175.103 166.861 175.5 164.576 175.5 162.25 Z"
+        fill="none"
+        stroke="#000000"
+        stroke-width="12"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+    <path
+        id="path_1"
+        d="M 16.5 175.5 L 16.5 16.5 L 96 96"
+        fill="none"
+        stroke="#000000"
+        stroke-width="12"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+</svg>

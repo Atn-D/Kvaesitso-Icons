@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 192 192"
+   id="vector"
+   version="1.1"
+   sodipodi:docname="swift.svg"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs141" />
+  <sodipodi:namedview
+     id="namedview139"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.7447917"
+     inkscape:cx="92.929068"
+     inkscape:cy="95.866481"
+     inkscape:window-width="1280"
+     inkscape:window-height="961"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="vector" />
+  <path
+     id="path"
+     d="M 78.857143,176 Q 71.428571,176 65.28,172.904 59.142857,169.8 56.857143,164.6 l -10.571429,-25 q -13.714285,-7.6 -22,-19 Q 16,109.2 16,96 q 0,-13.2 8.285714,-24.6 8.285715,-11.4 22,-19 l 10.571429,-25 Q 59.142857,22.2 65.28,19.096 71.428571,16 78.857143,16 h 34.285717 q 7.42857,0 13.57714,3.096 6.13714,3.104 8.42286,8.304 l 10.57143,25 q 13.71428,7.6 22,19 Q 176,82.8 176,96 q 0,13.2 -8.28571,24.6 -8.28572,11.4 -22,19 l -10.57143,25 q -2.28572,5.2 -8.42286,8.304 Q 120.57143,176 113.14286,176 Z M 96,136 q 23.71429,0 40.43429,-11.704 Q 153.14286,112.6 153.14286,96 q 0,-16.6 -16.70857,-28.304 Q 119.71429,56 96,56 72.285714,56 55.577143,67.696 q -16.72,11.704 -16.72,28.304 0,16.6 16.72,28.296 Q 72.285714,136 96,136 Z M 74.285714,42 Q 85.428571,39.8 96,39.8 q 10.57143,0 21.71429,2.2 L 113.14286,32 H 78.857143 Z m 4.571429,118 h 34.285717 l 4.57143,-10 Q 106.57143,152.2 96,152.2 85.428571,152.2 74.285714,150 Z M 74.285714,32 h 4.571429 34.285717 4.57143 Q 106.57143,32 96,32 85.428571,32 74.285714,32 Z m 4.571429,128 H 74.285714 Q 85.428571,160 96,160 q 10.57143,0 21.71429,0 h -4.57143 z"
+     fill="#000000"
+     style="stroke-width:9.56184" />
+</svg>
