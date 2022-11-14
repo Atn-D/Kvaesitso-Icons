@@ -1227,6 +1227,7 @@
 	<icon drawable="@drawable/mastodon" package="com.keylesspalace.tusky" name="Mastodon" />
 	<icon drawable="@drawable/opensignal" package="com.staircase3.opensignal" name="Opensignal" />
 	<icon drawable="@drawable/silence" package="org.smssecure.smssecure" name="Silence" />
+	<icon drawable="@drawable/frostfacebook" package="com.pitchedapps.frost" name="Frost for Facebook" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
