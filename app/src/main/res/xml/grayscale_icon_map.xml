@@ -1187,7 +1187,6 @@
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.release" name="Kvaesitso" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanager" name="ML Manager" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanagerpro" name="ML Manager Pro" />
-    <icon drawable="@drawable/dialer" package="com.simplemobiletools.dialer" name="Phone" />
     <icon drawable="@drawable/aurora_services" package="com.aurora.services" name="Aurora Services" />
     <icon drawable="@drawable/ausweisapp" package="com.governikus.ausweisapp2" name="Ausweisapp2" />
     <icon drawable="@drawable/ausweisapp" package="com.governikus.ausweisapp2.dev" name="Ausweisapp2 Preview" />
@@ -1244,7 +1243,6 @@
     <icon drawable="@drawable/insular" package="com.oasisfeng.island" name="Insular" />
     <icon drawable="@drawable/leaflet" package="com.potatoproject.notes" name="Leaflet" />
     <icon drawable="@drawable/supreader" package="com.s2apps.reader" name="Supreader" />
-	<icon drawable="@drawable/supreader" package="com.foobnix.pro.pdf.reader" name="Librera PRO" />
     <icon drawable="@drawable/dateikarten" package="rolandos.karteikarten" name="Karteikarten" />
 	<icon drawable="@drawable/icsdroid" package="at.bitfire.icsdroid" name="ICSx5" />
 	<icon drawable="@drawable/prey" package="com.prey" name="Prey: Find My Phone &amp; Security" />
@@ -1283,6 +1281,5 @@
     <icon drawable="@array/grayscale_clock_icons" package="com.dslit.floatingclock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.simplemobiletools.clock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.sec.android.app.clockpackage" />
-    <icon drawable="@array/grayscale_clock_icons" package="com.android.deskclock" />	
-	<icon drawable="@array/grayscale_clock_icons" package="com.simplemobiletools.clock" />
+    <icon drawable="@array/grayscale_clock_icons" package="com.android.deskclock" />
 </icons>
