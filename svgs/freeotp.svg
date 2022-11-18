@@ -1,13 +1,1 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 192 192"
-    id="vector">
-    <path
-        id="path"
-        d="M 96 16.5 L 16.5 56.25 L 16.5 135.75 L 96 175.5 L 175.5 135.75 L 175.5 56.25 Z M 163.262 69.5 M 16.5 56.25 L 96 96 M 96 175.5 L 96 96 M 175.5 56.25 L 96 96"
-        fill="none"
-        stroke="#000000"
-        stroke-width="12"
-        stroke-linecap="round"
-        stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><path d="M96 16.5 16.5 56.25v79.5L96 175.5l79.5-39.75v-79.5ZM16.5 56.25 96 96m0 79.5V96m79.5-39.75L96 96" fill="none" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>

@@ -1,13 +1,1 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 192 192"
-    id="vector">
-    <path
-        id="path"
-        d="M 145.433 175.832 L 145.433 16.168 L 16.5 123.438 L 175.5 123.438"
-        fill="none"
-        stroke="#000000"
-        stroke-width="12"
-        stroke-linecap="round"
-        stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><path d="M145.433 175.832V16.168L16.5 123.438h159" fill="none" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>
