@@ -8,6 +8,7 @@ plugins {
     id("com.sergei-lapin.napt")
     id("dagger.hilt.android.plugin")
     id("com.google.android.gms.oss-licenses-plugin")
+    id("dev.rikka.tools.autoresconfig")
 }
 
 android {
@@ -76,6 +77,12 @@ android {
         includeInApk = false
         includeInBundle = false
     }
+    
+    autoResConfig {
+    generateRes = false
+    generateClass = false
+    generateLocaleConfig = true
+}
 
     applicationVariants.all {
         outputs.all {
