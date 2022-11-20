@@ -17,7 +17,6 @@ pluginManagement {
 // https://docs.gradle.com/enterprise/gradle-plugin/
 plugins {
     id("com.gradle.enterprise") version "3.11.4"
-    id("dev.rikka.tools.autoresconfig") version "1.2.1"
 }
 
 gradleEnterprise {
