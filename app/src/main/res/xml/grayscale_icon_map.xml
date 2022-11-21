@@ -162,6 +162,7 @@
     <icon drawable="@drawable/camera" package="com.android.camera2" name="Camera" />
     <icon drawable="@drawable/camera" package="com.android.mgc" name="Camera" />
     <icon drawable="@drawable/camera" package="com.asus.camera" name="Camera" />
+	<icon drawable="@drawable/camera" package="com.fp.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Cameight" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Urnyx" name="Camera" />
@@ -409,6 +410,7 @@
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Download Twitter Videos" />
 	<icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
+	<icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Music Player GO" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="YMusic" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Poweramp" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.ad" name="MX Player" />
@@ -1265,6 +1267,8 @@
 	<icon drawable="@drawable/silence" package="org.smssecure.smssecure" name="Silence" />
 	<icon drawable="@drawable/frostfacebook" package="com.pitchedapps.frost" name="Frost for Facebook" />
 	<icon drawable="@drawable/iconrequest" package="de.kaiserdragon.iconrequest" name="IconRequest" />
+	<icon drawable="@drawable/bol" package="com.bol.shop" name="bol.com" />
+	<icon drawable="@drawable/cryptomator" package="org.cryptomator" name="Cryptomator" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
