@@ -1278,6 +1278,7 @@
     <icon drawable="@drawable/kindle" package="com.amazon.kindle" name="Amazon Kindle" />
     <icon drawable="@drawable/kindle" package="com.amazon.klite" name="Amazon Kindle" />
     <icon drawable="@drawable/barmer" package="de.barmergek.serviceapp" name="BARMER-App" />
+	<icon drawable="@drawable/argenta" package="be.argenta.bankieren" name="Argenta" />
     <icon drawable="@drawable/wrc" package="laola1.wrc" name="WRC" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
