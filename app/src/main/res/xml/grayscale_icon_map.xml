@@ -1270,9 +1270,14 @@
 	<icon drawable="@drawable/frostfacebook" package="com.pitchedapps.frost" name="Frost for Facebook" />
 	<icon drawable="@drawable/iconrequest" package="de.kaiserdragon.iconrequest" name="IconRequest" />
 	<icon drawable="@drawable/bol" package="com.bol.shop" name="bol.com" />
+	<icon drawable="@drawable/vrt_max" package="be.vrt.vrtnu" name="VRT MAX" />
+	<icon drawable="@drawable/vrt_nws" package="be.vrt.mobile.android.deredactie" name="VRT NWS" />
+	<icon drawable="@drawable/sporza" package="com.fwc2014.vrt.and" name="sporza" />
+	<icon drawable="@drawable/chipolo" package="chipolo.net.v3" name="Chipolo" />
 	<icon drawable="@drawable/cryptomator" package="org.cryptomator" name="Cryptomator" />
 	<icon drawable="@drawable/kindle" package="com.amazon.kindle" name="Amazon Kindle" />
 	<icon drawable="@drawable/kindle" package="com.amazon.klite" name="Amazon Kindle" />
+	<icon drawable="@drawable/barmer" package="de.barmergek.serviceapp" name="BARMER-App" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
