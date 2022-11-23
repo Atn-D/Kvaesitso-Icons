@@ -1190,6 +1190,7 @@
     <icon drawable="@drawable/appcloner" package="com.applisto.appcloner" name="App Cloner" />
     <icon drawable="@drawable/appcloner" package="com.applisto.appcloner.premium" name="App Cloner Addon" />
     <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor" name="Apk Editor" />
+    <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.pro" name="Apk Editor Pro" />
     <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.parser" name="Apk Editor" />
     <icon drawable="@drawable/poweramp_unlocker" package="com.maxmpz.audioplayer.unlock" name="Poweramp Unlocker" />
     <icon drawable="@drawable/radiodroid" package="net.programmierecke.radiodroid2" name="RadioDroid" />
@@ -1282,12 +1283,12 @@
     <icon drawable="@drawable/kindle" package="com.amazon.kindle" name="Amazon Kindle" />
     <icon drawable="@drawable/kindle" package="com.amazon.klite" name="Amazon Kindle" />
     <icon drawable="@drawable/barmer" package="de.barmergek.serviceapp" name="BARMER-App" />
-	<icon drawable="@drawable/argenta" package="be.argenta.bankieren" name="Argenta" />
-	<icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
-	<icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylink" name="Family Link" />
+    <icon drawable="@drawable/argenta" package="be.argenta.bankieren" name="Argenta" />
+    <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
+    <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylink" name="Family Link" />
     <icon drawable="@drawable/wrc" package="laola1.wrc" name="WRC" />
-	<icon drawable="@drawable/my_citron" package="com.psa.mym.mycitroen" name="My Citroën" />
-	<icon drawable="@drawable/tuga" package="com.tuya.smart" name="Tuya Smart" />
+    <icon drawable="@drawable/my_citron" package="com.psa.mym.mycitroen" name="My Citroën" />
+    <icon drawable="@drawable/tuga" package="com.tuya.smart" name="Tuya Smart" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
