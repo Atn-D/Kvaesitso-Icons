@@ -1290,6 +1290,7 @@
     <icon drawable="@drawable/wrc" package="laola1.wrc" name="WRC" />
     <icon drawable="@drawable/my_citron" package="com.psa.mym.mycitroen" name="My Citroën" />
     <icon drawable="@drawable/tuga" package="com.tuya.smart" name="Tuya Smart" />
+	<icon drawable="@drawable/thinQ" package="com.lgeha.nuts" name="LG ThinQ" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
