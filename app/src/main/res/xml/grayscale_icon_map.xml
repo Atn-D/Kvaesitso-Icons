@@ -412,6 +412,7 @@
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Download Twitter Videos" />
 	<icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
+	 <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
 	<icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Music Player GO" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="YMusic" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Poweramp" />
@@ -1291,6 +1292,7 @@
     <icon drawable="@drawable/my_citron" package="com.psa.mym.mycitroen" name="My Citroën" />
     <icon drawable="@drawable/tuga" package="com.tuya.smart" name="Tuya Smart" />
 	<icon drawable="@drawable/thinq" package="com.lgeha.nuts" name="LG ThinQ" />
+	<icon drawable="@drawable/nothingx" package="com.nothing.smartcenter" name="Nothing X" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
