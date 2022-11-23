@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<resources>
+    <string name="app_name">Kvaesitso Simgeler</string>
+    <string name="version_x">Versiyon %s</string>
+    <string name="search_bar_hint">%d Simge Ara</string>
+    <string name="acknowledgements">Teşekkürler</string>
+    <string name="about">Hakkında</string>
+    <string name="contributors">Katkıda bulunanlar</string>
+    <string name="core_contributors">Temel katkıda bulunanlar</string>
+    <string name="see_all_contributors">Tüm katkıda bulunanları göster</string>
+    <string name="special_thanks">Özel teşekkür</string>
+    <string name="special_thanks_icon">Uygulama simgesine ilham veren.</string>
+    <string name="special_thanks_name">Uygulama ismine ilham veren.</string>
+</resources>
