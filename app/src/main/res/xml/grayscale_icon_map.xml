@@ -180,6 +180,7 @@
     <icon drawable="@drawable/camera" package="com.motorola.camera3" name="Camera" />
     <icon drawable="@drawable/camera" package="com.motorola.cameraone" name="Camera" />
     <icon drawable="@drawable/camera" package="com.ngcam.camera" name="Camera" />
+	<icon drawable="@drawable/camera" package="com.nothing.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.oneplus.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.oplus.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="com.oppo.camera" name="Camera" />
@@ -863,6 +864,7 @@
     <icon drawable="@drawable/recorder" package="com.android.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.motorola.audiorecorder" name="Recorder" />
+	<icon drawable="@drawable/recorder" package="com.nothing.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.oneplus.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.sec.android.app.voicenote" name="Recorder" />
     <icon drawable="@drawable/recorder" package="org.lineageos.recorder" name="Recorder" />
@@ -1281,7 +1283,11 @@
     <icon drawable="@drawable/kindle" package="com.amazon.klite" name="Amazon Kindle" />
     <icon drawable="@drawable/barmer" package="de.barmergek.serviceapp" name="BARMER-App" />
 	<icon drawable="@drawable/argenta" package="be.argenta.bankieren" name="Argenta" />
+	<icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
+	<icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylink" name="Family Link" />
     <icon drawable="@drawable/wrc" package="laola1.wrc" name="WRC" />
+	<icon drawable="@drawable/my_citron" package="com.psa.mym.mycitroen" name="My Citroën" />
+	<icon drawable="@drawable/tuga" package="com.tuya.smart" name="Tuya Smart" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
