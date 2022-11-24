@@ -147,6 +147,7 @@
     <icon drawable="@drawable/calculator" package="com.oneplus.calculator" name="Calculator" />
     <icon drawable="@drawable/calculator" package="com.sec.android.app.popupcalculator" name="Calculator" />
     <icon drawable="@drawable/calculator_plus" package="com.gigaworks.tech.calculator" name="Calculator Plus" />
+	<icon drawable="@drawable/camera" package="com.gcamlinkon.shamim844" name="Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera" name="Camera" />
     <icon drawable="@drawable/camera" package="app.grapheneos.camera.play" name="Camera" />
     <icon drawable="@drawable/camera" package="com.GoogleCamera.Burial" name="Camera" />
@@ -412,7 +413,13 @@
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Download Twitter Videos" />
 	<icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
-	 <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
+	<icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
+	<icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
+	<icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
+	<icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
+	<icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
+	<icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
+	<icon drawable="@drawable/generic_games" package="name.boyle.chris.sgtpuzzles" name="Games" />
 	<icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Music Player GO" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="YMusic" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Poweramp" />
@@ -592,6 +599,7 @@
     <icon drawable="@drawable/magic_poser" package="com.magicposernew" name="MagicPoser" />
     <icon drawable="@drawable/magisk" package="com.thehitman7.cygisk" name="Magisk" />
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
+	<icon drawable="@drawable/magisk" package="io.github.huskydg.magisk" name="Magisk" />
     <icon drawable="@drawable/manipal_hospitals" package="com.manipal.manipalhospitals" name="Manipal Hospitals" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
@@ -1293,6 +1301,9 @@
     <icon drawable="@drawable/tuga" package="com.tuya.smart" name="Tuya Smart" />
 	<icon drawable="@drawable/thinq" package="com.lgeha.nuts" name="LG ThinQ" />
 	<icon drawable="@drawable/nothingx" package="com.nothing.smartcenter" name="Nothing X" />
+	<icon drawable="@drawable/tumblr" package="com.tumblr" name="Tumblr" />
+	<icon drawable="@drawable/kwgtpro" package="org.kustom.widget.pro" name="KWGT Pro" />
+	<icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
