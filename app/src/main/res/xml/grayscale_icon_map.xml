@@ -1310,7 +1310,7 @@
 	<icon drawable="@drawable/drlyd" package="dk.dr.radio" name="DR LYD" />
 	<icon drawable="@drawable/drnyheder" package="dk.dr.drnyheder" name="DR Nyheder" />
 	<icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
-	<icon drawable="@drawable/merkorama" package="com.martinmagni.mekorama" name="Merkorama" />
+	<icon drawable="@drawable/mekorama" package="com.martinmagni.mekorama" name="Mekorama" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
