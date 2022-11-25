@@ -1306,7 +1306,6 @@
 	<icon drawable="@drawable/nothingx" package="com.nothing.smartcenter" name="Nothing X" />
 	<icon drawable="@drawable/tumblr" package="com.tumblr" name="Tumblr" />
 	<icon drawable="@drawable/kwgtpro" package="org.kustom.widget.pro" name="KWGT Pro" />
-	<icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
 	<icon drawable="@drawable/drlyd" package="dk.dr.radio" name="DR LYD" />
 	<icon drawable="@drawable/drnyheder" package="dk.dr.drnyheder" name="DR Nyheder" />
 	<icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
