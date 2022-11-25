@@ -1307,6 +1307,8 @@
 	<icon drawable="@drawable/tumblr" package="com.tumblr" name="Tumblr" />
 	<icon drawable="@drawable/kwgtpro" package="org.kustom.widget.pro" name="KWGT Pro" />
 	<icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
+	<icon drawable="@drawable/drlyd" package="dk.dr.radio" name="DR LYD" />
+	<icon drawable="@drawable/drnyheder" package="dk.dr.drnyheder" name="DR Nyheder" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
