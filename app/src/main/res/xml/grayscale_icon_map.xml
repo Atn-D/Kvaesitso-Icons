@@ -422,7 +422,6 @@
 	<icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
 	<icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
 	<icon drawable="@drawable/generic_games" package="name.boyle.chris.sgtpuzzles" name="Games" />
-	<icon drawable="@drawable/generic_games" package="com.martinmagni.mekorama" name="Games" />
 	<icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Music Player GO" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="YMusic" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Poweramp" />
@@ -1311,6 +1310,7 @@
 	<icon drawable="@drawable/drlyd" package="dk.dr.radio" name="DR LYD" />
 	<icon drawable="@drawable/drnyheder" package="dk.dr.drnyheder" name="DR Nyheder" />
 	<icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
+	<icon drawable="@drawable/merkorama" package="com.martinmagni.mekorama" name="Merkorama" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
