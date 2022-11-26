@@ -1019,6 +1019,7 @@
     <icon drawable="@drawable/talon" package="com.klinker.android.twitter_l" name="Talon for Twitter" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
 	<icon drawable="@drawable/tapo" package="com.tplink.iot" name="Tapo" />
+	<icon drawable="@drawable/tasks" package="org.myklos.inote" name="Tasks" />
     <icon drawable="@drawable/tasks" package="org.tasks" name="Tasks" />
     <icon drawable="@drawable/teamsnap" package="com.teamsnap.teamsnap" name="TeamSnap" />
     <icon drawable="@drawable/teamspeak" package="com.teamspeak.ts3client" name="TeamSpeak" />
@@ -1107,6 +1108,7 @@
     <icon drawable="@drawable/wear" package="com.samsung.android.app.watchmanager" name="Samsung Wear" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
     <icon drawable="@drawable/weather" package="com.coloros.weather2" name="Weather" />
+	<icon drawable="@drawable/weather" package="com.handmark.expressweather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.miui.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="net.oneplus.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="org.secuso.privacyfriendlyweather" name="Weather" />
@@ -1310,6 +1312,7 @@
 	<icon drawable="@drawable/drnyheder" package="dk.dr.drnyheder" name="DR Nyheder" />
 	<icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
 	<icon drawable="@drawable/mekorama" package="com.martinmagni.mekorama" name="Mekorama" />
+	<icon drawable="@drawable/coop" package="dk.coop.coopplus" name="Coop – Køb Online, Scan&Betal" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
