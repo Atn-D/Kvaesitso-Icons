@@ -293,6 +293,8 @@
     <icon drawable="@drawable/disneyplus" package="com.disneyplus.mea" name="Disney+" />
     <icon drawable="@drawable/disneyplus" package="com.disney.disneyplus" name="Disney+" />
     <icon drawable="@drawable/dolby" package="com.dolby" name="Dolby" />
+	<icon drawable="@drawable/dolby" package="com.dolby.daxappui" name="Dolby" />
+    <icon drawable="@drawable/dolby" package="com.atmos" name="Dolby" />
     <icon drawable="@drawable/dominos" package="by.mc.dominos.com" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.Dominos" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.boloid.dominos" name="Domino's Pizza" />
@@ -854,8 +856,10 @@
     <icon drawable="@drawable/qibla_direction" package="qibla.compass.finddirection.hijricalendar" name="Qibla Direction" />
     <icon drawable="@drawable/qksms" package="com.moez.QKSMS" name="QKSMS" />
     <icon drawable="@drawable/qr_reader" package="com.teacapps.barcodescanner" name="QR Reader" />
-    <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="Simple QR" />
-    <icon drawable="@drawable/qr_reader" package="org.barcodescanner" name="QR &amp; Barcode Scanner" />
+    <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="QR Reader" />
+    <icon drawable="@drawable/qr_reader" package="org.barcodescanner" name="QR Reader" />
+	<icon drawable="@drawable/qr_reader" package="com.example.barcodescanner" name="QR Reader" />
+    <icon drawable="@drawable/qr" package="de.t_dankworth.secscanqr" name="SecScanQR" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit" name="QuickEdit" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit.pro" name="QuickEdit" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
@@ -1033,6 +1037,8 @@
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram X" />
     <icon drawable="@drawable/telegram" package="org.forkgram.messenger" name="Fork Client" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
+	<icon drawable="@drawable/termux" package="com.termux.widget" name="Termux" />
+	<icon drawable="@drawable/termux" package="jackpal.androidterm" name="Termux" />
     <icon drawable="@drawable/textra" package="com.textra" name="Textra"/>
     <icon drawable="@drawable/the_battle_cats" package="jp.co.ponos.battlecatsen" name="The Battle Cats" />
     <icon drawable="@drawable/the_economist" package="com.economist.lamarr" name="Economist" />
@@ -1108,6 +1114,20 @@
     <icon drawable="@drawable/wayback_machine" package="com.archive.waybackmachine" name="Wayback Machine" />
     <icon drawable="@drawable/waze" package="com.waze" name="Waze" />
     <icon drawable="@drawable/wear" package="com.samsung.android.app.watchmanager" name="Samsung Wear" />
+	<icon drawable="@drawable/wear" package="com.samsung.android.app.watchmanager2" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.accessory.fridaymgr" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.waterplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.gearnplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.geargplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.accessory.berrymgr" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.gearrplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.accessory.neobeanmgr" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.accessory.popcornmgr" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.modenplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.accessory.atticmgr" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.neatplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.android.gearpplugin" name="Samsung Wear" />
+    <icon drawable="@drawable/wear" package="com.samsung.accessory.beansmgr" name="Samsung Wear" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
     <icon drawable="@drawable/weather" package="com.coloros.weather2" name="Weather" />
 	<icon drawable="@drawable/weather" package="com.handmark.expressweather" name="Weather" />
@@ -1165,20 +1185,6 @@
     <icon drawable="@drawable/infektinfo" package="com.wdtec.infektinfo.hw" name="InfektInfo Fallzahlen Inzidenz" />
     <icon drawable="@drawable/facer" package="com.jeremysteckling.facerrel" name="Facer" />
     <icon drawable="@drawable/fotmob" package="com.mobilefootie.wc2010" name="FotMob" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.app.watchmanager2" name="Galaxy Wearable" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.accessory.fridaymgr" name="Galaxy Buds Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.waterplugin" name="Galaxy Watch4 Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.gearnplugin" name="Galaxy Watch3 Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.geargplugin" name="Galaxy Watch Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.accessory.berrymgr" name="Galaxy Buds2 Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.gearrplugin" name="Watch Active2 Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.accessory.neobeanmgr" name="Galaxy Buds Live Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.accessory.popcornmgr" name="Galaxy Buds+ Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.modenplugin" name="Galaxy Fit Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.accessory.atticmgr" name="Galaxy Buds Pro Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.neatplugin" name="Galaxy Fit2 Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.android.gearpplugin" name="Watch Active Plugin" />
-    <icon drawable="@drawable/galaxy_wearable" package="com.samsung.accessory.beansmgr" name="Gear IconX Plugin" />
     <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards" />
     <icon drawable="@drawable/mpatcher" package="ru.maximoff.sheller" name="MPatcher" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
@@ -1186,7 +1192,6 @@
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
     <icon drawable="@drawable/swift_installer" package="com.brit.swiftinstaller" name="Swift Installer" />
     <icon drawable="@drawable/wsc" package="wscconnect.android" name="WSC Connect" />
-    <icon drawable="@drawable/termux" package="com.termux.widget" name="Termux Widget" />
     <icon drawable="@drawable/styx_browser" package="com.jamal2367.styx" name="Styx Browser" />
     <icon drawable="@drawable/aok" package="de.aoksystems.amg" name="Meine AOK" />
     <icon drawable="@drawable/otto" package="de.cellular.ottohybrid" name="OTTO" />
@@ -1200,35 +1205,33 @@
     <icon drawable="@drawable/sticker_app" package="de.platzuff" name="StickerApp" />
     <icon drawable="@drawable/sdmaid_pro" package="eu.thedarken.sdm.unlocker" name="SDMaid Pro" />
     <icon drawable="@drawable/monet_generator" package="com.jamal2367.tgmonet" name="Telegram Monet" />
-    <icon drawable="@drawable/dolby" package="com.dolby.daxappui" name="Dolby Atmos" />
-    <icon drawable="@drawable/dolby" package="com.atmos" name="Dolby Atmos" />
     <icon drawable="@drawable/url_radio" package="com.jamal2367.urlradio" name="URL Radio" />
     <icon drawable="@drawable/fpda" package="ru.fourpda.client" name="4PDA" />
     <icon drawable="@drawable/mobilism" package="demigos.com.mobilism" name="Mobilism" />
     <icon drawable="@drawable/appcloner" package="com.applisto.appcloner" name="App Cloner" />
-    <icon drawable="@drawable/appcloner" package="com.applisto.appcloner.premium" name="App Cloner Addon" />
+    <icon drawable="@drawable/appcloner" package="com.applisto.appcloner.premium" name="App Cloner" />
     <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor" name="Apk Editor" />
-    <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.pro" name="Apk Editor Pro" />
+    <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.pro" name="Apk Editor" />
     <icon drawable="@drawable/apk_editor" package="com.gmail.heagoo.apkeditor.parser" name="Apk Editor" />
     <icon drawable="@drawable/poweramp_unlocker" package="com.maxmpz.audioplayer.unlock" name="Poweramp Unlocker" />
     <icon drawable="@drawable/radiodroid" package="net.programmierecke.radiodroid2" name="RadioDroid" />
     <icon drawable="@drawable/wearinstaller" package="org.freepoc.wearinstaller" name="Wear Installer" />
     <icon drawable="@drawable/wearinstaller" package="org.freepoc.wearinstaller2" name="Wear Installer" />
     <icon drawable="@drawable/pujieblack" package="com.pujie.wristwear.pujieblack" name="Pujie Black" />
-    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.alpha" name="Kvaesitso Alpha" />
-    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.beta" name="Kvaesitso Beta" />
-    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.debug" name="Kvaesitso Debug" />
+    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.alpha" name="Kvaesitso" />
+    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.beta" name="Kvaesitso" />
+    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.debug" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.release" name="Kvaesitso" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanager" name="ML Manager" />
-    <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanagerpro" name="ML Manager Pro" />
+    <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanagerpro" name="ML Manager" />
     <icon drawable="@drawable/aurora_services" package="com.aurora.services" name="Aurora Services" />
     <icon drawable="@drawable/ausweisapp" package="com.governikus.ausweisapp2" name="Ausweisapp2" />
-    <icon drawable="@drawable/ausweisapp" package="com.governikus.ausweisapp2.dev" name="Ausweisapp2 Preview" />
+    <icon drawable="@drawable/ausweisapp" package="com.governikus.ausweisapp2.dev" name="Ausweisapp2" />
     <icon drawable="@drawable/myfritz" package="de.avm.android.myfritz2" name="MyFritz!App" />
     <icon drawable="@drawable/opencvmanager" package="org.opencv.engine" name="OpenCV Manager" />
     <icon drawable="@drawable/outdooractive" package="com.outdooractive.Outdooractive" name="Outdooractive Wandern &amp; Touren" />
     <icon drawable="@drawable/permissionmanagerx" package="com.mirfatif.permissionmanagerx" name="Permission Manager X" />
-    <icon drawable="@drawable/trackercontrol" package="net.kollnig.missioncontrol.play" name="TrackerControl 'Slim'" />
+    <icon drawable="@drawable/trackercontrol" package="net.kollnig.missioncontrol.play" name="TrackerControl" />
     <icon drawable="@drawable/trackercontrol" package="net.kollnig.missioncontrol.fdroid" name="TrackerControl" />
     <icon drawable="@drawable/trackercontrol" package="net.kollnig.missioncontrol" name="TrackerControl" />
     <icon drawable="@drawable/arevelation" package="de.igloffstein.maik.aRevelation" name="aRevelation" />
@@ -1239,10 +1242,7 @@
     <icon drawable="@drawable/ing" package="de.ingdiba.bankingapp" name="Ing" />
     <icon drawable="@drawable/camera" package="com.google.android.MTSL83" name="Camera" />
     <icon drawable="@drawable/opennotescanner" package="com.todobom.opennotescanner" name="Open Note Scanner" />
-    <icon drawable="@drawable/qr" package="com.example.barcodescanner" name="Qr &amp; Barcode Scanner" />
-    <icon drawable="@drawable/qr" package="de.t_dankworth.secscanqr" name="SecScanQR" />
     <icon drawable="@drawable/spotiflyer" package="com.shabinder.spotiflyer" name="SpotiFlyer" />
-    <icon drawable="@drawable/termux" package="jackpal.androidterm" name="Terminal Emulator" />
     <icon drawable="@drawable/wallpapers" package="com.mathyeckerdt.wallrod" name="WallRod" />
     <icon drawable="@drawable/gallery" package="com.github.vauvenal5.yaga" name="Gallery" />
     <icon drawable="@drawable/vvs" package="com.mdv.VVSMobil" name="VVS" />
@@ -1263,10 +1263,10 @@
     <icon drawable="@drawable/simplemusicplayer" package="com.simplemobiletools.musicplayer" name="Simple Music Player" />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android" />
     <icon drawable="@drawable/dkb" package="com.dkbcodefactory.banking" name="DKB" />
-    <icon drawable="@drawable/dkb" package="de.dkb.portalapp" name="DKB Banking" />
+    <icon drawable="@drawable/dkb" package="de.dkb.portalapp" name="DKB" />
     <icon drawable="@drawable/bauern" package="de.fcbayern.android" name="FC Bauern" />
     <icon drawable="@drawable/mainaqila" package="de.mainaqila.app" name="Mainaqila" />
-    <icon drawable="@drawable/freeotp" package="org.liberty.android.freeotpplus" name="FreeOTP+" />
+    <icon drawable="@drawable/freeotp" package="org.liberty.android.freeotpplus" name="FreeOTP" />
     <icon drawable="@drawable/freeotp" package="org.fedorahosted.freeotp" name="FreeOTP" />
     <icon drawable="@drawable/sky" package="de.sky.bw" name="Sky Go" />
     <icon drawable="@drawable/zdfheute" package="de.heute.mobile" name="ZDF Heute" />
@@ -1326,6 +1326,8 @@
     <icon drawable="@drawable/scanner" package="com.coolmobilesolution.fastscannerfree" name="Fast Scanner" />
 	<icon drawable="@drawable/gesundakte" package="zollsoft.de.patientapp" name="Gesundakte" />
 	<icon drawable="@drawable/source_wall" package="nz.co.teamsean.matrix" name="Source Wall" />
+	<icon drawable="@drawable/aktionmensch" package="de.aktionmensch.AMMobileAppDistribution" name="Aktion Mensch Lotterie" />
+	<icon drawable="@drawable/vrb" package="de.projektionisten.vrb" name="VRB Fahrinfo &amp; Tickets" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
