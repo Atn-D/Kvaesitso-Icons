@@ -1320,6 +1320,10 @@
 	<icon drawable="@drawable/goaly" package="io.rosenpin.goals" name="Goaly" />
 	<icon drawable="@drawable/arbeitstage" package="de.lausitzsoftware.workdays" name="Arbeitstage" />
 	<icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
+	<icon drawable="@drawable/epassgo" package="de.passgo.passgo" name="ePassGo" />
+	<icon drawable="@drawable/fast_scanner" package="com.coolmobilesolution" name="Fast Scanner" />
+	<icon drawable="@drawable/gesundakte" package="zollsoft.de.patientapp" name="Gesundakte" />
+	<icon drawable="@drawable/source_wall" package="nz.co.teamsean.matrix" name="Source Wall" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
