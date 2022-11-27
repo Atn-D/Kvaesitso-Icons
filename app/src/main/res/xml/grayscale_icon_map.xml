@@ -1329,6 +1329,18 @@
 	<icon drawable="@drawable/source_wall" package="nz.co.teamsean.matrix" name="Source Wall" />
 	<icon drawable="@drawable/aktionmensch" package="de.aktionmensch.AMMobileAppDistribution" name="Aktion Mensch Lotterie" />
 	<icon drawable="@drawable/vrb" package="de.projektionisten.vrb" name="VRB Fahrinfo &amp; Tickets" />
+	<icon drawable="@drawable/xmanager" package="com.xc3fff0e.xmanager" name="xManager" />
+	<icon drawable="@drawable/benefits" package="de.corporatebenefits.app" name="benefits" />
+	<icon drawable="@drawable/ds_krant" package="com.twipemobile.standaard" name="DS Krant" />
+	<icon drawable="@drawable/ds_krant" package="com.twipemobile.dsmobile" name="DS Nieuws" />
+	<icon drawable="@drawable/halkbank" package="com.tmobtech.halkbank" name="Halkbank" />
+	<icon drawable="@drawable/hoplr" package="com.hoplr" name="Hoplr" />
+	<icon drawable="@drawable/smartschool" package="be.smartschool.mobile" name="Smartschool" />
+	<icon drawable="@drawable/stickers_for_whatsapp" package="com.dstukalov.watelegramstickers" name="Unofficial Telegram Stickers for WhatsApp" />
+	<icon drawable="@drawable/tasker" package="net.dinglisch.android.taskerm" name="Tasker" />
+	<icon drawable="@drawable/millenicom" package="com.solidict.millenicom" name="Millenicom" />
+	<icon drawable="@drawable/ntfy" package="io.heckel.ntfy" name="ntfy" />
+	<icon drawable="@drawable/kbb_trafik" package="com.iltelis.kbbtrafik" name="KBB Trafik" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
