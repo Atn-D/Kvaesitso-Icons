@@ -1318,6 +1318,7 @@
 	<icon drawable="@drawable/buffl" package="org.nativescript.buffl" name="BUFFL" />
 	<icon drawable="@drawable/goaly" package="io.rosenpin.goals" name="Goaly" />
 	<icon drawable="@drawable/arbeitstage" package="de.lausitzsoftware.workdays" name="Arbeitstage" />
+	<icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
