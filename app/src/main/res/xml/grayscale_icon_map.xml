@@ -1257,7 +1257,8 @@
     <icon drawable="@drawable/adguard" package="com.adguard.android" name="Adguard" />
     <icon drawable="@drawable/swift" package="fr.thema.wear.watch.swift" name="Swift Watch Face" />
     <icon drawable="@drawable/adobelightroom" package="com.adobe.lrmobile" name="Adobe Lightroom" />
-    <icon drawable="@drawable/vodafone" package="com.appseleration.android.selfcare" name="MeinVodafone" />
+    <icon drawable="@drawable/vodafone" package="com.appseleration.android.selfcare" name="Vodafone" />
+    <icon drawable="@drawable/vodafone" package="com.vodafone.selfservis" name="Vodafone" />
     <icon drawable="@drawable/simplemusicplayer" package="com.simplemobiletools.musicplayer" name="Simple Music Player" />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android" />
     <icon drawable="@drawable/dkb" package="com.dkbcodefactory.banking" name="DKB" />
