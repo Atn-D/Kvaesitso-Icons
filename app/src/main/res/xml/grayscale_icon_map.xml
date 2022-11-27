@@ -1332,7 +1332,7 @@
     <icon drawable="@drawable/xmanager" package="com.xc3fff0e.xmanager" name="xManager" />
     <icon drawable="@drawable/benefits" package="de.corporatebenefits.app" name="benefits" />
     <icon drawable="@drawable/ds_krant" package="com.twipemobile.standaard" name="DS Krant" />
-    <icon drawable="@drawable/ds_krant" package="com.twipemobile.dsmobile" name="DS Nieuws" />
+    <icon drawable="@drawable/ds_nieuws" package="com.twipemobile.dsmobile" name="DS Nieuws" />
     <icon drawable="@drawable/halkbank" package="com.tmobtech.halkbank" name="Halkbank" />
     <icon drawable="@drawable/hoplr" package="com.hoplr" name="Hoplr" />
     <icon drawable="@drawable/smartschool" package="be.smartschool.mobile" name="Smartschool" />
