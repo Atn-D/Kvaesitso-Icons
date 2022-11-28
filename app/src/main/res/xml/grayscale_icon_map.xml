@@ -392,7 +392,7 @@
     <icon drawable="@drawable/fm_radio" package="com.radio.fmradio" name="Radio FM - Podcast App" />
     <icon drawable="@drawable/fm_radio" package="com.sec.android.app.fm" name="Radio" />
     <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
-	<icon drawable="@drawable/forkgram" package="org.forkgram.messenger" name="Forkgram" />
+    <icon drawable="@drawable/forkgram" package="org.forkgram.messenger" name="Forkgram" />
     <icon drawable="@drawable/fortnite" package="com.epicgames.fortnite" name="Fortnite" />
     <icon drawable="@drawable/fox_mmm" package="com.fox2code.mmm" name="Fox's Magisk Module Manager" />
     <icon drawable="@drawable/franco_kernel_manager" package="com.franco.kernel" name="Franco Kernel Manager" />
@@ -644,6 +644,7 @@
     <icon drawable="@drawable/meteo_swiss" package="ch.admin.meteoswiss" name="MeteoSwiss" />
     <icon drawable="@drawable/mi_files" package="com.mi.android.globalFileexplorer" name="Mi Files" />
     <icon drawable="@drawable/mi_fitness" package="com.xiaomi.wearable" name="Mi Fitness" />
+    <icon drawable="@drawable/mi_fitness" package="com.metaflow.lumen" name="Mi Fitness" />
     <icon drawable="@drawable/mi_freeform" package="com.sunshine.freeform" name="Mi Freeform" />
     <icon drawable="@drawable/mi_music" package="com.miui.player" name="Music" />
     <icon drawable="@drawable/mi_music" package="org.lineageos.eleven" name="Music" />
@@ -1343,10 +1344,10 @@
     <icon drawable="@drawable/millenicom" package="com.solidict.millenicom" name="Millenicom" />
     <icon drawable="@drawable/ntfy" package="io.heckel.ntfy" name="ntfy" />
     <icon drawable="@drawable/kbb_trafik" package="com.iltelis.kbbtrafik" name="KBB Trafik" />
-	<icon drawable="@drawable/ykb" package="com.ykb.android" name="Yapı Kredi Mobil" />
-	<icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
-	<icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
-	<icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
+    <icon drawable="@drawable/ykb" package="com.ykb.android" name="Yapı Kredi Mobil" />
+    <icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
+    <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
+    <icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
