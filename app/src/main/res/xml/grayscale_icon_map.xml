@@ -381,8 +381,8 @@
     <icon drawable="@drawable/flightradar24" package="com.flightradar24free" name="Flightradar24" />
     <icon drawable="@drawable/flip_id" package="id.flip" name="Flip" />
     <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard" name="Florisboard" />
-    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.beta" name="Florisboard Beta" />
-    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.debug" name="Florisboard Debug" />
+    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.beta" name="Florisboard" />
+    <icon drawable="@drawable/florisboard" package="dev.patrickgold.florisboard.debug" name="Florisboard" />
     <icon drawable="@drawable/flstudio_mobile" package="com.imageline.FLM" name="FL Studio Mobile" />
     <icon drawable="@drawable/flud" package="com.delphicoder.flud" name="Flud" />
     <icon drawable="@drawable/flud" package="com.delphicoder.flud.paid" name="Flud" />
@@ -391,7 +391,7 @@
     <icon drawable="@drawable/fm_radio" package="com.caf.fmradio" name="FM Radio" />
     <icon drawable="@drawable/fm_radio" package="com.miui.fm" name="FM Radio" />
     <icon drawable="@drawable/fm_radio" package="com.motorola.fmplayer" name="FM Radio" />
-    <icon drawable="@drawable/fm_radio" package="com.radio.fmradio" name="Radio FM - Podcast App" />
+    <icon drawable="@drawable/fm_radio" package="com.radio.fmradio" name="Radio FM" />
     <icon drawable="@drawable/fm_radio" package="com.sec.android.app.fm" name="Radio" />
     <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
     <icon drawable="@drawable/forkgram" package="org.forkgram.messenger" name="Forkgram" />
@@ -448,8 +448,8 @@
     <icon drawable="@drawable/google_authenticator" package="com.google.android.apps.authenticator2" name="Google Authenticator" />
     <icon drawable="@drawable/google_chat" package="com.google.android.apps.dynamite" name="Google Chat" />
     <icon drawable="@drawable/google_chrome" package="com.android.chrome" name="Google Chrome" />
-    <icon drawable="@drawable/google_chrome" package="org.chromium.chrome" name="Chromium" />
-    <icon drawable="@drawable/google_chrome" package="org.ungoogled.chromium.stable" name="Ungoogled Chromium" />
+    <icon drawable="@drawable/google_chrome" package="org.chromium.chrome" name="Google Chrome" />
+    <icon drawable="@drawable/google_chrome" package="org.ungoogled.chromium.stable" name="Google Chrome" />
     <icon drawable="@drawable/google_chrome_beta" package="com.chrome.beta" name="Google Chrome Beta" />
     <icon drawable="@drawable/google_chrome_canary" package="com.chrome.canary" name="Google Chrome Canary" />
     <icon drawable="@drawable/google_chrome_dev" package="com.chrome.dev" name="Google Chrome Dev" />
@@ -1355,6 +1355,9 @@
     <icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
     <icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
+	<icon drawable="@drawable/recycle" package="mobi.inthepocket.fostplus.recyclage" name="Recycle" />
+	<icon drawable="@drawable/roov" package="com.myhousepass.app" name="ROOV" />
+	<icon drawable="@drawable/telenet_tv" package="be.telenet.tv" name="Telenet TV" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
