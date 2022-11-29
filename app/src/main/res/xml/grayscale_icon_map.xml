@@ -58,6 +58,7 @@
     <icon drawable="@drawable/axisnet" package="com.axis.net" name="AXISnet" />
     <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
     <icon drawable="@drawable/backdrops" package="com.backdrops.wallpapers" name="Backdrops" />
+    <icon drawable="@drawable/bandcamp" package="com.bandcamp.android" name="Bandcamp" />
     <icon drawable="@drawable/bandlab" package="com.bandlab.bandlab" name="BandLab" />
     <icon drawable="@drawable/bandsintown" package="com.bandsintown" name="Bandsintown" />
     <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
@@ -964,6 +965,7 @@
     <icon drawable="@drawable/simple_gallery" package="com.simplemobiletools.gallery" name="Simple Gallery" />
     <icon drawable="@drawable/simple_gallery" package="com.simplemobiletools.gallery.pro" name="Simple Gallery" />
     <icon drawable="@drawable/simplenote" package="com.automattic.simplenote" name="Simplenote" />
+    <icon drawable="@drawable/simplytranslate" package="com.simplytranslate_mobile" name="SimplyTranslate" />
     <icon drawable="@drawable/sketchbook" package="com.adsk.sketchbook" name="Sketchbook" />
     <icon drawable="@drawable/sky_children_of_the_light" package="com.tgc.sky.android" name="Sky: Children of the Light" />
     <icon drawable="@drawable/skype" package="com.skype.raider" name="Skype" />
@@ -1066,6 +1068,7 @@
     <icon drawable="@drawable/tile" package="com.thetileapp.tile" name="Tile" />
     <icon drawable="@drawable/tim" package="br.com.timbrasil.meutim" name="Meu Tim" />
     <icon drawable="@drawable/timetree" package="works.jubilee.timetree" name="TimeTree" />
+    <icon drawable="@drawable/tinder" package="com.tinder" name="Tinder" />
     <icon drawable="@drawable/tinkoff" package="com.idamob.tinkoff.android" name="Tinkoff" />
     <icon drawable="@drawable/tips" package="com.samsung.android.app.tips" name="Tips" />
     <icon drawable="@drawable/tipster" package="tipster.evolutioit.app" name="Tipster" />
