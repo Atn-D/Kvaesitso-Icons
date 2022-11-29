@@ -523,6 +523,7 @@
     <icon drawable="@drawable/ime" package="com.iMe.android" name="iMe" />
     <icon drawable="@drawable/imgurviewer" package="com.ensoft.imgurviewer" name="ImgurViewer" />
     <icon drawable="@drawable/imobile" package="com.csam.icici.bank.imobile" name="iMobile" />
+    <icon drawable="@drawable/indrive" package="sinet.startup.inDriver" name="inDrive" />
     <icon drawable="@drawable/infinity_for_reddit" package="ml.docilealligator.infinityforreddit" name="Infinity" />
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
@@ -1191,7 +1192,6 @@
     <icon drawable="@drawable/zepp_life" package="com.xiaomi.hm.health" name="Zepp Life" />
     <icon drawable="@drawable/zepto" package="com.zeptoconsumerapp" name="Zepto" />
     <icon drawable="@drawable/zoom" package="us.zoom.videomeetings" name="Zoom" />
-<<<<<<< HEAD
     <icon drawable="@drawable/apktool_m" package="ru.maximoff.apktool" name="Apktool M" />
     <icon drawable="@drawable/authenticatorpro" package="me.jmh.authenticatorpro" name="Authenticator Pro" />
     <icon drawable="@drawable/infektinfo" package="com.wdtec.infektinfo.hw" name="InfektInfo Fallzahlen Inzidenz" />
@@ -1383,8 +1383,4 @@
     <icon drawable="@array/grayscale_clock_icons" package="com.simplemobiletools.clock" />
     <icon drawable="@array/grayscale_clock_icons" package="com.sec.android.app.clockpackage" />
     <icon drawable="@array/grayscale_clock_icons" package="com.android.deskclock" />
-=======
-    <icon drawable="@drawable/wechat" package="com.tencent.mm" name="WeChat" />
-    <icon drawable="@drawable/indrive" package="sinet.startup.inDriver" name="inDrive" />
->>>>>>> 73570a6 (Add icon for inDrive (#863))
 </icons>
