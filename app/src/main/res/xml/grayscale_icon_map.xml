@@ -34,7 +34,7 @@
     <icon drawable="@drawable/another_notes_app" package="com.maltaisn.notes.sync" name="Another Notes" />
     <icon drawable="@drawable/antennapod" package="de.danoeh.antennapod" name="AntennaPod" />
     <icon drawable="@drawable/antutu" package="com.antutu.ABenchMark" name="AnTuTu Benchmark" />
-    <icon drawable="@drawable/antutu" package="com.antutu.benchmark.full" name="AnTuTu 3DBench" />
+    <icon drawable="@drawable/antutu" package="com.antutu.benchmark.full" name="AnTuTu Benchmark" />
     <icon drawable="@drawable/anydesk" package="com.anydesk.anydeskandroid" name="AnyDesk" />
     <icon drawable="@drawable/anything_to_pip" package="com.vitolaminafra.imagetopip" name="Anything to PiP" />
     <icon drawable="@drawable/apex_legends" package="com.ea.gp.apexlegendsmobilefps" name="Apex Legends Mobile" />
@@ -641,6 +641,7 @@
     <icon drawable="@drawable/meinvodafone" package="com.VodafoneIreland.MyVodafone" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/meinvodafone" package="com.myvodafoneapp" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/meinvodafone" package="com.vodafone.android" name="MeinVodafone / My Vodafone" />
+    <icon drawable="@drawable/meinvodafone" package="com.vodafone.selfservis" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/meinvodafone" package="it.vodafone.my190" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/messages" package="com.android.messaging" name="Messages" />
     <icon drawable="@drawable/messages" package="com.android.mms" name="Messages" />
@@ -1278,8 +1279,6 @@
     <icon drawable="@drawable/adguard" package="com.adguard.android" name="Adguard" />
     <icon drawable="@drawable/swift" package="fr.thema.wear.watch.swift" name="Swift Watch Face" />
     <icon drawable="@drawable/adobelightroom" package="com.adobe.lrmobile" name="Adobe Lightroom" />
-    <icon drawable="@drawable/vodafone" package="com.appseleration.android.selfcare" name="Vodafone" />
-    <icon drawable="@drawable/vodafone" package="com.vodafone.selfservis" name="Vodafone" />
     <icon drawable="@drawable/simplemusicplayer" package="com.simplemobiletools.musicplayer" name="Simple Music Player" />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android" />
     <icon drawable="@drawable/dkb" package="com.dkbcodefactory.banking" name="DKB" />
@@ -1342,8 +1341,8 @@
     <icon drawable="@drawable/arbeitstage" package="de.lausitzsoftware.workdays" name="Arbeitstage" />
     <icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
     <icon drawable="@drawable/epassgo" package="de.passgo.passgo" name="ePassGo" />
-    <icon drawable="@drawable/scanner" package="com.coolmobilesolution" name="Fast Scanner Pro" />
-    <icon drawable="@drawable/scanner" package="com.coolmobilesolution.fastscannerfree" name="Fast Scanner" />
+    <icon drawable="@drawable/scanner" package="com.coolmobilesolution" name="Pro" />
+    <icon drawable="@drawable/scanner" package="com.coolmobilesolution.fastscannerfree" name="Scanner" />
     <icon drawable="@drawable/gesundakte" package="zollsoft.de.patientapp" name="Gesundakte" />
     <icon drawable="@drawable/source_wall" package="nz.co.teamsean.matrix" name="Source Wall" />
     <icon drawable="@drawable/aktionmensch" package="de.aktionmensch.AMMobileAppDistribution" name="Aktion Mensch Lotterie" />
