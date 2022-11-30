@@ -11,4 +11,7 @@
     <string name="special_thanks">Özel teşekkür</string>
     <string name="special_thanks_icon">Uygulama simgesine ilham veren.</string>
     <string name="special_thanks_name">Uygulama ismine ilham veren.</string>
+    <string name="drawable_prefix">Drawable:</string>
+    <string name="package_prefix">Package:</string>
+    <string name="ok_button">OK</string>
 </resources>

@@ -11,4 +11,7 @@
     <string name="special_thanks">Besonderer Dank</string>
     <string name="special_thanks_icon">Für die Inspiration des App-Symbols.</string>
     <string name="special_thanks_name">Für die Namensgebung der App.</string>
+    <string name="drawable_prefix">Drawable:</string>
+    <string name="package_prefix">Package:</string>
+    <string name="ok_button">OK</string>
 </resources>
