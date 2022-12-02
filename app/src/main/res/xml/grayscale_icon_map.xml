@@ -886,8 +886,8 @@
     <icon drawable="@drawable/quillnote" package="org.qosp.notes" name="Quillnote" />
     <icon drawable="@drawable/quizduel" package="se.maginteractive.quizduel2" name="Quizduel" />
     <icon drawable="@drawable/quora" package="com.quora.android" name="Quora" />
-    <icon drawable="@drawable/quran" package="com.andi.alquran.en" name="Qur'an EN" />
-    <icon drawable="@drawable/quran" package="com.andi.alquran.id" name="Qur'an" />
+    <icon drawable="@drawable/quran" package="com.andi.alquran.en" name="Quran" />
+    <icon drawable="@drawable/quran" package="com.andi.alquran.id" name="Quran" />
     <icon drawable="@drawable/quran" package="com.quran.labs.androidquran" name="Quran" />
     <icon drawable="@drawable/rabo_wallet" package="nl.rabowallet" name="Rabo Wallet" />
     <icon drawable="@drawable/rabobank" package="nl.rabomobiel" name="rabobank" />
@@ -1369,6 +1369,12 @@
 	<icon drawable="@drawable/recycle" package="mobi.inthepocket.fostplus.recyclage" name="Recycle" />
 	<icon drawable="@drawable/roov" package="com.myhousepass.app" name="ROOV" />
 	<icon drawable="@drawable/telenet_tv" package="be.telenet.tv" name="Telenet TV" />
+	<icon drawable="@drawable/mycolruyt" package="be.colruyt.mycolruyt" name="MyColruyt" />
+	<icon drawable="@drawable/edevlet" package="tr.gov.turkiye.edevlet.kapisi" name="e-Devlet" />
+	<icon drawable="@drawable/enpara" package="finansbank.enpara" name="Enpara" />
+	<icon drawable="@drawable/hema" package="nl.hema.mobiel" name="HEMA" />
+	<icon drawable="@drawable/firefds" package="sb.firefds.s.firefdskit" name="Firefds Kit" />
+	<icon drawable="@drawable/grapheneos_pdf" package="com.gitlab.mudlej.MjPdfReader" name="PDF Viewer" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
