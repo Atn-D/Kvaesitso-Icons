@@ -580,6 +580,7 @@
     <icon drawable="@drawable/kicker" package="com.netbiscuits.kicker" name="kicker" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser" name="Kiwi Browser" />
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser.dev" name="Kiwi Browser" />
+    <icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna" />
     <icon drawable="@drawable/klck" package="org.kustom.lockscreen" name="KLCK" />
     <icon drawable="@drawable/klwp" package="org.kustom.wallpaper" name="KLWP" />
     <icon drawable="@drawable/knife_hit" package="com.ketchapp.knifehit" name="Knife Hit" />
@@ -1230,7 +1231,6 @@
     <icon drawable="@drawable/today_weather" package="mobi.lockdown.weather" name="Today Weather" />
     <icon drawable="@drawable/bild" package="com.netbiscuits.bild.android" name="BILD" />
     <icon drawable="@drawable/mein_o2" package="canvasm.myo2" name="Mein o2" />
-    <icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna" />
     <icon drawable="@drawable/shoop" package="de.shoop.app" name="Shoop" />
     <icon drawable="@drawable/surfshark" package="com.surfshark.vpnclient.android" name="Surfshark" />
     <icon drawable="@drawable/sticker_app" package="de.platzuff" name="StickerApp" />
