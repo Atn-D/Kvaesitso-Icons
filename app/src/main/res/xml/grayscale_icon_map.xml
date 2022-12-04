@@ -1328,7 +1328,6 @@
     <icon drawable="@drawable/fastmail" package="com.fastmail.app" name="Fastmail" />
     <icon drawable="@drawable/podcastaddict" package="com.bambuna.podcastaddict" name="Podcast Addict" />
     <icon drawable="@drawable/insular" package="com.oasisfeng.island.fdroid" name="Insular" />
-    <icon drawable="@drawable/insular" package="com.oasisfeng.island" name="Insular" />
     <icon drawable="@drawable/leaflet" package="com.potatoproject.notes" name="Leaflet" />
     <icon drawable="@drawable/supreader" package="com.s2apps.reader" name="Supreader" />
     <icon drawable="@drawable/dateikarten" package="rolandos.karteikarten" name="Karteikarten" />
