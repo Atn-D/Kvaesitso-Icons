@@ -1402,6 +1402,8 @@
 	<icon drawable="@drawable/izneo" package="fr.airweb.izneo" name="Izneo" />
 	<icon drawable="@drawable/mijn" package="be.cm.cmapp" name="Mijn CM - Ma MC" />
 	<icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
+	<icon drawable="@drawable/sodexo" package="com.sodexo.mySodexoCard" name="Sodexo4You" />
+	<icon drawable="@drawable/feza" package="com.innosoft.feza" name="Feza Bina" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
