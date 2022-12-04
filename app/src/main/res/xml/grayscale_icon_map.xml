@@ -1398,6 +1398,10 @@
 	<icon drawable="@drawable/obsidentify" package="org.observation.obsidentify" name="ObsIdentify" />
 	<icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
 	<icon drawable="@drawable/school_planner" package="com.swazerlab.schoolplanner" name="School Planner" />
+	<icon drawable="@drawable/gocube" package="com.particula.gocube" name="GoCube" />
+	<icon drawable="@drawable/izneo" package="fr.airweb.izneo" name="Izneo" />
+	<icon drawable="@drawable/mijn" package="be.cm.cmapp" name="Mijn CM - Ma MC" />
+	<icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
