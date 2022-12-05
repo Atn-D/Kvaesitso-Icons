@@ -1417,6 +1417,9 @@
 	<icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
 	<icon drawable="@drawable/sodexo" package="com.sodexo.mySodexoCard" name="Sodexo4You" />
 	<icon drawable="@drawable/feza" package="com.innosoft.feza" name="Feza Bina" />
+	<icon drawable="@drawable/debloater" package="com.sunilpaulmathew.debloater" name="De-Bloater" />
+	<icon drawable="@drawable/hepsiburada" package="com.pozitron.hepsiburada" name="Hepsiburada" />
+	<icon drawable="@drawable/covidsafe" package="be.fgov.ehealth.DGC" name="CovidSafe" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
