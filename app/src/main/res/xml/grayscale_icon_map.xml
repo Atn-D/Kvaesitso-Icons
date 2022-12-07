@@ -29,7 +29,7 @@
     <icon drawable="@drawable/amazon_shopping" package="com.amazon.mShop.android.shopping" name="Amazon Shopping" />
     <icon drawable="@drawable/amazon_shopping" package="in.amazon.mShop.android.shopping" name="Amazon Shopping" />
     <icon drawable="@drawable/amdroid" package="com.amdroidalarmclock.amdroid" name="AMdroid" />
-    <icon drawable="ii@drawable/amoled_in" package="in.amoled.darkawallpapers" name="Amoled.in" />
+    <icon drawable="@drawable/amoled_in" package="in.amoled.darkawallpapers" name="Amoled.in" />
     <icon drawable="@drawable/among_us" package="com.innersloth.spacemafia" name="Among Us" />
     <icon drawable="@drawable/android_auto" package="com.google.android.projection.gearhead" name="Android Auto" />
     <icon drawable="@drawable/angry_birds_journey" package="com.rovio.abcasual" name="Angry Birds Journey" />
