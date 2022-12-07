@@ -485,6 +485,7 @@
     <icon drawable="@drawable/google_messages" package="com.google.android.apps.messaging" name="Messages" />
     <icon drawable="@drawable/google_news" package="com.google.android.apps.magazines" name="Google News" />
     <icon drawable="@drawable/google_one" package="com.google.android.apps.subscriptions.red" name="Google One" />
+    <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards" />
     <icon drawable="@drawable/google_pay" package="com.google.android.apps.nbu.paisa.user" name="Google Pay" />
     <icon drawable="@drawable/google_phone" package="com.android.phone" name="Phone" />
     <icon drawable="@drawable/google_phone" package="com.google.android.dialer" name="Phone" />
@@ -1247,7 +1248,6 @@
     <icon drawable="@drawable/infektinfo" package="com.wdtec.infektinfo.hw" name="InfektInfo Fallzahlen Inzidenz" />
     <icon drawable="@drawable/facer" package="com.jeremysteckling.facerrel" name="Facer" />
     <icon drawable="@drawable/fotmob" package="com.mobilefootie.wc2010" name="FotMob" />
-    <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards" />
     <icon drawable="@drawable/mpatcher" package="ru.maximoff.sheller" name="MPatcher" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
     <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite" />
