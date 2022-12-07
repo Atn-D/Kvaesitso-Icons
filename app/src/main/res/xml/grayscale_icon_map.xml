@@ -952,7 +952,7 @@
     <icon drawable="@drawable/samsung_internet_browser" package="com.sec.android.app.sbrowser" name="Samsung Internet Browser" />
     <icon drawable="@drawable/samsung_internet_browser_beta" package="com.sec.android.app.sbrowser.beta" name="Samsung Internet Browser Beta" />
     <icon drawable="@drawable/samsung_notes" package="com.samsung.android.app.notes" name="Samsung Notes" />
-    <icon drawable="@drawable/sbb_mobile" package="ch.sbb.mobile.adroid.b2c" name="SBB Mobile" />
+    <icon drawable="@drawable/sbb_mobile" package="ch.sbb.mobile.android.b2c" name="SBB Mobile" />
     <icon drawable="@drawable/scanner" package="com.xiaomi.scanner" name="Scanner" />
     <icon drawable="@drawable/schildichat" package="de.spiritcroc.riotx" name="SchildiChat" />
     <icon drawable="@drawable/schoolplanner" package="daldev.android.gradehelper" name="School Planner" />
@@ -1397,34 +1397,34 @@
     <icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
     <icon drawable="@drawable/my_arval_mobile" package="com.arval.myarvalmobilenl" name="My Arval Mobile" />
-	<icon drawable="@drawable/recycle" package="mobi.inthepocket.fostplus.recyclage" name="Recycle" />
-	<icon drawable="@drawable/roov" package="com.myhousepass.app" name="ROOV" />
-	<icon drawable="@drawable/telenet_tv" package="be.telenet.tv" name="Telenet TV" />
-	<icon drawable="@drawable/mycolruyt" package="be.colruyt.mycolruyt" name="MyColruyt" />
-	<icon drawable="@drawable/edevlet" package="tr.gov.turkiye.edevlet.kapisi" name="e-Devlet" />
-	<icon drawable="@drawable/enpara" package="finansbank.enpara" name="Enpara" />
-	<icon drawable="@drawable/hema" package="nl.hema.mobiel" name="HEMA" />
-	<icon drawable="@drawable/firefds" package="sb.firefds.s.firefdskit" name="Firefds Kit" />
-	<icon drawable="@drawable/grapheneos_pdf" package="com.gitlab.mudlej.MjPdfReader" name="PDF Viewer" />
-	<icon drawable="@drawable/f411" package="marlon.mobilefor_4411" name="4411" />
-	<icon drawable="@drawable/child_growth_tracker" package="com.abqappsource.childgrowthtracker" name="Child Growth Tracker" />
-	<icon drawable="@drawable/hypatia" package="us.spotco.malwarescanner" name="Hypatia" />
-	<icon drawable="@drawable/obsidentify" package="org.observation.obsidentify" name="ObsIdentify" />
-	<icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
-	<icon drawable="@drawable/school_planner" package="com.swazerlab.schoolplanner" name="School Planner" />
-	<icon drawable="@drawable/gocube" package="com.particula.gocube" name="GoCube" />
-	<icon drawable="@drawable/izneo" package="fr.airweb.izneo" name="Izneo" />
-	<icon drawable="@drawable/mijn" package="be.cm.cmapp" name="Mijn CM - Ma MC" />
-	<icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
-	<icon drawable="@drawable/sodexo" package="com.sodexo.mySodexoCard" name="Sodexo4You" />
-	<icon drawable="@drawable/feza" package="com.innosoft.feza" name="Feza Bina" />
-	<icon drawable="@drawable/debloater" package="com.sunilpaulmathew.debloater" name="De-Bloater" />
-	<icon drawable="@drawable/hepsiburada" package="com.pozitron.hepsiburada" name="Hepsiburada" />
-	<icon drawable="@drawable/covidsafe" package="be.fgov.ehealth.DGC" name="CovidSafe" />
-	<icon drawable="@drawable/comic_geeks" package="com.LeagueofComicGeeks.app2" name="Comic Geeks" />
-	<icon drawable="@drawable/my_tp_list" package="cz.extremeturtle.pratchettchecklist" name="My TP list" />
-	<icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
-	<icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
+    <icon drawable="@drawable/recycle" package="mobi.inthepocket.fostplus.recyclage" name="Recycle" />
+    <icon drawable="@drawable/roov" package="com.myhousepass.app" name="ROOV" />
+    <icon drawable="@drawable/telenet_tv" package="be.telenet.tv" name="Telenet TV" />
+    <icon drawable="@drawable/mycolruyt" package="be.colruyt.mycolruyt" name="MyColruyt" />
+    <icon drawable="@drawable/edevlet" package="tr.gov.turkiye.edevlet.kapisi" name="e-Devlet" />
+    <icon drawable="@drawable/enpara" package="finansbank.enpara" name="Enpara" />
+    <icon drawable="@drawable/hema" package="nl.hema.mobiel" name="HEMA" />
+    <icon drawable="@drawable/firefds" package="sb.firefds.s.firefdskit" name="Firefds Kit" />
+    <icon drawable="@drawable/grapheneos_pdf" package="com.gitlab.mudlej.MjPdfReader" name="PDF Viewer" />
+    <icon drawable="@drawable/f411" package="marlon.mobilefor_4411" name="4411" />
+    <icon drawable="@drawable/child_growth_tracker" package="com.abqappsource.childgrowthtracker" name="Child Growth Tracker" />
+    <icon drawable="@drawable/hypatia" package="us.spotco.malwarescanner" name="Hypatia" />
+    <icon drawable="@drawable/obsidentify" package="org.observation.obsidentify" name="ObsIdentify" />
+    <icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
+    <icon drawable="@drawable/school_planner" package="com.swazerlab.schoolplanner" name="School Planner" />
+    <icon drawable="@drawable/gocube" package="com.particula.gocube" name="GoCube" />
+    <icon drawable="@drawable/izneo" package="fr.airweb.izneo" name="Izneo" />
+    <icon drawable="@drawable/mijn" package="be.cm.cmapp" name="Mijn CM - Ma MC" />
+    <icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
+    <icon drawable="@drawable/sodexo" package="com.sodexo.mySodexoCard" name="Sodexo4You" />
+    <icon drawable="@drawable/feza" package="com.innosoft.feza" name="Feza Bina" />
+    <icon drawable="@drawable/debloater" package="com.sunilpaulmathew.debloater" name="De-Bloater" />
+    <icon drawable="@drawable/hepsiburada" package="com.pozitron.hepsiburada" name="Hepsiburada" />
+    <icon drawable="@drawable/covidsafe" package="be.fgov.ehealth.DGC" name="CovidSafe" />
+    <icon drawable="@drawable/comic_geeks" package="com.LeagueofComicGeeks.app2" name="Comic Geeks" />
+    <icon drawable="@drawable/my_tp_list" package="cz.extremeturtle.pratchettchecklist" name="My TP list" />
+    <icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
+    <icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
