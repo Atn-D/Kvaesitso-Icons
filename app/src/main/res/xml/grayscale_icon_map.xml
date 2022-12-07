@@ -1423,6 +1423,7 @@
 	<icon drawable="@drawable/comic_geeks" package="com.LeagueofComicGeeks.app2" name="Comic Geeks" />
 	<icon drawable="@drawable/my_tp_list" package="cz.extremeturtle.pratchettchecklist" name="My TP list" />
 	<icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
+	<icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
