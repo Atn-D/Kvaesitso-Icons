@@ -113,7 +113,7 @@
     <icon drawable="@drawable/bromite" package="org.bromite.bromite" name="Bromite" />
     <icon drawable="@drawable/browsec" package="com.browsec.vpn" name="BROWSEC" />
     <icon drawable="@drawable/browsec" package="com.browsec.vpn.proxy" name="BROWSEC" />
-	<icon drawable="@drawable/browser" package="com.android.browser" name="Browser" />
+    <icon drawable="@drawable/browser" package="com.android.browser" name="Browser" />
     <icon drawable="@drawable/browser" package="de.baumann.browser" name="Browser" />
     <icon drawable="@drawable/browser" package="foundation.e.browser" name="Browser" />
     <icon drawable="@drawable/browser" package="org.droidtr.jelly" name="Browser" />
@@ -180,7 +180,7 @@
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Cameight" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Urnyx" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />
-	<icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEngR15" name="Camera" />
+    <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEngR15" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraGood" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraLMC" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.apps.cameralite" name="Camera" />
@@ -246,7 +246,7 @@
     <icon drawable="@drawable/connect" package="com.garmin.android.apps.connectmobile" name="Connect" />
     <icon drawable="@drawable/contacts" package="com.samsung.android.app.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts" name="Contacts" />
-    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Simple Contacts" />
+    <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Contacts" />
     <icon drawable="@drawable/cookbook" package="com.nextcloud_cookbook_flutter" name="Nextcloud Cookbook" />
     <icon drawable="@drawable/cookbook" package="de.micmun.android.nextcloudcookbook" name="Nextcloud Cookbook" />
     <icon drawable="@drawable/cookbook" package="de.uni_potsdam.hpi.openmensa" name="Nextcloud Cookbook" />
@@ -369,14 +369,14 @@
     <icon drawable="@drawable/figma" package="com.figma.mirror" name="Figma" />
     <icon drawable="@drawable/files" package="com.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.android.fileexplorer" name="Files" />
-	<icon drawable="@drawable/files" package="com.android.filemanager" name="Files" />
+    <icon drawable="@drawable/files" package="com.android.filemanager" name="Files" />
     <icon drawable="@drawable/files" package="com.coloros.files" name="Files" />
     <icon drawable="@drawable/files" package="com.google.android.documentsui" name="Files" />
     <icon drawable="@drawable/files" package="com.huawei.hidisk" name="Files" />
     <icon drawable="@drawable/files" package="com.marc.files" name="Files" />
     <icon drawable="@drawable/files" package="com.oneplus.filemanager" name="Files" />
     <icon drawable="@drawable/files" package="com.sec.android.app.myfiles" name="Files" />
-    <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="" />
+    <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager" name="Files" />
     <icon drawable="@drawable/files" package="com.simplemobiletools.filemanager.pro" name="Files" />
     <icon drawable="@drawable/files" package="me.zhanghai.android.files" name="Files" />
     <icon drawable="@drawable/files" package="org.aospstudio.files" name="Files" />
@@ -423,7 +423,7 @@
     <icon drawable="@drawable/fritter" package="com.jonjomckay.fritter" name="Fritter" />
     <icon drawable="@drawable/fxxxs_given" package="rocks.poopjournal.fucksgiven" name="F***s Given" />
     <icon drawable="@drawable/galaxy_store" package="com.sec.android.app.samsungapps" name="Galaxy Store" />
-	<icon drawable="@drawable/gallery" package="com.alensw.PicFolder" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="com.alensw.PicFolder" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.android.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.huawei.photos" name="Gallery" />
@@ -1437,14 +1437,14 @@
     <icon drawable="@drawable/my_tp_list" package="cz.extremeturtle.pratchettchecklist" name="My TP list" />
     <icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
     <icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
-	<icon drawable="@drawable/getapps" package="com.xiaomi.mipicks" name="GetApps" />
-	<icon drawable="@drawable/mi_security" package="com.miui.securitycenter" name="Mi Security" />
-	<icon drawable="@drawable/feedback" package="com.miui.miservice" name="Services &amp; Feedback" />
-	<icon drawable="@drawable/feedback" package="com.miui.bugreport" name="Services &amp; Feedback" />
-	<icon drawable="@drawable/feedback" package="com.huawei.phoneservice" name="Services &amp; Feedback" />
-	<icon drawable="@drawable/feedback" package="com.motorola.genie" name="Services &amp; Feedback" />
-	<icon drawable="@drawable/feedback" package="com.vivo.website" name="Services &amp; Feedback" />
-	<icon drawable="@drawable/mtmanager" package="bin.mt.plus" name="MT Manager" />
+    <icon drawable="@drawable/getapps" package="com.xiaomi.mipicks" name="GetApps" />
+    <icon drawable="@drawable/mi_security" package="com.miui.securitycenter" name="Mi Security" />
+    <icon drawable="@drawable/feedback" package="com.miui.miservice" name="Services &amp; Feedback" />
+    <icon drawable="@drawable/feedback" package="com.miui.bugreport" name="Services &amp; Feedback" />
+    <icon drawable="@drawable/feedback" package="com.huawei.phoneservice" name="Services &amp; Feedback" />
+    <icon drawable="@drawable/feedback" package="com.motorola.genie" name="Services &amp; Feedback" />
+    <icon drawable="@drawable/feedback" package="com.vivo.website" name="Services &amp; Feedback" />
+    <icon drawable="@drawable/mtmanager" package="bin.mt.plus" name="MT Manager" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
