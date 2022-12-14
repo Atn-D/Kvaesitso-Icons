@@ -1462,7 +1462,7 @@
     <icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
     <icon drawable="@drawable/musixmatch" package="com.musixmatch.android.lyrify" name="Musixmatch" />
     <icon drawable="@drawable/getapps" package="com.xiaomi.mipicks" name="GetApps" />
-    <icon drawable="@drawable/mi_security" package="com.miui.securitycenter" name="Mi Security" />
+    <icon drawable="@drawable/nearbysharing" package="de.shortdev.nearby_sharing_windows" name="Nearby Sharing Windows 10 / 11" />
     <icon drawable="@drawable/feedback" package="com.miui.miservice" name="Services &amp; Feedback" />
     <icon drawable="@drawable/feedback" package="com.miui.bugreport" name="Services &amp; Feedback" />
     <icon drawable="@drawable/feedback" package="com.huawei.phoneservice" name="Services &amp; Feedback" />
