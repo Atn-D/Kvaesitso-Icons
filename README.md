@@ -18,6 +18,13 @@ Note that you'll need to have a GitHub account to download the Lawnicons file.
 
 Or join the [Telegram Group](https://t.me/KvaesitsoIcons)
 
+## Translate
+
+If you want to help translating, go to [the project page](https://i18n.mm20.de/projects/kvaesitso-icons/strings/)
+
+<a href="https://i18n.mm20.de/projects/kvaesitso-icons/strings/">
+<img src="https://i18n.mm20.de/widgets/kvaesitso-icons/-/287x66-grey.png" alt ="Translation Status">
+</a>
 
 ## License
 
@@ -26,3 +33,7 @@ Lawnicons is licensed under the [Apache License 2.0](https://www.apache.org/lice
 ## Quick links
 
 - [Kvaesitso Website](https://kvaesitso.mm20.de/)
+
+## Credits
+
+All lawnicons contributors and [MM2-0](https://github.com/MM2-0) for his weblate instance
