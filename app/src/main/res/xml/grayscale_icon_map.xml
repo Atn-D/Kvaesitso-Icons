@@ -1471,6 +1471,12 @@
     <icon drawable="@drawable/feedback" package="com.vivo.website" name="Services &amp; Feedback" />
     <icon drawable="@drawable/mtmanager" package="bin.mt.plus" name="MT Manager" />
 	<icon drawable="@drawable/rboard_creator" package="de.dertyp7214.rboardthememanager" name="Rboard Theme Manager" />
+	<icon drawable="@drawable/packages_names" package="com.csdroid.pkg" name="Package Names" />
+	<icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
+	<icon drawable="@drawable/starbucks" package="com.starbucks.tr" name="Starbucks" />
+	<icon drawable="@drawable/garanti_bbva" package="com.garanti.cepsubesi" name="Garanti BBVA" />
+	<icon drawable="@drawable/getir" package="com.getir" name="getir" />
+	<icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
