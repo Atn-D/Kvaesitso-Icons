@@ -1474,17 +1474,17 @@
     <icon drawable="@drawable/feedback" package="com.motorola.genie" name="Services &amp; Feedback" />
     <icon drawable="@drawable/feedback" package="com.vivo.website" name="Services &amp; Feedback" />
     <icon drawable="@drawable/mtmanager" package="bin.mt.plus" name="MT Manager" />
-	<icon drawable="@drawable/rboard_creator" package="de.dertyp7214.rboardthememanager" name="Rboard Theme Manager" />
-	<icon drawable="@drawable/packages_names" package="com.csdroid.pkg" name="Package Names" />
-	<icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
-	<icon drawable="@drawable/starbucks" package="com.starbucks.tr" name="Starbucks" />
-	<icon drawable="@drawable/garanti_bbva" package="com.garanti.cepsubesi" name="Garanti BBVA" />
-	<icon drawable="@drawable/getir" package="com.getir" name="getir" />
-	<icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
-	<icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
-	<icon drawable="@drawable/google_webview_devtools" package="com.google.android.webview" name="Google WebView DevTools" />
-	<icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.beta" name="Google WebView DevTools Beta" />
-	<icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.canary" name="Google WebView DevTools Canery" />
+    <icon drawable="@drawable/rboard_creator" package="de.dertyp7214.rboardthememanager" name="Rboard Theme Manager" />
+    <icon drawable="@drawable/packages_names" package="com.csdroid.pkg" name="Package Names" />
+    <icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
+    <icon drawable="@drawable/starbucks" package="com.starbucks.tr" name="Starbucks" />
+    <icon drawable="@drawable/garanti_bbva" package="com.garanti.cepsubesi" name="Garanti BBVA" />
+    <icon drawable="@drawable/getir" package="com.getir" name="getir" />
+    <icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
+    <icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
+    <icon drawable="@drawable/google_webview_devtools" package="com.google.android.webview" name="Google WebView DevTools" />
+    <icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.beta" name="Google WebView DevTools Beta" />
+    <icon drawable="@drawable/google_webview_devtools_canary" package="com.google.android.webview.canary" name="Google WebView DevTools Canery" />
     <icon drawable="@drawable/google_webview_devtools_dev" package="com.google.android.webview.dev" name="Google WebView DevTools Dev" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
