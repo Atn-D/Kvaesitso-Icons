@@ -425,7 +425,6 @@
     <icon drawable="@drawable/fritter" package="com.jonjomckay.fritter" name="Fritter" />
     <icon drawable="@drawable/fxxxs_given" package="rocks.poopjournal.fucksgiven" name="F***s Given" />
     <icon drawable="@drawable/galaxy_store" package="com.sec.android.app.samsungapps" name="Galaxy Store" />
-    <icon drawable="@drawable/gallery" package="com.alensw.PicFolder" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.android.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.coloros.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.huawei.photos" name="Gallery" />
@@ -1477,6 +1476,9 @@
 	<icon drawable="@drawable/garanti_bbva" package="com.garanti.cepsubesi" name="Garanti BBVA" />
 	<icon drawable="@drawable/getir" package="com.getir" name="getir" />
 	<icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
+	<icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
+	<icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.canary" name="Google WebView DevTools Beta" />
+	<icon drawable="@drawable/google_webview_devtools" package="com.google.android.webview" name="Google WebView DevTools" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
