@@ -1482,10 +1482,10 @@
 	<icon drawable="@drawable/getir" package="com.getir" name="getir" />
 	<icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
 	<icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
-	<icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview..beta" name="Google WebView DevTools Beta" />
-   <icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.dev" name="Google WebView DevTools Beta" />
-   <icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.canary" name="Google WebView DevTools Beta" />
 	<icon drawable="@drawable/google_webview_devtools" package="com.google.android.webview" name="Google WebView DevTools" />
+	<icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.beta" name="Google WebView DevTools Beta" />
+	<icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.canary" name="Google WebView DevTools Canery" />
+    <icon drawable="@drawable/google_webview_devtools_dev" package="com.google.android.webview.dev" name="Google WebView DevTools Dev" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
