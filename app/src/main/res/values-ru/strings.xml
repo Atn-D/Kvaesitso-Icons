@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="about">О приложении</string>
-    <string name="core_contributors">Основные Контрибьюторы</string>
-    <string name="see_all_contributors">Список Контрибьюторов</string>
-    <string name="special_thanks">Большое Спасибо</string>
+    <string name="core_contributors">Основные контрибьюторы</string>
+    <string name="see_all_contributors">Список контрибьюторов</string>
+    <string name="special_thanks">Большое спасибо</string>
     <string name="special_thanks_icon">За идею.</string>
     <string name="app_name">Kvaesitso Icons</string>
     <string name="special_thanks_name">За название.</string>
