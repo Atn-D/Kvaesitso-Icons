@@ -9,7 +9,7 @@
     <string name="special_thanks_icon">Pour inspirer l\'icône de l\'application.</string>
     <string name="special_thanks_name">Pour nommer l\'application.</string>
     <string name="drawable_prefix">Drawable:</string>
-    <string name="package_prefix">Package:</string>
+    <string name="package_prefix">Nom du paquet:</string>
     <string name="ok_button">D\'accord</string>
     <string name="search_bar_hint">Rechercher %d Icônes</string>
     <string name="contributors">Contributeurs</string>
