@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-	<resources>
+<resources>
     <string name="app_name">Kvaesitso Simgeler</string>
     <string name="version_x">Versiyon %s</string>
     <string name="search_bar_hint">%d Simge Ara</string>
@@ -13,5 +13,5 @@
     <string name="special_thanks_name">Uygulama ismine ilham veren.</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Package:</string>
-    <string name="ok_button">OK</string>
+    <string name="ok_button">Tamam</string>
 </resources>
