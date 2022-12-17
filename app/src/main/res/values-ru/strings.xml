@@ -8,7 +8,10 @@
     <string name="app_name">Kvaesitso Icons</string>
     <string name="special_thanks_name">За название.</string>
     <string name="version_x">Версия %s</string>
-    <string name="search_bar_hint">Поиск среди %s значков</string>
+    <string name="search_bar_hint">Поиск среди %d значков</string>
     <string name="acknowledgements">Лицензии</string>
     <string name="contributors">Контрибьюторы</string>
+    <string name="drawable_prefix">Drawable:</string>
+    <string name="package_prefix">Package:</string>
+    <string name="ok_button">Хорошо</string>
 </resources>
