@@ -1,4 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Kvaesitso Icons</string>
+    <string name="acknowledgements">Remerciements</string>
+    <string name="about">À propos de</string>
+    <string name="version_x">Version %s</string>
+    <string name="core_contributors">Principaux contributeurs</string>
+    <string name="special_thanks">Remerciements spéciaux</string>
+    <string name="special_thanks_icon">Pour inspirer l\'icône de l\'application.</string>
+    <string name="special_thanks_name">Pour nommer l\'application.</string>
+    <string name="drawable_prefix">Drawable:</string>
+    <string name="package_prefix">Package:</string>
+    <string name="ok_button">D\'accord</string>
+    <string name="search_bar_hint">Rechercher %d Icônes</string>
+    <string name="contributors">Contributeurs</string>
+    <string name="see_all_contributors">Voir tous les contributeurs</string>
 </resources>
