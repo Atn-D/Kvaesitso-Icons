@@ -21,7 +21,7 @@ android {
         versionCode = 2
         versionName = "1.1.0"
         vectorDrawables.useSupportLibrary = true
-        resourceConfigurations.addAll(getListOfSupportedLocales())
+        
     }
     
     val keystorePropertiesFile = rootProject.file("keystore.properties")
