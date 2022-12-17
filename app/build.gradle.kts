@@ -17,12 +17,13 @@ android {
     defaultConfig {
         applicationId = "de.kvaesitso.icons"
         minSdk = 26
-        targetSdk = 31
+        targetSdk = 33
         versionCode = 2
         versionName = "1.1.0"
         vectorDrawables.useSupportLibrary = true
+        resourceConfigurations.addAll(getListOfSupportedLocales())
     }
-
+    
     val keystorePropertiesFile = rootProject.file("keystore.properties")
     val releaseSigning = if (keystorePropertiesFile.exists()) {
         val keystoreProperties = Properties()
@@ -117,4 +118,52 @@ dependencies {
     implementation("io.coil-kt:coil-compose:2.2.2")
     implementation("com.squareup.retrofit2:retrofit:$retrofitVersion")
     implementation("com.squareup.retrofit2:converter-gson:$retrofitVersion")
+}
+fun getListOfSupportedLocales(): List<String> {
+    val resFolder = file(projectDir.resolve("src/main/res"))
+
+    return resFolder.list { _, s ->
+        s.startsWith("values")
+    }?.filter { folder ->
+        val stringsSize = resFolder.resolve("$folder/strings.xml").length()
+        // values/strings.xml is over 13k in size so this filters out too partial translations
+        stringsSize > 10_000L
+    }?.map { folder ->
+        if (folder == "values") {
+            "en"
+        } else {
+            folder.substringAfter("values-")
+        }
+    }?.sorted()
+        ?: listOf("en")
+}
+
+tasks {
+    register("generateLocalesConfig") {
+        val resFolder = file(projectDir.resolve("src/main/res"))
+        inputs.files(
+            resFolder.listFiles { file ->
+                file.name.startsWith("values")
+            }?.map { file ->
+                file.resolve("strings.xml")
+            } ?: error("Could not resolve values folders!")
+        )
+
+        val localesConfigFile = file(projectDir.resolve("src/main/res/xml/locales_config.xml"))
+        outputs.file(projectDir.resolve("src/main/res/xml/locales_config.xml"))
+
+        doLast {
+            val langs = getListOfSupportedLocales()
+            val localesConfig = """
+                <?xml version="1.0" encoding="utf-8"?>
+                <locale-config xmlns:android="http://schemas.android.com/apk/res/android">
+${langs.joinToString("\n") { "                  <locale android:name=\"$it\"/>" }}
+                </locale-config>
+            """.trimIndent()
+
+            localesConfigFile.bufferedWriter().use { writer ->
+                writer.write(localesConfig)
+            }
+        }
+    }
 }
