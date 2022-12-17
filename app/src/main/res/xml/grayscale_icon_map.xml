@@ -646,10 +646,10 @@
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android" name="Mastodon" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android.sk" name="Mastodon" />
-    <icon drawable="@drawable/material_catalog" package="androidx.compose.material.catalog" name="Compose Material Catalog" />
-    <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="MaterialGallery " />
+    <icon drawable="@drawable/material_catalog" package="androidx.compose.material.catalog" name="Material Catalog" />
+    <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="Material Catalog " />
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
-    <icon drawable="@drawable/material_catalog" package="io.materialdesign.catalog" name="M3 Catalog" />
+    <icon drawable="@drawable/material_catalog" package="io.materialdesign.catalog" name="Material Catalog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog.debug" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matloglibre" name="MatLog" />
@@ -812,7 +812,7 @@
     <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />
     <icon drawable="@drawable/oto_music" package="de.moekadu.tuner" name="Oto Music" />
     <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.free" name="Overdrop" />
-    <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.pro" name="Overdrop Pro" />
+    <icon drawable="@drawable/overdrop" package="widget.dd.com.overdrop.pro" name="Overdrop" />
     <icon drawable="@drawable/ovinfo" package="nl.skywave.ovinfo" name="OVinfo" />
     <icon drawable="@drawable/ovo" package="ovo.id" name="OVO" />
     <icon drawable="@drawable/owlgram" package="it.owlgram.android" name="OwlGram" />
@@ -1186,6 +1186,7 @@
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
     <icon drawable="@drawable/valetudo" package="cloud.valetudo.companion" name="Valetudo Companion" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
+	<icon drawable="@drawable/vanced_youtube" package="com.vanced.android.youtube" name="YouTube Vanced" />
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
@@ -1260,12 +1261,11 @@
     <icon drawable="@drawable/yousician" package="com.yousician.yousician" name="Yousician" />
     <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_kids" package="com.google.android.apps.youtube.kids" name="YT Kids" />
-    <icon drawable="@drawable/youtube_revanced" package="app.revanced.android.apps.youtube.music" name="Revanced Manager" />
+    <icon drawable="@drawable/revanced_youtube_music" package="app.revanced.android.apps.youtube.music" name="Revanced Youtube Music" />
     <icon drawable="@drawable/youtube_music" package="com.google.android.apps.youtube.music" name="YouTube Music" />
-    <icon drawable="@drawable/youtube_revanced" package="app.revanced.android.youtube" name="ReVanced Manager" />
-    <icon drawable="@drawable/youtube_revanced" package="app.revanced.manager.flutter" name="ReVanced Manager" />
+    <icon drawable="@drawable/revanced_youtube" package="app.revanced.android.youtube" name="ReVanced Youtube" />
+    <icon drawable="@drawable/revanced_manager" package="app.revanced.manager.flutter" name="ReVanced Manager" />
     <icon drawable="@drawable/youtube_tv" package="com.google.android.apps.youtube.unplugged" name="YouTube TV" />
-    <icon drawable="@drawable/youtube_vanced" package="com.vanced.android.youtube" name="YouTube Vanced" />
     <icon drawable="@drawable/youversion" package="com.sirma.mobile.bible.android" name="Bible" />
     <icon drawable="@drawable/ytstudio" package="com.google.android.apps.youtube.creator" name="YouTube Studio" />
     <icon drawable="@drawable/yuka" package="io.yuka.android" name="Yuka" />
