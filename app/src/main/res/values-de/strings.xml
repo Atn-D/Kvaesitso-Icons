@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_name">Kvaesitso Icons</string>
-    <string name="search_bar_hint">%d Icons durchsuchen</string>
+    <string name="app_name">Kvaesitso Icons</string>
+    <string name="search_bar_hint">%d Symbole durchsuchen</string>
     <string name="acknowledgements">Danksagungen</string>
     <string name="about">Über</string>
     <string name="version_x">Version %s</string>
@@ -12,6 +12,6 @@
     <string name="special_thanks_icon">Für die Inspiration des App-Symbols.</string>
     <string name="special_thanks_name">Für die Namensgebung der App.</string>
     <string name="drawable_prefix">Drawable:</string>
-    <string name="package_prefix">Package:</string>
+    <string name="package_prefix">Paketname:</string>
     <string name="ok_button">OK</string>
 </resources>
