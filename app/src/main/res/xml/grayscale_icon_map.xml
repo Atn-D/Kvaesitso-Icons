@@ -647,7 +647,7 @@
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android" name="Mastodon" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android.sk" name="Mastodon" />
     <icon drawable="@drawable/material_catalog" package="androidx.compose.material.catalog" name="Material Catalog" />
-    <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="Material Catalog " />
+    <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.materialdesign.catalog" name="Material Catalog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
