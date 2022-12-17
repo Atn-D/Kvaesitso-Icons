@@ -1486,6 +1486,15 @@
     <icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.beta" name="Google WebView DevTools Beta" />
     <icon drawable="@drawable/google_webview_devtools_canary" package="com.google.android.webview.canary" name="Google WebView DevTools Canery" />
     <icon drawable="@drawable/google_webview_devtools_dev" package="com.google.android.webview.dev" name="Google WebView DevTools Dev" />
+	<icon drawable="@drawable/de_tijd" package="mobi.inthepocket.mediafin.detijd" name="De Tijd" />
+	<icon drawable="@drawable/kayseri_ulam" package="com.aktifbank.nkolaykayseriulasim" name="Kayseri Ulaşım" />
+	<icon drawable="@drawable/lc_waikiki" package="com.lcwaikiki.android" name="LC Waikiki" />
+	<icon drawable="@drawable/music_widget" package="com.lstapps.musicwidgetandroid12" name="Music Widget" />
+	<icon drawable="@drawable/sneakpeek" package="be.skagen.skgn" name="SneakPeek" />
+	<icon drawable="@drawable/soulmate_coffee_bakery" package="com.soulmate.coffee" name="Soulmate Coffee Bakery" />
+	<icon drawable="@drawable/teehub" package="com.okmarco.teehub" name="TeeHub" />
+	<icon drawable="@drawable/tkla_gelsin" package="com.ataexpress.tiklagelsin" name="Tıkla Gelsin" />
+	<icon drawable="@drawable/yemeksepeti" package="com.inovel.app.yemeksepeti" name="Yemeksepeti" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
