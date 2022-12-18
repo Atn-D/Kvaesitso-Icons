@@ -957,6 +957,9 @@
     <icon drawable="@drawable/republik" package="app.republik" name="Republik" />
     <icon drawable="@drawable/retro_music" package="code.name.monkey.retromusic" name="Retro Music" />
     <icon drawable="@drawable/retro_music" package="io.github.muntashirakon.Music" name="Metro" />
+	<icon drawable="@drawable/revanced_manager" package="app.revanced.manager.flutter" name="ReVanced Manager" />
+	<icon drawable="@drawable/revanced_youtube" package="app.revanced.android.youtube" name="ReVanced Youtube" />
+	<icon drawable="@drawable/revanced_youtube_music" package="app.revanced.android.apps.youtube.music" name="Revanced Youtube Music" />
     <icon drawable="@drawable/reverso_context" package="com.softissimo.reverso.context" name="Reverso Context" />
     <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
     <icon drawable="@drawable/revolt" package="com.revolt" name="Revolt" />
@@ -1261,10 +1264,7 @@
     <icon drawable="@drawable/yousician" package="com.yousician.yousician" name="Yousician" />
     <icon drawable="@drawable/youtube" package="com.google.android.youtube" name="YouTube" />
     <icon drawable="@drawable/youtube_kids" package="com.google.android.apps.youtube.kids" name="YT Kids" />
-    <icon drawable="@drawable/revanced_youtube_music" package="app.revanced.android.apps.youtube.music" name="Revanced Youtube Music" />
     <icon drawable="@drawable/youtube_music" package="com.google.android.apps.youtube.music" name="YouTube Music" />
-    <icon drawable="@drawable/revanced_youtube" package="app.revanced.android.youtube" name="ReVanced Youtube" />
-    <icon drawable="@drawable/revanced_manager" package="app.revanced.manager.flutter" name="ReVanced Manager" />
     <icon drawable="@drawable/youtube_tv" package="com.google.android.apps.youtube.unplugged" name="YouTube TV" />
     <icon drawable="@drawable/youversion" package="com.sirma.mobile.bible.android" name="Bible" />
     <icon drawable="@drawable/ytstudio" package="com.google.android.apps.youtube.creator" name="YouTube Studio" />
@@ -1495,6 +1495,9 @@
 	<icon drawable="@drawable/teehub" package="com.okmarco.teehub" name="TeeHub" />
 	<icon drawable="@drawable/tkla_gelsin" package="com.ataexpress.tiklagelsin" name="Tıkla Gelsin" />
 	<icon drawable="@drawable/yemeksepeti" package="com.inovel.app.yemeksepeti" name="Yemeksepeti" />
+	<icon drawable="@drawable/google_play_console" package="com.google.android.apps.playconsole" name="Google Play Console" />
+	<icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
+	<icon drawable="@drawable/authpass" package="design.codeux.authpass" name="AuthPass" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
