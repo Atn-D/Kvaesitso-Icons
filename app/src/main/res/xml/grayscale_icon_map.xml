@@ -556,7 +556,7 @@
     <icon drawable="@drawable/infinity_for_reddit" package="ml.docilealligator.infinityforreddit" name="Infinity" />
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
-    <icon drawable="@drawable/instagram" package="com.instander.android" name="Instander" />
+    <icon drawable="@drawable/instagram" package="com.instander.android" name="Instagram" />
     <icon drawable="@drawable/instapaper" package="com.instapaper.android" name="Instapaper" />
     <icon drawable="@drawable/inter" package="br.com.Inter.CDPro" name="Inter" />
     <icon drawable="@drawable/inter" package="br.com.intermedium" name="Inter" />
@@ -612,13 +612,13 @@
     <icon drawable="@drawable/knife_hit" package="com.ketchapp.knifehit" name="Knife Hit" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
+	<icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/labcoat" package="com.commit451.gitlab" name="Labcoat" />
     <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="KWGT" />
     <icon drawable="@drawable/lawnchair" package="app.lawnchair" name="Lawnchair" />
     <icon drawable="@drawable/lawnchair" package="ch.deletescape.lawnchair.plah" name="Lawnchair" />
     <icon drawable="@drawable/lawnicons" package="app.lawnchair.lawnicons" name="Lawnicons" />
-    <icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
     <icon drawable="@drawable/lazada" package="com.lazada.android" name="Lazada" />
     <icon drawable="@drawable/lbry" package="io.lbry.browser" name="LBRY" />
     <icon drawable="@drawable/leboncoin" package="fr.leboncoin" name="Leboncoin" />
