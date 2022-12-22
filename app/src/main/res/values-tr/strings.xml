@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Kvaesitso Simgeler</string>
+    <string name="app_name">Kvæsitso Simgeler</string>
     <string name="version_x">Versiyon %s</string>
     <string name="search_bar_hint">%d Simge Ara</string>
     <string name="acknowledgements">Teşekkürler</string>

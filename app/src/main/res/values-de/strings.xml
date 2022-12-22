@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Kvaesitso Icons</string>
+    <string name="app_name">Kvæsitso Icons</string>
     <string name="search_bar_hint">%d Symbole durchsuchen</string>
     <string name="acknowledgements">Danksagungen</string>
     <string name="about">Über</string>
