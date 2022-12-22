@@ -366,6 +366,7 @@
     <icon drawable="@drawable/familypark" package="com.intermaps.familypark" name="Family Park" />
     <icon drawable="@drawable/fandom" package="com.fandom.app" name="FANDOM" />
     <icon drawable="@drawable/fave" package="com.pinelabs.fave" name="Fave" />
+	<icon drawable="@drawable/fdroid" package="eu.bubu1.fdroidclassic" name="fdroidclassic" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
     <icon drawable="@drawable/feeder" package="com.nononsenseapps.feeder" name="Feeder" />
     <icon drawable="@drawable/feeder" package="com.nononsenseapps.feeder.play" name="Feeder" />
@@ -953,6 +954,7 @@
     <icon drawable="@drawable/realvnc" package="com.realvnc.viewer.android" name="VNC Viewer" />
     <icon drawable="@drawable/recorder" package="com.android.bbksoundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.android.soundrecorder" name="Recorder" />
+	<icon drawable="@drawable/recorder" package="com.github.axet.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.motorola.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.nothing.soundrecorder" name="Recorder" />
@@ -1242,6 +1244,7 @@
     <icon drawable="@drawable/wear" package="com.samsung.android.gearpplugin" name="Samsung Wear" />
     <icon drawable="@drawable/wear" package="com.samsung.accessory.beansmgr" name="Samsung Wear" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
+	<icon drawable="@drawable/weather" package="com.akylas.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.coloros.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="com.handmark.expressweather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.miui.weather2" name="Weather" />
@@ -1514,6 +1517,11 @@
 	<icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
 	<icon drawable="@drawable/authpass" package="design.codeux.authpass" name="AuthPass" />
 	<icon drawable="@drawable/keybase" package="io.keybase.ossifrage" name="Keybase" />
+	<icon drawable="@drawable/adguard_vpn" package="com.adguard.vpn" name="AdGuard VPN" />
+	<icon drawable="@drawable/openscan" package="com.ethereal.openscan" name="OpenScan" />
+	<icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
+	<icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
+	<icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
