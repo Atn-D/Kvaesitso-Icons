@@ -366,7 +366,7 @@
     <icon drawable="@drawable/familypark" package="com.intermaps.familypark" name="Family Park" />
     <icon drawable="@drawable/fandom" package="com.fandom.app" name="FANDOM" />
     <icon drawable="@drawable/fave" package="com.pinelabs.fave" name="Fave" />
-	<icon drawable="@drawable/fdroid" package="eu.bubu1.fdroidclassic" name="fdroidclassic" />
+    <icon drawable="@drawable/fdroid" package="eu.bubu1.fdroidclassic" name="fdroidclassic" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
     <icon drawable="@drawable/feeder" package="com.nononsenseapps.feeder" name="Feeder" />
     <icon drawable="@drawable/feeder" package="com.nononsenseapps.feeder.play" name="Feeder" />
@@ -478,6 +478,7 @@
     <icon drawable="@drawable/google_chrome" package="com.android.chrome" name="Google Chrome" />
     <icon drawable="@drawable/google_chrome" package="org.chromium.chrome" name="Google Chrome" />
     <icon drawable="@drawable/google_chrome" package="org.ungoogled.chromium.stable" name="Google Chrome" />
+    <icon drawable="@drawable/google_chrome" package="app.vanadium.browser" name="Google Chrome" />
     <icon drawable="@drawable/google_chrome_beta" package="com.chrome.beta" name="Google Chrome Beta" />
     <icon drawable="@drawable/google_chrome_canary" package="com.chrome.canary" name="Google Chrome Canary" />
     <icon drawable="@drawable/google_chrome_dev" package="com.chrome.dev" name="Google Chrome Dev" />
@@ -617,7 +618,7 @@
     <icon drawable="@drawable/knife_hit" package="com.ketchapp.knifehit" name="Knife Hit" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
-	<icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
+    <icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/labcoat" package="com.commit451.gitlab" name="Labcoat" />
     <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="KWGT" />
@@ -1505,24 +1506,24 @@
     <icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.beta" name="Google WebView DevTools Beta" />
     <icon drawable="@drawable/google_webview_devtools_canary" package="com.google.android.webview.canary" name="Google WebView DevTools Canery" />
     <icon drawable="@drawable/google_webview_devtools_dev" package="com.google.android.webview.dev" name="Google WebView DevTools Dev" />
-	<icon drawable="@drawable/de_tijd" package="mobi.inthepocket.mediafin.detijd" name="De Tijd" />
-	<icon drawable="@drawable/kayseri_ulam" package="com.aktifbank.nkolaykayseriulasim" name="Kayseri Ulaşım" />
-	<icon drawable="@drawable/lc_waikiki" package="com.lcwaikiki.android" name="LC Waikiki" />
-	<icon drawable="@drawable/music_widget" package="com.lstapps.musicwidgetandroid12" name="Music Widget" />
-	<icon drawable="@drawable/sneakpeek" package="be.skagen.skgn" name="SneakPeek" />
-	<icon drawable="@drawable/soulmate_coffee_bakery" package="com.soulmate.coffee" name="Soulmate Coffee Bakery" />
-	<icon drawable="@drawable/teehub" package="com.okmarco.teehub" name="TeeHub" />
-	<icon drawable="@drawable/tkla_gelsin" package="com.ataexpress.tiklagelsin" name="Tıkla Gelsin" />
-	<icon drawable="@drawable/yemeksepeti" package="com.inovel.app.yemeksepeti" name="Yemeksepeti" />
-	<icon drawable="@drawable/google_play_console" package="com.google.android.apps.playconsole" name="Google Play Console" />
-	<icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
-	<icon drawable="@drawable/authpass" package="design.codeux.authpass" name="AuthPass" />
-	<icon drawable="@drawable/keybase" package="io.keybase.ossifrage" name="Keybase" />
-	<icon drawable="@drawable/adguard_vpn" package="com.adguard.vpn" name="AdGuard VPN" />
-	<icon drawable="@drawable/openscan" package="com.ethereal.openscan" name="OpenScan" />
-	<icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
-	<icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
-	<icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
+    <icon drawable="@drawable/de_tijd" package="mobi.inthepocket.mediafin.detijd" name="De Tijd" />
+    <icon drawable="@drawable/kayseri_ulam" package="com.aktifbank.nkolaykayseriulasim" name="Kayseri Ulaşım" />
+    <icon drawable="@drawable/lc_waikiki" package="com.lcwaikiki.android" name="LC Waikiki" />
+    <icon drawable="@drawable/music_widget" package="com.lstapps.musicwidgetandroid12" name="Music Widget" />
+    <icon drawable="@drawable/sneakpeek" package="be.skagen.skgn" name="SneakPeek" />
+    <icon drawable="@drawable/soulmate_coffee_bakery" package="com.soulmate.coffee" name="Soulmate Coffee Bakery" />
+    <icon drawable="@drawable/teehub" package="com.okmarco.teehub" name="TeeHub" />
+    <icon drawable="@drawable/tkla_gelsin" package="com.ataexpress.tiklagelsin" name="Tıkla Gelsin" />
+    <icon drawable="@drawable/yemeksepeti" package="com.inovel.app.yemeksepeti" name="Yemeksepeti" />
+    <icon drawable="@drawable/google_play_console" package="com.google.android.apps.playconsole" name="Google Play Console" />
+    <icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
+    <icon drawable="@drawable/authpass" package="design.codeux.authpass" name="AuthPass" />
+    <icon drawable="@drawable/keybase" package="io.keybase.ossifrage" name="Keybase" />
+    <icon drawable="@drawable/adguard_vpn" package="com.adguard.vpn" name="AdGuard VPN" />
+    <icon drawable="@drawable/openscan" package="com.ethereal.openscan" name="OpenScan" />
+    <icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
+    <icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
+    <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
