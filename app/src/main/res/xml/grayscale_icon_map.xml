@@ -1399,6 +1399,7 @@
     <icon drawable="@drawable/shouldianswer" package="org.mistergroup.shouldianswer" name="Should I Answer" />
     <icon drawable="@drawable/simpledraw" package="com.simplemobiletools.draw.pro" name="Simple Draw" />
     <icon drawable="@drawable/simpledraw" package="com.simplemobiletools.draw" name="Simple Draw" />
+    <icon drawable="@drawable/simpledraw" package="ch.martinstoeckli.silentnotes" name="Simple Draw" />
     <icon drawable="@drawable/telenet" package="be.telenet.telenetapp" name="Telemet" />
     <icon drawable="@drawable/stn" package="de.TORR.StN" name="StN News" />
     <icon drawable="@drawable/tusky" package="com.keylesspalace.tusky" name="Tusky for Mastodon" />
