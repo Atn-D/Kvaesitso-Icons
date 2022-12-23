@@ -59,8 +59,7 @@ private val specialThanks = listOf(
         descriptionRes = R.string.special_thanks_icon,
     ),
     Contributor(
-        name = "U. N. Owen",
-        username = "MM2-0",
+        name = "MM2-0",
         photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
         socialUrl = "https://kvaesitso.mm20.de/",
         descriptionRes = R.string.special_thanks_name,
