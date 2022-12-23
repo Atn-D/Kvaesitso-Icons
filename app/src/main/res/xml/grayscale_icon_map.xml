@@ -463,6 +463,7 @@
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.ad" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.pro" name="Player" />
+	<icon drawable="@drawable/generic_player" package="is.xyz.mpv" name="Player" />
     <icon drawable="@drawable/genius" package="com.genius.android" name="Genius" />
     <icon drawable="@drawable/genshin_impact" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
     <icon drawable="@drawable/geometric_weather" package="wangdaye.com.geometricweather" name="Geometric Weather" />
@@ -1529,6 +1530,10 @@
     <icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
     <icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
     <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
+	<icon drawable="@drawable/japanese_dictionary_takoboto" package="jp.takoboto" name="Japanese Dictionary Takoboto" />
+	<icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
+	<icon drawable="@drawable/osaifukeitai" package="com.felicanetworks.mfm.main" name="Osaifu-Keitai" />
+	<icon drawable="@drawable/readera_premium" package="org.readera.premium" name="ReadEra Premium" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
