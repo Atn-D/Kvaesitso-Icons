@@ -665,6 +665,7 @@
     <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.materialdesign.catalog" name="Material Catalog" />
+    <icon drawable="@drawable/matlog" package="com.dp.logcatapp" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog.debug" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matloglibre" name="MatLog" />
