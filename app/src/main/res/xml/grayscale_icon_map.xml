@@ -1535,6 +1535,10 @@
 	<icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
 	<icon drawable="@drawable/osaifukeitai" package="com.felicanetworks.mfm.main" name="Osaifu-Keitai" />
 	<icon drawable="@drawable/readera_premium" package="org.readera.premium" name="ReadEra Premium" />
+	<icon drawable="@drawable/converter_now" package="com.ferrarid.converterpro" name="Converter NOW" />
+	<icon drawable="@drawable/identiconizer" package="com.germainz.identiconizer" name="Identiconizer!" />
+	<icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
+	<icon drawable="@drawable/massive" package="com.massive" name="Massive" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
