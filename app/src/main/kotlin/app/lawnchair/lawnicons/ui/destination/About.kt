@@ -35,12 +35,7 @@ import app.lawnchair.lawnicons.ui.util.Destinations
 import app.lawnchair.lawnicons.util.appIcon
 
 private val coreContributors = listOf(
-    Contributor(
-        name = "paphonb",
-        username = "paphonb",
-        photoUrl = "https://avatars.githubusercontent.com/u/8080853",
-        socialUrl = "https://twitter.com/paphonb",
-    ),
+
 
     Contributor(
         name = "Jamal",
@@ -52,22 +47,24 @@ private val coreContributors = listOf(
         name = "daywalk3r666",
         username = "daywalk3r666",
         photoUrl = "https://avatars.githubusercontent.com/u/15938117",
-        socialUrl = "https://github.com/daywalk3r666/lawnicons",
+        socialUrl = "https://github.com/daywalk3r666/Kvaesitso-Icons",
     ),
 
 )
 
 private val specialThanks = listOf(
     Contributor(
-        name = "Eatos",
-        photoUrl = "https://avatars.githubusercontent.com/u/52837599",
-        socialUrl = "https://twitter.com/eatosapps",
+        name = "U. N. Owen",
+        username = "MM2-0",
+        photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
+        socialUrl = "https://github.com/MM2-0/Kvaesitso",
         descriptionRes = R.string.special_thanks_icon,
     ),
     Contributor(
-        name = "Rik Koedoot",
-        photoUrl = "https://avatars.githubusercontent.com/u/29402532",
-        username = "rikkoedoot",
+        name = "U. N. Owen",
+        username = "MM2-0",
+        photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
+        socialUrl = "https://github.com/MM2-0/Kvaesitso",
         descriptionRes = R.string.special_thanks_name,
     ),
 )
