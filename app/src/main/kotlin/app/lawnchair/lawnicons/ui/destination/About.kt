@@ -47,7 +47,7 @@ private val coreContributors = listOf(
         name = "daywalk3r666",
         username = "daywalk3r666",
         photoUrl = "https://avatars.githubusercontent.com/u/15938117",
-        socialUrl = "https://github.com/daywalk3r666/Kvaesitso-Icons",
+        socialUrl = "https://github.com/daywalk3r666",
     ),
 
 )
@@ -57,14 +57,14 @@ private val specialThanks = listOf(
         name = "U. N. Owen",
         username = "MM2-0",
         photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
-        socialUrl = "https://github.com/MM2-0/Kvaesitso",
+        socialUrl = "https://github.com/MM2-0",
         descriptionRes = R.string.special_thanks_icon,
     ),
     Contributor(
         name = "U. N. Owen",
         username = "MM2-0",
         photoUrl = "https://avatars.githubusercontent.com/u/15646950?v=4",
-        socialUrl = "https://github.com/MM2-0/Kvaesitso",
+        socialUrl = "https://github.com/MM2-0",
         descriptionRes = R.string.special_thanks_name,
     ),
 )
@@ -128,6 +128,7 @@ fun About(navController: NavController) {
                     coreContributors.mapIndexed { index, it ->
                         ContributorRow(
                             name = it.name,
+                            username = it.username,
                             photoUrl = it.photoUrl,
                             profileUrl = "https://github.com/${it.username}",
                             divider = index != coreContributors.lastIndex,
@@ -152,6 +153,7 @@ fun About(navController: NavController) {
                     specialThanks.mapIndexed { index, it ->
                         ContributorRow(
                             name = it.name,
+                            username = it.username,
                             photoUrl = it.photoUrl,
                             profileUrl = it.username?.let { "https://github.com/$it" },
                             description = it.descriptionRes?.let { stringResource(id = it) },
