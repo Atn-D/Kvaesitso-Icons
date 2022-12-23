@@ -7,9 +7,9 @@ import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.material.ContentAlpha
-import androidx.compose.material.DropdownMenuItem
 import androidx.compose.material.icons.Icons
 import androidx.compose.material.icons.rounded.Clear
+import androidx.compose.material.icons.rounded.Info
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
@@ -82,24 +82,13 @@ fun SearchBar(
                     },
                 )
             } else {
-                OverflowMenu {
-                    DropdownMenuItem(
-                        onClick = {
-                            hideMenu()
-                            navController.navigate(Destinations.ACKNOWLEDGEMENTS)
-                        },
-                    ) {
-                        Text(text = stringResource(id = R.string.acknowledgements))
-                    }
-                    DropdownMenuItem(
-                        onClick = {
-                            hideMenu()
-                            navController.navigate(Destinations.ABOUT)
-                        },
-                    ) {
-                        Text(text = stringResource(id = R.string.about))
-                    }
-                }
+                ClickableIcon(
+                    imageVector = Icons.Rounded.Info,
+                    size = 52.dp,
+                    onClick = {
+                        navController.navigate(Destinations.ABOUT)
+                    },
+                )
             }
         }
     }

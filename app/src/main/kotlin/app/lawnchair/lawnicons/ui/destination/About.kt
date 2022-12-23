@@ -164,6 +164,15 @@ fun About(navController: NavController) {
                     }
                 }
             }
+            item {
+                Card(modifier = Modifier.padding(top = 16.dp)) {
+                    SimpleListRow(
+                        onClick = { navController.navigate(Destinations.ACKNOWLEDGEMENTS) },
+                        label = stringResource(id = R.string.acknowledgements),
+                        divider = false,
+                    )
+                }
+            }
         }
     }
 }
