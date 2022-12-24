@@ -1552,6 +1552,7 @@
     <icon drawable="@drawable/identiconizer" package="com.germainz.identiconizer" name="Identiconizer!" />
     <icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
     <icon drawable="@drawable/massive" package="com.massive" name="Massive" />
+	<icon drawable="@drawable/calyx_vpn" package="org.calyxinstitute.vpn" name="Calyx VPN" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
