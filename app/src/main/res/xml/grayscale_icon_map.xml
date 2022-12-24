@@ -1194,7 +1194,7 @@
     <icon drawable="@drawable/trust_wallet" package="app.fedilab.nitterizeme" name="Trust Wallet" />
     <icon drawable="@drawable/trust_wallet" package="com.wallet.crypto.trustapp" name="Trust Wallet" />
     <icon drawable="@drawable/tune_in_radio" package="tunein.player" name="TuneIn Radio" />
-    <icon drawable="@drawable/tune_in_radio" package="radiotime.player" name="TuneIn Radio Pro" />
+    <icon drawable="@drawable/tune_in_radio" package="radiotime.player" name="TuneIn Radio" />
     <icon drawable="@drawable/tunnelbear" package="com.tunnelbear.android" name="Tunnelbear" />
     <icon drawable="@drawable/turbotel" package="ellipi.messenger" name="TurboTel" />
     <icon drawable="@drawable/tutanota" package="de.tutao.tutanota" name="Tutanota" />
