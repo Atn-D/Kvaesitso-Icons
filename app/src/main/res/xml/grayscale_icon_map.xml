@@ -671,6 +671,7 @@
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.materialdesign.catalog" name="Material Catalog" />
     <icon drawable="@drawable/matlog" package="com.dp.logcatapp" name="MatLog" />
+    <icon drawable="@drawable/matlog" package="com.f0x1d.logfox" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog.debug" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matloglibre" name="MatLog" />
@@ -985,9 +986,9 @@
     <icon drawable="@drawable/republik" package="app.republik" name="Republik" />
     <icon drawable="@drawable/retro_music" package="code.name.monkey.retromusic" name="Retro Music" />
     <icon drawable="@drawable/retro_music" package="io.github.muntashirakon.Music" name="Metro" />
-	<icon drawable="@drawable/revanced_manager" package="app.revanced.manager.flutter" name="ReVanced Manager" />
-	<icon drawable="@drawable/revanced_youtube" package="app.revanced.android.youtube" name="ReVanced Youtube" />
-	<icon drawable="@drawable/revanced_youtube_music" package="app.revanced.android.apps.youtube.music" name="Revanced Youtube Music" />
+    <icon drawable="@drawable/revanced_manager" package="app.revanced.manager.flutter" name="ReVanced Manager" />
+    <icon drawable="@drawable/revanced_youtube" package="app.revanced.android.youtube" name="ReVanced Youtube" />
+    <icon drawable="@drawable/revanced_youtube_music" package="app.revanced.android.apps.youtube.music" name="Revanced Youtube Music" />
     <icon drawable="@drawable/reverso_context" package="com.softissimo.reverso.context" name="Reverso Context" />
     <icon drawable="@drawable/revolt" package="chat.revolt.app.twa" name="Revolt" />
     <icon drawable="@drawable/revolt" package="com.revolt" name="Revolt" />
@@ -1032,7 +1033,7 @@
     <icon drawable="@drawable/shelly" package="allterco.bg.shelly" name="Shelly" />
     <icon drawable="@drawable/shelter" package="net.typeblog.shelter" name="Shelter" />
     <icon drawable="@drawable/shiori" package="com.miraisoft.shiori" name="Shiori" />
-	<icon drawable="@drawable/shiori" package="com.starryai" name="Shiori" />
+    <icon drawable="@drawable/shiori" package="com.starryai" name="Shiori" />
     <icon drawable="@drawable/shizuku" package="moe.shizuku.privileged.api" name="Shizuku" />
     <icon drawable="@drawable/shopee" package="com.shopee.br" name="Shopee" />
     <icon drawable="@drawable/shopee" package="com.shopee.id" name="Shopee" />
@@ -1222,7 +1223,7 @@
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
     <icon drawable="@drawable/valetudo" package="cloud.valetudo.companion" name="Valetudo Companion" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
-	<icon drawable="@drawable/vanced_youtube" package="com.vanced.android.youtube" name="YouTube Vanced" />
+    <icon drawable="@drawable/vanced_youtube" package="com.vanced.android.youtube" name="YouTube Vanced" />
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
@@ -1264,7 +1265,7 @@
     <icon drawable="@drawable/wear" package="com.samsung.android.gearpplugin" name="Samsung Wear" />
     <icon drawable="@drawable/wear" package="com.samsung.accessory.beansmgr" name="Samsung Wear" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
-	<icon drawable="@drawable/weather" package="com.akylas.weather" name="Weather" />
+    <icon drawable="@drawable/weather" package="com.akylas.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.coloros.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="com.handmark.expressweather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.miui.weather2" name="Weather" />
@@ -1543,14 +1544,14 @@
     <icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
     <icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
     <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
-	<icon drawable="@drawable/japanese_dictionary_takoboto" package="jp.takoboto" name="Japanese Dictionary Takoboto" />
-	<icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
-	<icon drawable="@drawable/osaifukeitai" package="com.felicanetworks.mfm.main" name="Osaifu-Keitai" />
-	<icon drawable="@drawable/readera_premium" package="org.readera.premium" name="ReadEra Premium" />
-	<icon drawable="@drawable/converter_now" package="com.ferrarid.converterpro" name="Converter NOW" />
-	<icon drawable="@drawable/identiconizer" package="com.germainz.identiconizer" name="Identiconizer!" />
-	<icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
-	<icon drawable="@drawable/massive" package="com.massive" name="Massive" />
+    <icon drawable="@drawable/japanese_dictionary_takoboto" package="jp.takoboto" name="Japanese Dictionary Takoboto" />
+    <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
+    <icon drawable="@drawable/osaifukeitai" package="com.felicanetworks.mfm.main" name="Osaifu-Keitai" />
+    <icon drawable="@drawable/readera_premium" package="org.readera.premium" name="ReadEra Premium" />
+    <icon drawable="@drawable/converter_now" package="com.ferrarid.converterpro" name="Converter NOW" />
+    <icon drawable="@drawable/identiconizer" package="com.germainz.identiconizer" name="Identiconizer!" />
+    <icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
+    <icon drawable="@drawable/massive" package="com.massive" name="Massive" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
