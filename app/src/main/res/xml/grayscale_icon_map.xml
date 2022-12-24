@@ -461,6 +461,9 @@
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="name.boyle.chris.sgtpuzzles" name="Games" />
+    <icon drawable="@drawable/generic_logcat" package="com.dp.logcatapp" name="Logcat" />
+    <icon drawable="@drawable/generic_logcat" package="com.f0x1d.logfox" name="Logcat" />
+    <icon drawable="@drawable/generic_logcat" package="org.omnirom.logcat" name="Logcat" />
     <icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
@@ -670,12 +673,9 @@
     <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.materialdesign.catalog" name="Material Catalog" />
-    <icon drawable="@drawable/matlog" package="com.dp.logcatapp" name="MatLog" />
-    <icon drawable="@drawable/matlog" package="com.f0x1d.logfox" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matlog.debug" name="MatLog" />
     <icon drawable="@drawable/matlog" package="com.pluscubed.matloglibre" name="MatLog" />
-    <icon drawable="@drawable/matlog" package="org.omnirom.logcat" name="MatLog" />
     <icon drawable="@drawable/mattermost" package="com.mattermost.rnbeta" name="Mattermost Beta" />
     <icon drawable="@drawable/mbank" package="cz.mbank" name="mBank" />
     <icon drawable="@drawable/mbank" package="pl.mbank" name="mBank" />
