@@ -60,7 +60,7 @@ fun ContributorRow(
     )
 }
 
-@Preview
+@Preview(showBackground = true)
 @Composable
 fun ContributorRowPreview() {
     ContributorRow(

@@ -1,10 +1,7 @@
 package app.lawnchair.lawnicons.ui.destination
 
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.layout.Column
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
-import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.material.ContentAlpha
 import androidx.compose.material.icons.Icons
@@ -25,11 +22,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import app.lawnchair.lawnicons.BuildConfig
 import app.lawnchair.lawnicons.R
-import app.lawnchair.lawnicons.ui.component.Card
-import app.lawnchair.lawnicons.ui.component.ClickableIcon
-import app.lawnchair.lawnicons.ui.component.ContributorRow
-import app.lawnchair.lawnicons.ui.component.SimpleListRow
-import app.lawnchair.lawnicons.ui.component.TopBarWithInsets
+import app.lawnchair.lawnicons.ui.component.*
 import app.lawnchair.lawnicons.ui.util.Contributor
 import app.lawnchair.lawnicons.ui.util.Destinations
 import app.lawnchair.lawnicons.util.appIcon
@@ -118,6 +111,16 @@ fun About(navController: NavController) {
                             alpha = ContentAlpha.medium,
                         ),
                     )
+                    Row(verticalAlignment = Alignment.CenterVertically) {
+                        LinkButton(
+                            text = stringResource(id = R.string.github_link),
+                            url = "https://github.com/LawnchairLauncher/lawnicons",
+                        )
+                        LinkButton(
+                            text = stringResource(id = R.string.request_icons_link),
+                            url = "https://forms.gle/Fx8vZAiWdW1Tyjo57",
+                        )
+                    }
                 }
             }
             item {

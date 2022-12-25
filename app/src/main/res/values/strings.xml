@@ -12,13 +12,14 @@
     <!-- We don't currently provide a singular form, because it's always guaranteed that there will be atleast 2 or more icons. -->
     <string name="search_bar_hint">Search %d Icons</string>
 
-    <!-- Popup menu in search bar -->
-    <!-- Popup menu item that links to the Acknowledgements page -->
-    <string name="acknowledgements">Acknowledgements</string>
-    <!-- Popup menu item that links to the About page -->
+    <!-- About page -->
+
+    <!-- Title of About Page -->
     <string name="about">About</string>
 
-    <!-- About page -->
+    <!-- External links section of About page -->
+    <string name="github_link">View GitHub</string>
+    <string name="request_icons_link">Request Icons</string>
 
     <!-- Contributors section of About page -->
     <!-- Contributors label -->
@@ -35,6 +36,9 @@
     <string name="special_thanks_icon">For inspiring the app icon.</string>
     <!-- Subtitle displayed below the user who named the app -->
     <string name="special_thanks_name">For naming the app.</string>
+
+    <!-- Acknoledgemnt link -->
+    <string name="acknowledgements">Acknowledgements</string>
 
     <!-- Icon Information Popup window -->
 
