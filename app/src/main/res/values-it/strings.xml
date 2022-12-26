@@ -14,4 +14,5 @@
     <string name="special_thanks_name">Per aver dato il nome all\'app.</string>
     <string name="ok_button">OK</string>
     <string name="github_link">Visualizza su GitHub</string>
+    <string name="drawable_prefix">Drawable:</string>
 </resources>
