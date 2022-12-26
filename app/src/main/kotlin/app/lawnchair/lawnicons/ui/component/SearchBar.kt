@@ -83,7 +83,7 @@ fun SearchBar(
                 )
             }
         }
-    }
+    } else {
     ClickableIcon(
         imageVector = Icons.Rounded.Info,
         size = 52.dp,
