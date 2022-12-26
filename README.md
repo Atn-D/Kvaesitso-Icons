@@ -1,4 +1,5 @@
 # Kvaesitso Icons
+<img src="https://github.com/daywalk3r666/Kvaesitso-Icons/blob/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" width="128">
 
 [![Build release APK](https://github.com/daywalk3r666/Kvaesitso-Icons/actions/workflows/build_release_apk.yml/badge.svg)](https://github.com/daywalk3r666/Kvaesitso-Icons/actions/workflows/build_release_apk.yml)
 [![Telegram](https://img.shields.io/endpoint?url=https%3A%2F%2Ftg.sumanjay.workers.dev%2FKvaesitsoIcons)](https://t.me/KvaesitsoIcons)
