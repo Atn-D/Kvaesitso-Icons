@@ -81,14 +81,15 @@ fun SearchBar(
                         focusManager.clearFocus()
                     },
                 )
+            } else {
+                ClickableIcon(
+                    imageVector = Icons.Rounded.Info,
+                    size = 52.dp,
+                    onClick = {
+                        navController.navigate(Destinations.ABOUT)
+                    },
+                )
             }
         }
-    } else {
-    ClickableIcon(
-        imageVector = Icons.Rounded.Info,
-        size = 52.dp,
-        onClick = {
-            navController.navigate(Destinations.ABOUT)
-        },
-    )
+    }
 }
