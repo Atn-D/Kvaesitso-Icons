@@ -114,11 +114,11 @@ fun About(navController: NavController) {
                     Row(verticalAlignment = Alignment.CenterVertically) {
                         LinkButton(
                             text = stringResource(id = R.string.github_link),
-                            url = "https://github.com/LawnchairLauncher/lawnicons",
+                            url = "https://github.com/daywalk3r666/Kvaesitso-Icons",
                         )
                         LinkButton(
                             text = stringResource(id = R.string.request_icons_link),
-                            url = "https://forms.gle/Fx8vZAiWdW1Tyjo57",
+                            url = "https://forms.gle/wKnY9HvGz9cfgqfL6",
                         )
                     }
                 }
