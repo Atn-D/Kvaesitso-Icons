@@ -1232,7 +1232,6 @@
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
     <icon drawable="@drawable/valetudo" package="cloud.valetudo.companion" name="Valetudo Companion" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
-    <icon drawable="@drawable/vanced_youtube" package="com.vanced.android.youtube" name="YouTube Vanced" />
     <icon drawable="@drawable/vanced_youtube_music" package="com.vanced.android.apps.youtube.music" name="Vanced YouTube Music" />
     <icon drawable="@drawable/vector_asset_creator" package="com.inglesdivino.vectorassetcreator" name="Vector Asset Creator" />
     <icon drawable="@drawable/via_browser" package="mark.via.gp" name="Via Browser" />
