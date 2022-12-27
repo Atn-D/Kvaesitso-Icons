@@ -184,6 +184,7 @@
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Cameight" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCamera.Urnyx" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEng" name="Camera" />
+	<icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEngR14" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraEngR15" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraGood" name="Camera" />
     <icon drawable="@drawable/camera" package="com.google.android.GoogleCameraLMC" name="Camera" />
@@ -1565,6 +1566,12 @@
     <icon drawable="@drawable/massive" package="com.massive" name="Massive" />
 	<icon drawable="@drawable/calyx_vpn" package="org.calyxinstitute.vpn" name="Calyx VPN" />
 	<icon drawable="@drawable/ooniprobe" package="org.openobservatory.ooniprobe" name="OONI Probe" />
+	<icon drawable="@drawable/io" package="it.pagopa.io.app" name="IO" />
+	<icon drawable="@drawable/moovit" package="com.tranzmate" name="Moovit" />
+	<icon drawable="@drawable/opendocument_reader" package="at.tomtasche.reader" name="LibreOffice &amp; OpenOffice docum" />
+    <icon drawable="@drawable/splitwise" package="com.Splitwise.SplitwiseMobile" name="Splitwise" />
+	<icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
+	<icon drawable="@drawable/gimme5" package="it.reply.kc.android.gimme5" name="Gimme5" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
