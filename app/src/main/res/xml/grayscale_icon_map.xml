@@ -1571,6 +1571,7 @@
     <icon drawable="@drawable/splitwise" package="com.Splitwise.SplitwiseMobile" name="Splitwise" />
 	<icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
 	<icon drawable="@drawable/gimme5" package="it.reply.kc.android.gimme5" name="Gimme5" />
+	<icon drawable="@drawable/ticket_restaurant" package="com.edenred.mobiletr" name="Ticket Restaurant" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
