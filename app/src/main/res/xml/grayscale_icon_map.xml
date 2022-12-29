@@ -22,6 +22,7 @@
     <icon drawable="@drawable/aliexpress" package="com.alibaba.aliexpresshd" name="AliExpress" />
     <icon drawable="@drawable/alipay" package="com.eg.android.AlipayGphone" name="Alipay" />
     <icon drawable="@drawable/aliucord_installer" package="com.aliucord.installer" name="Aliucord Installer" />
+    <icon drawable="@drawable/aliucord_installer" package="com.aliucord.manager" name="Aliucord Manager" />
     <icon drawable="@drawable/allegro" package="pl.allegro" name="Allegro" />
     <icon drawable="@drawable/amaze" package="com.amaze.filemanager" name="Amaze" />
     <icon drawable="@drawable/amazon_alexa" package="com.amazon.dee.app" name="Amazon Alexa" />
@@ -240,6 +241,8 @@
     <icon drawable="@drawable/clash_of_clans" package="com.supercell.clashofclans" name="Clash Of Clans" />
     <icon drawable="@drawable/clash_royale" package="com.supercell.clashroyale" name="Clash Royale" />
     <icon drawable="@drawable/clipto" package="com.wb.clipboard.pro" name="Clipto" />
+    <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3" name="Cloudstream" />
+    <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3.prerelease" name="Cloudstream" />
     <icon drawable="@drawable/cmb" package="cmb.pb" name="China Merchants Bank" />
     <icon drawable="@drawable/cod_mobile" package="com.activision.callofduty.shooter" name="Call of Duty Mobile" />
     <icon drawable="@drawable/code_editor" package="com.rhmsoft.code" name="Code Editor" />
