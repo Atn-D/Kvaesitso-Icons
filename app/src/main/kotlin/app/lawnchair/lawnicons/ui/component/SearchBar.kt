@@ -1,10 +1,7 @@
 package app.lawnchair.lawnicons.ui.component
 
 import androidx.compose.animation.Crossfade
-import androidx.compose.foundation.layout.Box
-import androidx.compose.foundation.layout.fillMaxHeight
-import androidx.compose.foundation.layout.fillMaxWidth
-import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.*
 import androidx.compose.foundation.text.BasicTextField
 import androidx.compose.material.ContentAlpha
 import androidx.compose.material.icons.Icons
@@ -24,7 +21,9 @@ import androidx.compose.ui.focus.focusRequester
 import androidx.compose.ui.focus.onFocusChanged
 import androidx.compose.ui.graphics.SolidColor
 import androidx.compose.ui.platform.LocalFocusManager
+import androidx.compose.ui.platform.LocalInspectionMode
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.navigation.NavController
@@ -36,7 +35,7 @@ fun SearchBar(
     value: String,
     onValueChange: (String) -> Unit,
     iconCount: Int,
-    navController: NavController,
+    navController: NavController?,
 ) {
     val focusRequester = remember { FocusRequester() }
     val focusManager = LocalFocusManager.current
@@ -82,14 +81,27 @@ fun SearchBar(
                     },
                 )
             } else {
-                ClickableIcon(
-                    imageVector = Icons.Rounded.Info,
-                    size = 52.dp,
-                    onClick = {
-                        navController.navigate(Destinations.ABOUT)
-                    },
-                )
+                if (LocalInspectionMode.current) {
+                    ClickableIcon(
+                        imageVector = Icons.Rounded.Info,
+                        size = 52.dp,
+                        onClick = {},
+                    )
+                } else {
+                    ClickableIcon(
+                        imageVector = Icons.Rounded.Info,
+                        size = 52.dp,
+                        onClick =
+                        { navController?.navigate(Destinations.ABOUT) }
+                    )
+                }
             }
         }
     }
+}
+
+@Preview(showBackground = true)
+@Composable
+fun SearchBarPreview() {
+    SearchBar(value = "Example", onValueChange = {}, iconCount = 100, navController = null)
 }

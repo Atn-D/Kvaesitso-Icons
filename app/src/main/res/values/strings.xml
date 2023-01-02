@@ -12,6 +12,8 @@
     <!-- We don't currently provide a singular form, because it's always guaranteed that there will be atleast 2 or more icons. -->
     <string name="search_bar_hint">Search %d Icons</string>
 
+
+
     <!-- About page -->
 
     <!-- Title of About Page -->
@@ -37,10 +39,13 @@
     <!-- Subtitle displayed below the user who named the app -->
     <string name="special_thanks_name">For naming the app.</string>
 
-    <!-- Acknoledgemnt link -->
+    <!-- Acknowledgement link -->
     <string name="acknowledgements">Acknowledgements</string>
 
     <!-- Icon Information Popup window -->
+
+    <!-- Hint that is always shown after the search bar -->
+    <string name="icon_popup_hint">Tap on an icon to view more information about it.</string>
 
     <!-- Drawable prefix -->
     <string name="drawable_prefix">Drawable:</string>
