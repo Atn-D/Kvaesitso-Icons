@@ -1593,6 +1593,25 @@
 	<icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
 	<icon drawable="@drawable/gimme5" package="it.reply.kc.android.gimme5" name="Gimme5" />
 	<icon drawable="@drawable/ticket_restaurant" package="com.edenred.mobiletr" name="Ticket Restaurant" />
+	<icon drawable="@drawable/crosswords" package="org.eehouse.android.xw4" name="CrossWords" />
+	<icon drawable="@drawable/floccus" package="org.handmadeideas.floccus" name="floccus" />
+	<icon drawable="@drawable/forkyz" package="app.crossword.yourealwaysbe.forkyz" name="Forkyz" />
+	<icon drawable="@drawable/gmapswv" package="us.spotco.maps" name="GMaps WV" />
+	<icon drawable="@drawable/greenstash" package="com.starry.greenstash" name="GreenStash" />
+	<icon drawable="@drawable/gurgle" package="org.billthefarmer.gurgle" name="Gurgle" />
+	<icon drawable="@drawable/kodi" package="org.xbmc.kodi" name="Kodi" />
+	<icon drawable="@drawable/libreav" package="tech.projectmatris.antimalwareapp" name="LibreAV" />
+	<icon drawable="@drawable/lexica" package="com.serwylo.lexica" name="Lexica" />
+	<icon drawable="@drawable/logseq" package="com.logseq.app" name="Logseq" />
+	<icon drawable="@drawable/openreads" package="software.mdev.bookstracker" name="Openreads" />
+	<icon drawable="@drawable/paseo" package="ca.chancehorizon.paseo" name="Paseo" />
+	<icon drawable="@drawable/privacyblur" package="de.mathema.privacyblur" name="PrivacyBlur" />
+	<icon drawable="@drawable/puzzles" package="name.boyle.chris.sgtpuzzles" name="Puzzles" />
+	<icon drawable="@drawable/rustdesk" package="com.carriez.flutter_hbb" name="RustDesk" />
+	<icon drawable="@drawable/saikou" package="ani.saikou" name="Saikou" />
+	<icon drawable="@drawable/saikou" package="ani.saikou.beta" name="Saikou" />
+	<icon drawable="@drawable/simplelogin" package="io.simplelogin.android.fdroid" name="SimpleLogin" />
+	<icon drawable="@drawable/simplelogin" package="io.simplelogin.android" name="SimpleLogin" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
