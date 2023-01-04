@@ -464,6 +464,8 @@
     <icon drawable="@drawable/generic_bluetooth" package="de.kai_morich.serial_bluetooth_terminal" name="Serial Bluetooth Terminal" />
     <icon drawable="@drawable/generic_downloader" package="repost.share.instagram.videodownloader.photodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Downloader" />
+    <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
+    <icon drawable="@drawable/generic_email" package="com.skemailmobileapp" name="Email" />
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
