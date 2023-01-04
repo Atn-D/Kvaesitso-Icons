@@ -22,7 +22,7 @@
     <icon drawable="@drawable/aliexpress" package="com.alibaba.aliexpresshd" name="AliExpress" />
     <icon drawable="@drawable/alipay" package="com.eg.android.AlipayGphone" name="Alipay" />
     <icon drawable="@drawable/aliucord_installer" package="com.aliucord.installer" name="Aliucord Installer" />
-    <icon drawable="@drawable/aliucord_installer" package="com.aliucord.manager" name="Aliucord installer" />
+    <icon drawable="@drawable/aliucord_installer" package="com.aliucord.manager" name="Aliucord Installer" />
     <icon drawable="@drawable/allegro" package="pl.allegro" name="Allegro" />
     <icon drawable="@drawable/amaze" package="com.amaze.filemanager" name="Amaze" />
     <icon drawable="@drawable/amazon_alexa" package="com.amazon.dee.app" name="Amazon Alexa" />
