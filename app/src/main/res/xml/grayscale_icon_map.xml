@@ -475,6 +475,7 @@
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
+	<icon drawable="@drawable/generic_icon" package="com.simform.videoimageeditor" name="Apk" />
     <icon drawable="@drawable/generic_logcat" package="com.dp.logcatapp" name="Logcat" />
     <icon drawable="@drawable/generic_logcat" package="com.f0x1d.logfox" name="Logcat" />
     <icon drawable="@drawable/generic_logcat" package="org.omnirom.logcat" name="Logcat" />
@@ -1617,7 +1618,14 @@
 	<icon drawable="@drawable/weawow" package="com.weawow" name="Weawow" />
 	<icon drawable="@drawable/yono_sbi" package="com.sbi.lotusintouch" name="YONO SBI" />
 	<icon drawable="@drawable/yetcalc" package="yetzio.yetcalc" name="yetCalc" />
-	<icon drawable="@drawable/bdt" package="de.jepfa.bdt" name="BreakDown.Timer" />
+	<icon drawable="@drawable/bdt" package="de.jepfa.bdt" name="Break.Down.Timer" />
+	<icon drawable="@drawable/buckwheat" package="com.danilkinkin.buckwheat" name="Buckwheat" />
+	<icon drawable="@drawable/gsrtc" package="com.gsrtc.mobileweb" name="GSRTC" />
+	<icon drawable="@drawable/drugindex" package="com.medengage.drugindex" name="India Drug Index" />
+	<icon drawable="@drawable/owl2" package="io.github.yamin8000.owl" name="Owl2" />
+	<icon drawable="@drawable/photon" package="dev.abhi.photon" name="Share files - Photon share" />
+	<icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
+	<icon drawable="@drawable/skiffpages" package="com.skiffmobileapp" name="Skiff Pages" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
