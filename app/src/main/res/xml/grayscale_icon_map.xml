@@ -1502,7 +1502,6 @@
     <icon drawable="@drawable/stickers_for_whatsapp" package="com.dstukalov.watelegramstickers" name="Unofficial Telegram Stickers for WhatsApp" />
     <icon drawable="@drawable/tasker" package="net.dinglisch.android.taskerm" name="Tasker" />
     <icon drawable="@drawable/millenicom" package="com.solidict.millenicom" name="Millenicom" />
-    <icon drawable="@drawable/ntfy" package="io.heckel.ntfy" name="ntfy" />
     <icon drawable="@drawable/kbb_trafik" package="com.iltelis.kbbtrafik" name="KBB Trafik" />
     <icon drawable="@drawable/ykb" package="com.ykb.android" name="Yapı Kredi Mobil" />
     <icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
