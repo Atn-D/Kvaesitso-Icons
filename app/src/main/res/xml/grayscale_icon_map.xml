@@ -983,7 +983,7 @@
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit.pro" name="QuickEdit" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
     <icon drawable="@drawable/quillnote" package="org.qosp.notes" name="Quillnote" />
-    <icon drawable="@drawable/quillnote" package="io.github.quillpad" name="Quillnote" />
+    <icon drawable="@drawable/quillpad" package="io.github.quillpad" name="Quillpad" />
     <icon drawable="@drawable/quizduel" package="se.maginteractive.quizduel2" name="Quizduel" />
     <icon drawable="@drawable/quora" package="com.quora.android" name="Quora" />
     <icon drawable="@drawable/quran" package="com.andi.alquran.en" name="Quran" />
@@ -1159,7 +1159,9 @@
     <icon drawable="@drawable/streetcomplete" package="de.westnordost.streetcomplete" name="StreetComplete" />
     <icon drawable="@drawable/stremio" package="com.stremio.one" name="Stremio" />
     <icon drawable="@drawable/substratum_lite" package="projekt.substratum.lite" name="substratum Lite" />
-    <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
+    <icon drawable="@drawable/sudoku" package="com.easybrain.sudoku.android" name="Sudoku" />
+	<icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
+	<icon drawable="@drawable/sudoku" package="org.secuso.privacyfriendlysudoku" name="Sudoku" />
     <icon drawable="@drawable/sweech" package="com.sweech" name="Sweech" />
     <icon drawable="@drawable/swift_backup" package="org.swiftapps.swiftbackup" name="Swift Backup" />
     <icon drawable="@drawable/swiggy" package="in.swiggy.android" name="Swiggy" />
@@ -1648,6 +1650,11 @@
 	<icon drawable="@drawable/photon" package="dev.abhi.photon" name="Share files - Photon share" />
 	<icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
 	<icon drawable="@drawable/skiffpages" package="com.skiffmobileapp" name="Skiff Pages" />
+	<icon drawable="@drawable/towerjumper" package="org.pipoypipagames.towerjumper" name="TowerJumper" />
+	<icon drawable="@drawable/supertuxkart" package="org.supertuxkart.stk" name="SuperTuxKart" />
+	<icon drawable="@drawable/englishwhiz" package="com.javalon.englishwhiz" name="EnglishWhiz" />
+	<icon drawable="@drawable/pocketpaint" package="org.catrobat.paintroid" name="Paintroid" />
+	<icon drawable="@drawable/imagepipe" package="de.kaffeemitkoffein.imagepipe" name="Imagepipe" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
