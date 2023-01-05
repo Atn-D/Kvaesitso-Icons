@@ -10,12 +10,6 @@ plugins {
 
 allprojects {
     apply(plugin = "org.jmailen.kotlinter")
-
-    tasks.matching {
-        it.name.contains("OssLicensesTask")
-    }.configureEach {
-        notCompatibleWithConfigurationCache("https://github.com/google/play-services-plugins/issues/206")
-    }
 }
 
 tasks.register("clean") {
