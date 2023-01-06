@@ -480,7 +480,7 @@
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
-	<icon drawable="@drawable/generic_icon" package="com.simform.videoimageeditor" name="Apk" />
+    <icon drawable="@drawable/generic_icon" package="com.simform.videoimageeditor" name="Apk" />
     <icon drawable="@drawable/generic_logcat" package="com.dp.logcatapp" name="Logcat" />
     <icon drawable="@drawable/generic_logcat" package="com.f0x1d.logfox" name="Logcat" />
     <icon drawable="@drawable/generic_logcat" package="org.omnirom.logcat" name="Logcat" />
@@ -1645,7 +1645,7 @@
 	<icon drawable="@drawable/weawow" package="com.weawow" name="Weawow" />
 	<icon drawable="@drawable/yono_sbi" package="com.sbi.lotusintouch" name="YONO SBI" />
 	<icon drawable="@drawable/yetcalc" package="yetzio.yetcalc" name="yetCalc" />
-	<icon drawable="@drawable/bdt" package="de.jepfa.bdt" name="Break.Down.Timer" />
+	<icon drawable="@drawable/bdt" package="de.jepfa.bdt" name="BreakDownTimer" />
 	<icon drawable="@drawable/buckwheat" package="com.danilkinkin.buckwheat" name="Buckwheat" />
 	<icon drawable="@drawable/gsrtc" package="com.gsrtc.mobileweb" name="GSRTC" />
 	<icon drawable="@drawable/drugindex" package="com.medengage.drugindex" name="India Drug Index" />
