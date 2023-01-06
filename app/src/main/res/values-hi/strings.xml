@@ -1,2 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="app_name">कवाएसितसो चिह्नो</string>
+    <string name="version_x">संस्करण %s</string>
+    <string name="search_bar_hint">चिह्नो %d तलाशिए</string>
+    <string name="about">के बारे मे</string>
+    <string name="github_link">गिटहब देखिए</string>
+    <string name="request_icons_link">चिह्नो निवेदन</string>
+    <string name="contributors">योगदानकर्ताओ</string>
+    <string name="core_contributors">मुख्य योगदानकर्ताओ</string>
+    <string name="see_all_contributors">सभी योगदानकर्ताओ को देखिए</string>
+    <string name="special_thanks">विशेष धन्यवाद</string>
+    <string name="special_thanks_icon">एप्लीकेशन चिह्न की प्रेरणा के लिए.</string>
+    <string name="special_thanks_name">एप्लीकेशन के नामकरण के लिए.</string>
+    <string name="acknowledgements">स्वीकृतियां</string>
+    <string name="drawable_prefix">Drawable:</string>
+    <string name="package_prefix">पैकेज:</string>
+    <string name="ok_button">ठीक है</string>
+</resources>
