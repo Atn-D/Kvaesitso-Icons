@@ -1657,6 +1657,15 @@
 	<icon drawable="@drawable/englishwhiz" package="com.javalon.englishwhiz" name="EnglishWhiz" />
 	<icon drawable="@drawable/pocketpaint" package="org.catrobat.paintroid" name="Paintroid" />
 	<icon drawable="@drawable/imagepipe" package="de.kaffeemitkoffein.imagepipe" name="Imagepipe" />
+	<icon drawable="@drawable/documents" package="com.onlyoffice.documents" name="Documents OnlyOffice" />
+	<icon drawable="@drawable/anemo" package="exe.bbllw8.anemo" name="Anemo" />
+	<icon drawable="@drawable/avnc" package="com.gaurav.avnc" name="AVNC" />
+	<icon drawable="@drawable/commonvoice" package="org.commonvoice.saverio" name="Common Voice" />
+	<icon drawable="@drawable/retroarch" package="com.retroarch" name="RetroArch" />
+	<icon drawable="@drawable/retroarch" package="com.retroarch.aarch64" name="RetroArch" />
+	<icon drawable="@drawable/mindustry" package="io.anuke.mindustry" name="Mindustry" />
+	<icon drawable="@drawable/bloons_td_5" package="com.ninjakiwi.bloonstd5" name="Bloons TD 5" />
+	<icon drawable="@drawable/itsme" package="be.bmid.itsme" name="itsme" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
