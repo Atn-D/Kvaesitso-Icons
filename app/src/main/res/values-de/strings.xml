@@ -16,4 +16,5 @@
     <string name="ok_button">OK</string>
     <string name="github_link">Github</string>
     <string name="request_icons_link">Symbole anfragen</string>
+    <string name="icon_popup_hint">Tippe auf ein Symbol, um weitere Informationen darüber zu erhalten.</string>
 </resources>
