@@ -1647,7 +1647,6 @@
 	<icon drawable="@drawable/yetcalc" package="yetzio.yetcalc" name="yetCalc" />
 	<icon drawable="@drawable/bdt" package="de.jepfa.bdt" name="BreakDownTimer" />
 	<icon drawable="@drawable/buckwheat" package="com.danilkinkin.buckwheat" name="Buckwheat" />
-	<icon drawable="@drawable/gsrtc" package="com.gsrtc.mobileweb" name="GSRTC" />
 	<icon drawable="@drawable/drugindex" package="com.medengage.drugindex" name="India Drug Index" />
 	<icon drawable="@drawable/owl2" package="io.github.yamin8000.owl" name="Owl2" />
 	<icon drawable="@drawable/photon" package="dev.abhi.photon" name="Share files - Photon share" />
