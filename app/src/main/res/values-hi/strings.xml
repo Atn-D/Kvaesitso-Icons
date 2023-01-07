@@ -16,5 +16,5 @@
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">पैकेज:</string>
     <string name="ok_button">ठीक है</string>
-    <string name="icon_popup_hint">"उसके बारे मे अधिक जानकारी देखने के लिए  चिह्न को दबाइए."</string>
+    <string name="icon_popup_hint">उसके बारे मे अधिक जानकारी देखने के लिए चिह्न को दबाइए.</string>
 </resources>
