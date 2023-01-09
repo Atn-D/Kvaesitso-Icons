@@ -5,13 +5,16 @@
     <string name="contributors">貢献者</string>
     <string name="version_x">バージョン%s</string>
     <string name="core_contributors">主な貢献者</string>
-    <string name="special_thanks_name">アプリのネーミングに</string>
+    <string name="special_thanks_name">アプリのネーミング感謝</string>
     <string name="ok_button">OK</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">パッケージ:</string>
     <string name="app_name">Kvæsitso Icons</string>
     <string name="search_bar_hint">%dアイコンを検索</string>
     <string name="special_thanks">特別感謝</string>
-    <string name="special_thanks_icon">アプリアイコンをインスパイアするために</string>
+    <string name="special_thanks_icon">アプリアイコンにインスパイアの感謝</string>
     <string name="see_all_contributors">すべての貢献者</string>
+    <string name="github_link">Github</string>
+    <string name="request_icons_link">アイコンを要望</string>
+    <string name="icon_popup_hint">詳細はアイコンをタップしてください。</string>
 </resources>
