@@ -1706,6 +1706,17 @@
 	<icon drawable="@drawable/inure" package="app.simple.inure" name="Inure App Manager" />
 	<icon drawable="@drawable/qonqr" package="com.qonqr.android.blue" name="QONQR" />
 	<icon drawable="@drawable/bluewallet" package="io.bluewallet.bluewallet" name="BlueWallet" />
+	<icon drawable="@drawable/vectorpinball" package="com.dozingcatsoftware.bouncy" name="Vector Pinball" />
+	<icon drawable="@drawable/lunarsettings" package="rasel.lunar.launcher" name="Lunar Settings" />
+	<icon drawable="@drawable/muehle" package="com.calcitem.sanmill" name="Muehle" />
+	<icon drawable="@drawable/dicio" package="org.dicio.dicio_android" name="Dicio" />
+	<icon drawable="@drawable/dicio" package="com.setegraus.dicio" name="Dicio" />
+	<icon drawable="@drawable/nova_video_player" package="org.courville.nova" name="Nova Video Player" />
+	<icon drawable="@drawable/foxydroid" package="nya.kitsunyan.foxydroid" name="Foxy Droid" />
+	<icon drawable="@drawable/foxydroid" package="nya.kitsunyan.foxydroid.neo" name="Foxy Droid" />
+	<icon drawable="@drawable/decisions" package="de.markusfisch.android.libra" name="Decisions" />
+	<icon drawable="@drawable/thelife" package="org.hlwd.bible_multi_the_life" name="The Life" />
+	<icon drawable="@drawable/zooforzotero" package="com.mickstarify.zooforzotero" name="Zoo for Zotero" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
