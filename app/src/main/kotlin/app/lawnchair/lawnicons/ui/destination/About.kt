@@ -58,15 +58,15 @@ private val specialThanks = listOf(
         descriptionRes = R.string.special_thanks_name,
     ),
     Contributor(
-        name = "Lawnchair",
+        name = "Lawnicons",
+        username = "LawnchairLauncher",
         photoUrl = "https://avatars.githubusercontent.com/u/34144436?s=200&v=4",
-        socialUrl = "https://lawnchair.app/",
         descriptionRes = R.string.special_thanks_source,
     ),
     Contributor(
-        name = "Donnnno",
+        name = "Arcticons",
+        username = "Donnnno",
         photoUrl = "https://avatars.githubusercontent.com/u/31142286?v=4",
-        socialUrl = "https://arcticons.onnno.nl/",
         descriptionRes = R.string.special_thanks_arctions,
     ),
 )
