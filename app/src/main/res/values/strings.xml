@@ -38,6 +38,10 @@
     <string name="special_thanks_icon">For inspiring the app icon.</string>
     <!-- Subtitle displayed below the user who named the app -->
     <string name="special_thanks_name">For naming the app.</string>
+    <!-- Subtitle displayed below the user who named the app -->
+    <string name="special_thanks_source">For the source code.</string>
+    <!-- Subtitle displayed below the user who named the app -->
+    <string name="special_thanks_arctions">For some SVG.</string>
 
     <!-- Acknowledgement link -->
     <string name="acknowledgements">Acknowledgements</string>
