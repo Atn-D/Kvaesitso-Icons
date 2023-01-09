@@ -17,4 +17,6 @@
     <string name="github_link">Github</string>
     <string name="request_icons_link">Symbole anfragen</string>
     <string name="icon_popup_hint">Tippe auf ein Symbol, um weitere Informationen darüber zu erhalten.</string>
+    <string name="special_thanks_source">Für den Quellcode.</string>
+    <string name="special_thanks_arctions">Für etliche SVG.</string>
 </resources>
