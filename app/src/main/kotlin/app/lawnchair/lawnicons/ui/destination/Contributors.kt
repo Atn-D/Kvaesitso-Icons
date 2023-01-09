@@ -134,7 +134,7 @@ fun ContributorListError(
         onBack()
         // we might be rate-limited, open the web ui instead
         val website =
-            Uri.parse("https://github.com/LawnchairLauncher/lawnicons/graphs/contributors")
+            Uri.parse("https://github.com/daywalk3r666/Kvaesitso-Icons/graphs/contributors")
         val intent = Intent(Intent.ACTION_VIEW, website)
         context.startActivity(intent)
     }
