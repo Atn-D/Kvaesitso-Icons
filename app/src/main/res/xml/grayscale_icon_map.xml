@@ -1717,6 +1717,7 @@
 	<icon drawable="@drawable/decisions" package="de.markusfisch.android.libra" name="Decisions" />
 	<icon drawable="@drawable/thelife" package="org.hlwd.bible_multi_the_life" name="The Life" />
 	<icon drawable="@drawable/zooforzotero" package="com.mickstarify.zooforzotero" name="Zoo for Zotero" />
+	<icon drawable="@drawable/wifianalyzer" package="com.vrem.wifianalyzer" name="Wi-Fi Analyzer" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
