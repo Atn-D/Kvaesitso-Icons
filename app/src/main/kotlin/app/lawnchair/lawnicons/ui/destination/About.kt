@@ -128,6 +128,7 @@ fun About(navController: NavController) {
                             text = stringResource(id = R.string.github_link),
                             url = "https://github.com/daywalk3r666/Kvaesitso-Icons",
                         )
+                        Spacer(Modifier.size(10.dp))
                         LinkButton(
                             text = stringResource(id = R.string.request_icons_link),
                             url = "https://forms.gle/wKnY9HvGz9cfgqfL6",

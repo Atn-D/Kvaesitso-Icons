@@ -2,7 +2,7 @@ package app.lawnchair.lawnicons.ui.component
 
 import android.content.Intent
 import android.net.Uri
-import androidx.compose.material3.FilledTonalButton
+import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.platform.LocalContext
@@ -20,7 +20,7 @@ fun LinkButton(
         context.startActivity(intent)
     }
 
-    FilledTonalButton(
+    OutlinedButton(
         onClick = onClick
     ) {
         Text(text = text)
