@@ -1,0 +1,43 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:name="path"
+        android:pathData="M 87.3 37.483 C 118.69 37.483 170.041 58.388 170.041 94.886 C 170.041 127.957 94.977 148.348 68.363 148.348 C 41.749 148.348 16.5 136.182 16.5 106.024 C 16.5 75.866 43.796 37.483 87.3 37.483 Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_1"
+        android:pathData="M 16.5 106.024 C 16.5 146.463 27.93 160.685 57.615 160.685 C 87.299 160.685 141.721 133.897 162.697 112.379 M 43.435 53.05 C 65.974 34.285 79.452 31.315 101.118 31.315 C 127.22 31.315 175.5 47.422 175.5 83.063 C 175.5 102.14 162.696 112.379 162.696 112.379"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 98.782 109.853 L 98.782 79.462 L 108.688 79.462 C 114.288 79.462 118.828 84.032 118.828 89.669 C 118.828 95.306 114.288 99.876 108.688 99.876 L 98.782 99.876 M 42.049 79.462 L 42.049 109.853 M 62.094 79.462 L 62.094 109.853 M 42.049 94.6 L 62.094 94.6"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 90.79 79.462 L 80.767 94.658 L 70.744 79.462"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_4"
+        android:pathData="M 80.767 109.853 L 80.767 94.658 M 126.82 109.853 L 141.949 109.853 M 126.82 79.462 L 141.949 79.462 M 126.82 94.658 L 136.684 94.658 M 126.82 79.462 L 126.82 109.853"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>

@@ -1733,6 +1733,11 @@
 	<icon drawable="@drawable/zooforzotero" package="com.mickstarify.zooforzotero" name="Zoo for Zotero" />
 	<icon drawable="@drawable/wifianalyzer" package="com.vrem.wifianalyzer" name="Wi-Fi Analyzer" />
 	<icon drawable="@drawable/subhub" package="com.crazylegend.subhub" name="Subhub" />
+	<icon drawable="@drawable/openwrt" package="com.hg.openwrtmanager" name="OpenWRT" />
+	<icon drawable="@drawable/lovense_remote" package="com.lovense.wear" name="Lovense Remote" />
+	<icon drawable="@drawable/letter_uppercase_b" package="com.jithware.brethap" name="Brethap" />
+	<icon drawable="@drawable/wavelet" package="com.pittvandewitt.wavelet" name="Wavelet" />
+	<icon drawable="@drawable/hype" package="it.hype.app" name="Hype" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
