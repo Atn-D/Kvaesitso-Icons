@@ -583,7 +583,7 @@
     <icon drawable="@drawable/heart" package="com.simplemobiletools.thankyou" name="Thank You" />
     <icon drawable="@drawable/hearthstone" package="com.blizzard.wtcg.hearthstone" name="Hearthstone" />
     <icon drawable="@drawable/headphones" package="com.sony.songpal.mdr" name="Sony Headphones Connect" />
-    <icon drawable="@drawable/headphones" package="com.amazon.mp3" name="Amazon Music" />
+    <icon drawable="@drawable/headphones" package="com.amazon.mp3" name="Music Player" />
     <icon drawable="@drawable/headphones" package="com.simplemobiletools.musicplayer" name="Music Player" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
     <icon drawable="@drawable/hiby_music" package="com.hiby.music" name="Hiby Music" />
@@ -1509,7 +1509,6 @@
     <icon drawable="@drawable/adguard" package="com.adguard.android" name="Adguard" />
     <icon drawable="@drawable/swift" package="fr.thema.wear.watch.swift" name="Swift Watch Face" />
     <icon drawable="@drawable/adobelightroom" package="com.adobe.lrmobile" name="Adobe Lightroom" />
-    <icon drawable="@drawable/simplemusicplayer" package="com.simplemobiletools.musicplayer" name="Simple Music Player" />
     <icon drawable="@drawable/keepass2android" package="keepass2android.keepass2android" name="Keepass2Android" />
     <icon drawable="@drawable/dkb" package="com.dkbcodefactory.banking" name="DKB" />
     <icon drawable="@drawable/dkb" package="de.dkb.portalapp" name="DKB" />
@@ -1532,9 +1531,7 @@
     <icon drawable="@drawable/quicktiles" package="com.asdoi.quicktiles" name="QuickTiles" />
     <icon drawable="@drawable/remarkable" package="com.remarkable.mobile" name="The reMarkable Companion" />
     <icon drawable="@drawable/shouldianswer" package="org.mistergroup.shouldianswer" name="Should I Answer" />
-    <icon drawable="@drawable/simpledraw" package="com.simplemobiletools.draw.pro" name="Simple Draw" />
-    <icon drawable="@drawable/simpledraw" package="com.simplemobiletools.draw" name="Simple Draw" />
-    <icon drawable="@drawable/simpledraw" package="ch.martinstoeckli.silentnotes" name="Simple Draw" />
+    <icon drawable="@drawable/pencil" package="ch.martinstoeckli.silentnotes" name="Draw" />
     <icon drawable="@drawable/telenet" package="be.telenet.telenetapp" name="Telemet" />
     <icon drawable="@drawable/stn" package="de.TORR.StN" name="StN News" />
     <icon drawable="@drawable/tusky" package="com.keylesspalace.tusky" name="Tusky for Mastodon" />
