@@ -591,7 +591,6 @@
     <icon drawable="@drawable/iceraven" package="io.github.forkmaintainers.iceraven" name="Iceraven" />
     <icon drawable="@drawable/icon_pack_studio" package="ginlemon.iconpackstudio" name="Icon Pack Studio" />
     <icon drawable="@drawable/icon_request" package="de.kaiserdragon.iconrequest" name="Icon Request" />
-    <icon drawable="@drawable/proton_calendar" package="at.bitfire.icsdroid" name="ICSx5" />
     <icon drawable="@drawable/idfc" package="com.fiserv.IDFCMerchantServices" name="IDFC FIRST Bank ME Services" />
     <icon drawable="@drawable/idfc" package="com.idfcfirstbank.optimus" name="IDFC FIRST" />
     <icon drawable="@drawable/idm" package="idm.internet.download.manager" name="1dm" />
@@ -1363,6 +1362,7 @@
     <icon drawable="@drawable/weather" package="com.akylas.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.coloros.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="com.handmark.expressweather" name="Weather" />
+	<icon drawable="@drawable/weather" package="com.kokoschka.michael.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.miui.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="net.oneplus.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="org.secuso.privacyfriendlyweather" name="Weather" />
@@ -1722,6 +1722,7 @@
 	<icon drawable="@drawable/thelife" package="org.hlwd.bible_multi_the_life" name="The Life" />
 	<icon drawable="@drawable/zooforzotero" package="com.mickstarify.zooforzotero" name="Zoo for Zotero" />
 	<icon drawable="@drawable/wifianalyzer" package="com.vrem.wifianalyzer" name="Wi-Fi Analyzer" />
+	<icon drawable="@drawable/subhub" package="com.crazylegend.subhub" name="Subhub" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
