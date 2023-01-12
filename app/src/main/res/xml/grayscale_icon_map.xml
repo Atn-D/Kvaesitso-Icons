@@ -1750,6 +1750,10 @@
 	<icon drawable="@drawable/letter_uppercase_b" package="com.jithware.brethap" name="Brethap" />
 	<icon drawable="@drawable/wavelet" package="com.pittvandewitt.wavelet" name="Wavelet" />
 	<icon drawable="@drawable/hype" package="it.hype.app" name="Hype" />
+	<icon drawable="@drawable/permission_pilot" package="eu.darken.myperm" name="Permission Pilot" />
+	<icon drawable="@drawable/murglar" package="com.badmanners.murglar2" name="Murglar" />
+	<icon drawable="@drawable/denoiseit" package="reaimagine.denoiseit" name="Denoise it" />
+	<icon drawable="@drawable/furaffinity" package="open.furaffinity.client" name="Open Furaffinity Client" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
