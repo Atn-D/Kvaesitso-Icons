@@ -493,7 +493,6 @@
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
-<<<<<<< HEAD
     <icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
@@ -1681,7 +1680,6 @@
 	<icon drawable="@drawable/io" package="it.pagopa.io.app" name="IO" />
 	<icon drawable="@drawable/moovit" package="com.tranzmate" name="Moovit" />
 	<icon drawable="@drawable/opendocument_reader" package="at.tomtasche.reader" name="LibreOffice &amp; OpenOffice docum" />
-    <icon drawable="@drawable/splitwise" package="com.Splitwise.SplitwiseMobile" name="Splitwise" />
 	<icon drawable="@drawable/ilpost" package="it.ilpost.app" name="Il Post" />
 	<icon drawable="@drawable/gimme5" package="it.reply.kc.android.gimme5" name="Gimme5" />
 	<icon drawable="@drawable/ticket_restaurant" package="com.edenred.mobiletr" name="Ticket Restaurant" />
@@ -1756,6 +1754,8 @@
 	<icon drawable="@drawable/murglar" package="com.badmanners.murglar2" name="Murglar" />
 	<icon drawable="@drawable/denoiseit" package="reaimagine.denoiseit" name="Denoise it" />
 	<icon drawable="@drawable/furaffinity" package="open.furaffinity.client" name="Open Furaffinity Client" />
+	<icon drawable="@drawable/koduko" package="com.example.koduko" name="Koduko" />
+	<icon drawable="@drawable/lolisnatcher" package="com.noaisu.lolisnatcher" name="LoliSnatcher" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
