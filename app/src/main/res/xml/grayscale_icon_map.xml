@@ -1321,7 +1321,6 @@
     <icon drawable="@drawable/twitch" package="tv.twitch.android.app" name="Twitch" />
     <icon drawable="@drawable/twitch" package="tv.twitch.bttvandroid.app" name="Twitch" />
     <icon drawable="@drawable/twitch" package="tv.twitchmod.android.app" name="Twitch" />
-    <icon drawable="@drawable/twitch" package="tv.orange" name="PurpleTV" />
     <icon drawable="@drawable/twitter" package="com.twitter.android" name="Twitter" />
     <icon drawable="@drawable/twitter" package="com.twitter.android.lite" name="Twitter" />
     <icon drawable="@drawable/two_zero_four_eight" package="com.tpcstld.twozerogame" name="2048" />
@@ -1760,6 +1759,7 @@
 	<icon drawable="@drawable/batterybot" package="com.darshancomputing.BatteryIndicator" name="BatteryBot" />
 	<icon drawable="@drawable/batterybot" package="com.darshancomputing.BatteryIndicatorPro" name="BatteryBot" />
 	<icon drawable="@drawable/goodtime" package="com.apps.adrcotfas.goodtime" name="Goodtime" />
+	<icon drawable="@drawable/purpletv" package="tv.orange" name="PurpleTV" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
