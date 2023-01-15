@@ -1760,6 +1760,7 @@
     <icon drawable="@drawable/batterybot" package="com.darshancomputing.BatteryIndicatorPro" name="BatteryBot" />
     <icon drawable="@drawable/goodtime" package="com.apps.adrcotfas.goodtime" name="Goodtime" />
     <icon drawable="@drawable/purpletv" package="tv.orange" name="PurpleTV" />
+    <icon drawable="@drawable/randomix" package="com.minar.randomix" name="Randomix" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
