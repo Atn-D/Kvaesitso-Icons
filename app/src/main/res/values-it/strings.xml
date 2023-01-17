@@ -2,18 +2,21 @@
 <resources>
     <string name="version_x">Versione %s</string>
     <string name="search_bar_hint">Cerca %d icone</string>
-    <string name="acknowledgements">Riconoscimenti</string>
+    <string name="acknowledgements">Ringraziamenti</string>
     <string name="about">Informazioni</string>
-    <string name="contributors">Contributori</string>
+    <string name="contributors">Collaboratori</string>
     <string name="app_name">Icone Kvæsitso</string>
-    <string name="request_icons_link">Richiedi Icone</string>
-    <string name="core_contributors">Contributori Chiave</string>
-    <string name="see_all_contributors">Vedi tutti i Contributori</string>
-    <string name="special_thanks">Ringraziamenti Speciali</string>
+    <string name="request_icons_link">Richiedi icone</string>
+    <string name="core_contributors">Collaboratori principali</string>
+    <string name="see_all_contributors">Vedi tutti i collaboratori</string>
+    <string name="special_thanks">Ringraziamenti speciali</string>
     <string name="special_thanks_icon">Per aver ispirato l\'icona dell\'app.</string>
     <string name="special_thanks_name">Per aver dato il nome all\'app.</string>
     <string name="ok_button">OK</string>
     <string name="github_link">Visualizza su GitHub</string>
-    <string name="drawable_prefix">Drawable:</string>
+    <string name="drawable_prefix">Disegnabile:</string>
     <string name="package_prefix">Pacchetto:</string>
+    <string name="icon_popup_hint">Tocca un\'icona per visualizzare ulteriori informazioni.</string>
+    <string name="special_thanks_source">Per il codice sorgente.</string>
+    <string name="special_thanks_arctions">Per alcuni SVG.</string>
 </resources>
