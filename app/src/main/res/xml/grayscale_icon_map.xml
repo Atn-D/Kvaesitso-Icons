@@ -1766,6 +1766,8 @@
     <icon drawable="@drawable/randomix" package="com.minar.randomix" name="Randomix" />
     <icon drawable="@drawable/droidfs" package="sushi.hardcore.droidfs" name="DroidFS" />
     <icon drawable="@drawable/newquiz" package="com.infinitepower.newquiz" name="New Quiz" />
+    <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
+    <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority" name="Port Authority" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
