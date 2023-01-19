@@ -8,6 +8,6 @@
     "ignoreDeps": [
         "org.jetbrains.kotlin",
         "com.google.devtools.ksp",
-        "com.github.LawnchairLauncher:oss-notices:1.0.2"
+        "com.google.android.gms.oss-licenses-plugin"
     ]
 }
