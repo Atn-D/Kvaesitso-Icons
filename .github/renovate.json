@@ -3,7 +3,7 @@
         "dependencies"
     ],
     "extends": [
-        "config:base", ":disableDependencyDashboard"
+        "config:base"
     ],
     "ignoreDeps": [
         "org.jetbrains.kotlin",
