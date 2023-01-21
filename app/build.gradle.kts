@@ -18,8 +18,8 @@ android {
         applicationId = "de.kvaesitso.icons"
         minSdk = 26
         targetSdk = 33
-        versionCode = 4
-        versionName = "1.3.0"
+        versionCode = 5
+        versionName = "1.4.0"
     }
 
     val keystorePropertiesFile = rootProject.file("keystore.properties")
