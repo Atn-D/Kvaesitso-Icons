@@ -6,7 +6,6 @@
     <string name="version_x">バージョン%s</string>
     <string name="core_contributors">主な貢献者</string>
     <string name="special_thanks_name">アプリのネーミング感謝</string>
-    <string name="ok_button">OK</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">パッケージ:</string>
     <string name="app_name">Kvæsitso Icons</string>

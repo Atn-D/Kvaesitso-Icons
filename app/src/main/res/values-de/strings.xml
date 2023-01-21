@@ -13,7 +13,6 @@
     <string name="special_thanks_name">Für die Namensgebung der App.</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Paketname:</string>
-    <string name="ok_button">OK</string>
     <string name="github_link">Github</string>
     <string name="request_icons_link">Symbole anfragen</string>
     <string name="special_thanks_source">Für den Quellcode.</string>

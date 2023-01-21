@@ -13,5 +13,4 @@
     <string name="contributors">Контрибьюторы</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Имя пакета:</string>
-    <string name="ok_button">Хорошо</string>
 </resources>

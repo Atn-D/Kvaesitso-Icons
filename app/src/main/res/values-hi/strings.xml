@@ -15,7 +15,6 @@
     <string name="acknowledgements">स्वीकृतियां</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">पैकेज:</string>
-    <string name="ok_button">ठीक है</string>
     <string name="special_thanks_source">स्रोत संहिता के लिए.</string>
     <string name="special_thanks_arctions">कुछ अेसवीजी के लिए.</string>
 </resources>

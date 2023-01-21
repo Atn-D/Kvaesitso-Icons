@@ -52,6 +52,4 @@
     <string name="drawable_prefix">Drawable:</string>
     <!-- Package prefix -->
     <string name="package_prefix">Package:</string>
-    <!-- OK button -->
-    <string name="ok_button">OK</string>
 </resources>
