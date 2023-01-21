@@ -4,9 +4,8 @@ import java.util.Properties
 
 plugins {
     id("com.android.application")
-    id("kotlin-kapt")
     id("org.jetbrains.kotlin.android")
-    id("com.sergei-lapin.napt")
+    id("kotlin-kapt")
     id("dagger.hilt.android.plugin")
     id("com.google.android.gms.oss-licenses-plugin")
 }
@@ -21,7 +20,6 @@ android {
         targetSdk = 33
         versionCode = 4
         versionName = "1.3.0"
-        vectorDrawables.useSupportLibrary = true
     }
 
     val keystorePropertiesFile = rootProject.file("keystore.properties")
@@ -55,7 +53,7 @@ android {
     }
 
     kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_11.toString()
+        jvmTarget = "11"
     }
 
     buildFeatures {
@@ -86,32 +84,22 @@ android {
     }
 }
 
-hilt.enableAggregatingTask = false
-
 dependencies {
-    val lifecycleVersion = "2.5.1"
     val accompanistVersion = "0.28.0"
     val hiltVersion = "2.44.2"
     val retrofitVersion = "2.9.0"
 
-    implementation("androidx.core:core-ktx:1.9.0")
-    implementation("androidx.activity:activity-compose:1.6.1")
     implementation("androidx.appcompat:appcompat:1.6.0")
     implementation(platform("androidx.compose:compose-bom:2023.01.00"))
     implementation("androidx.compose.ui:ui")
     implementation("androidx.compose.ui:ui-tooling-preview")
-    debugImplementation("androidx.compose.ui:ui-tooling")
-    implementation("androidx.compose.animation:animation")
     implementation("androidx.compose.material:material")
     implementation("androidx.core:core-splashscreen:1.0.0")
     implementation("androidx.compose.material3:material3:1.1.0-alpha04")
-    implementation("androidx.lifecycle:lifecycle-runtime-ktx:$lifecycleVersion")
-    implementation("androidx.lifecycle:lifecycle-viewmodel-compose:$lifecycleVersion")
     implementation("com.google.accompanist:accompanist-insets:$accompanistVersion")
     implementation("com.google.accompanist:accompanist-systemuicontroller:$accompanistVersion")
     implementation("com.google.accompanist:accompanist-placeholder-material:$accompanistVersion")
     implementation("com.google.accompanist:accompanist-navigation-animation:$accompanistVersion")
-    implementation("io.github.fornewid:material-motion-compose-core:0.10.4")
     implementation("com.google.dagger:hilt-android:$hiltVersion")
     kapt("com.google.dagger:hilt-android-compiler:$hiltVersion")
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
