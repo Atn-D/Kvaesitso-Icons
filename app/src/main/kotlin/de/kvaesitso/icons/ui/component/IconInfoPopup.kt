@@ -1,6 +1,11 @@
 package de.kvaesitso.icons.ui.component
 
+import androidx.compose.foundation.BorderStroke
+import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.shape.RoundedCornerShape
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.rounded.Close
 import androidx.compose.material3.AlertDialog
 import androidx.compose.material3.Icon
 import androidx.compose.material3.MaterialTheme
@@ -37,8 +42,9 @@ fun IconInfoPopup(
             )
         },
         confirmButton = {
-            TextButton(onClick = { isPopupShown.value = false }) {
-                Text(text = stringResource(id = R.string.ok_button))
+            TextButton(onClick = { isPopupShown.value = false }, shape = RoundedCornerShape(12.dp), border = BorderStroke(width = 2.dp, color = MaterialTheme.colorScheme.onBackground), contentPadding = PaddingValues(start = 2.dp, end = 2.dp)
+            ) {
+                Icon(imageVector = Icons.Rounded.Close, contentDescription = "Cancel", tint = MaterialTheme.colorScheme.onBackground)
             }
         },
         text = {
