@@ -1,0 +1,26 @@
+package de.kvaesitso.icons
+
+import android.os.Bundle
+import androidx.activity.ComponentActivity
+import androidx.activity.compose.setContent
+import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.material3.ExperimentalMaterial3Api
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
+import androidx.core.view.WindowCompat
+import dagger.hilt.android.AndroidEntryPoint
+import de.kvaesitso.icons.ui.component.Lawnicons
+
+@ExperimentalFoundationApi
+@ExperimentalMaterial3Api
+@AndroidEntryPoint
+class MainActivity : ComponentActivity() {
+    override fun onCreate(savedInstanceState: Bundle?) {
+        installSplashScreen()
+
+        super.onCreate(savedInstanceState)
+        WindowCompat.setDecorFitsSystemWindows(window, false)
+        setContent {
+            Lawnicons()
+        }
+    }
+}

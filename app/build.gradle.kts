@@ -12,7 +12,7 @@ plugins {
 
 android {
     compileSdk = 33
-    namespace = "app.lawnchair.lawnicons"
+    namespace = "de.kvaesitso.icons"
 
     defaultConfig {
         applicationId = "de.kvaesitso.icons"
