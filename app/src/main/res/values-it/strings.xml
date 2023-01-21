@@ -16,7 +16,6 @@
     <string name="github_link">Visualizza su GitHub</string>
     <string name="drawable_prefix">Disegnabile:</string>
     <string name="package_prefix">Pacchetto:</string>
-    <string name="icon_popup_hint">Tocca un\'icona per visualizzare ulteriori informazioni.</string>
     <string name="special_thanks_source">Per il codice sorgente.</string>
     <string name="special_thanks_arctions">Per alcuni SVG.</string>
 </resources>

@@ -10,14 +10,11 @@ import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.res.stringResource
 import androidx.hilt.navigation.compose.hiltViewModel
 import androidx.navigation.NavController
-import de.kvaesitso.icons.R
 import de.kvaesitso.icons.ui.component.IconPreviewGrid
 import de.kvaesitso.icons.ui.component.SearchBar
 import de.kvaesitso.icons.ui.component.SearchBarBase
-import de.kvaesitso.icons.ui.component.SimpleListRow
 import de.kvaesitso.icons.viewmodel.LawniconsViewModel
 
 @Composable
@@ -43,7 +40,6 @@ fun Home(
                         lawniconsViewModel.searchIcons(newValue)
                     },
                 )
-                SimpleListRow(label = stringResource(R.string.icon_popup_hint))
                 IconPreviewGrid(iconInfo = it.iconInfo)
             }
         } else {

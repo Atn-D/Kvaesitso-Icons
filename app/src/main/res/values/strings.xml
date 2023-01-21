@@ -48,9 +48,6 @@
 
     <!-- Icon Information Popup window -->
 
-    <!-- Hint that is always shown after the search bar -->
-    <string name="icon_popup_hint">Tap on an icon to view more information about it.</string>
-
     <!-- Drawable prefix -->
     <string name="drawable_prefix">Drawable:</string>
     <!-- Package prefix -->
