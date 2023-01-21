@@ -1391,6 +1391,7 @@
     <icon drawable="@drawable/wear" package="com.samsung.android.gearpplugin" name="Samsung Wear" />
     <icon drawable="@drawable/wear" package="com.samsung.accessory.beansmgr" name="Samsung Wear" />
     <icon drawable="@drawable/wear_os" package="com.google.android.wearable.app" name="Wear OS" />
+    <icon drawable="@drawable/weather" package="co.prestosole.clima" name="Weather" />
     <icon drawable="@drawable/weather" package="com.akylas.weather" name="Weather" />
     <icon drawable="@drawable/weather" package="com.coloros.weather2" name="Weather" />
     <icon drawable="@drawable/weather" package="com.handmark.expressweather" name="Weather" />
@@ -1771,6 +1772,8 @@
     <icon drawable="@drawable/newquiz" package="com.infinitepower.newquiz" name="New Quiz" />
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority" name="Port Authority" />
+    <icon drawable="@drawable/tiwee" package="com.example.Tiwee" name="Tiwee" />
+    <icon drawable="@drawable/bodhi_timer" package="org.yuttadhammo.BodhiTimer" name="Bodhi Timer" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
