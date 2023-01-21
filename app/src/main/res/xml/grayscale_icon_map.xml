@@ -730,7 +730,6 @@
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
     <icon drawable="@drawable/marindeck" package="online.hisubway.marindeck" name="MarinDeck" />
     <icon drawable="@drawable/mastodon" package="org.joinmastodon.android" name="Mastodon" />
-    <icon drawable="@drawable/mastodon" package="org.joinmastodon.android.sk" name="Mastodon" />
     <icon drawable="@drawable/material_catalog" package="androidx.compose.material.catalog" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="com.numero.material_gallery" name="Material Catalog" />
     <icon drawable="@drawable/material_catalog" package="io.material.catalog" name="Material Catalog" />
@@ -754,6 +753,7 @@
     <icon drawable="@drawable/medito" package="meditofoundation.medito" name="Medito" />
     <icon drawable="@drawable/medium" package="com.medium.reader" name="Medium" />
     <icon drawable="@drawable/mega" package="mega.privacy.android.app" name="Mega" />
+    <icon drawable="@drawable/megalodon" package="org.joinmastodon.android.sk" name="Megalodon" />
     <icon drawable="@drawable/meinvodafone" package="com.VodafoneIreland.MyVodafone" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/meinvodafone" package="com.appseleration.android.selfcare" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/meinvodafone" package="com.myvodafoneapp" name="MeinVodafone / My Vodafone" />
