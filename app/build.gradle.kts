@@ -4,6 +4,7 @@ import java.util.Properties
 
 plugins {
     id("com.android.application")
+    id("kotlin-kapt")
     id("org.jetbrains.kotlin.android")
     id("com.sergei-lapin.napt")
     id("dagger.hilt.android.plugin")
@@ -21,9 +22,8 @@ android {
         versionCode = 4
         versionName = "1.3.0"
         vectorDrawables.useSupportLibrary = true
-        
     }
-    
+
     val keystorePropertiesFile = rootProject.file("keystore.properties")
     val releaseSigning = if (keystorePropertiesFile.exists()) {
         val keystoreProperties = Properties()
@@ -77,12 +77,11 @@ android {
         includeInApk = false
         includeInBundle = false
     }
-    
 
     applicationVariants.all {
         outputs.all {
             (this as? ApkVariantOutputImpl)?.outputFileName =
-                "Kvæsitso-Icons_${versionName}_${buildType.name}.apk"
+                "Kvaesitso-Icons_${versionName}_${buildType.name}.apk"
         }
     }
 }
@@ -114,7 +113,7 @@ dependencies {
     implementation("com.google.accompanist:accompanist-navigation-animation:$accompanistVersion")
     implementation("io.github.fornewid:material-motion-compose-core:0.10.4")
     implementation("com.google.dagger:hilt-android:$hiltVersion")
-    annotationProcessor("com.google.dagger:hilt-android-compiler:$hiltVersion")
+    kapt("com.google.dagger:hilt-android-compiler:$hiltVersion")
     implementation("androidx.hilt:hilt-navigation-compose:1.0.0")
     implementation("com.github.LawnchairLauncher:oss-notices:1.0.2")
     implementation("io.coil-kt:coil-compose:2.2.2")
