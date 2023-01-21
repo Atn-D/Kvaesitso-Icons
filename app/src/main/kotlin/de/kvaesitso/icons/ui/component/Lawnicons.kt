@@ -7,8 +7,6 @@ import androidx.compose.material.Surface
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
-import androidx.compose.ui.platform.LocalLayoutDirection
-import androidx.compose.ui.unit.LayoutDirection
 import androidx.navigation.NavType
 import androidx.navigation.navArgument
 import com.google.accompanist.navigation.animation.AnimatedNavHost
@@ -21,17 +19,12 @@ import de.kvaesitso.icons.ui.destination.Contributors
 import de.kvaesitso.icons.ui.destination.Home
 import de.kvaesitso.icons.ui.theme.LawniconsTheme
 import de.kvaesitso.icons.ui.util.Destinations
-import soup.compose.material.motion.animation.materialSharedAxisXIn
-import soup.compose.material.motion.animation.materialSharedAxisXOut
-import soup.compose.material.motion.animation.rememberSlideDistance
 
 @Composable
 @ExperimentalFoundationApi
 @OptIn(ExperimentalAnimationApi::class)
 fun Lawnicons() {
     val navController = rememberAnimatedNavController()
-    val isRtl = LocalLayoutDirection.current == LayoutDirection.Rtl
-    val slideDistance = rememberSlideDistance()
 
     LawniconsTheme {
         SystemUi()
@@ -42,10 +35,6 @@ fun Lawnicons() {
             AnimatedNavHost(
                 navController = navController,
                 startDestination = Destinations.HOME,
-                enterTransition = { materialSharedAxisXIn(!isRtl, slideDistance) },
-                exitTransition = { materialSharedAxisXOut(!isRtl, slideDistance) },
-                popEnterTransition = { materialSharedAxisXIn(isRtl, slideDistance) },
-                popExitTransition = { materialSharedAxisXOut(isRtl, slideDistance) },
             ) {
                 composable(route = Destinations.HOME) {
                     Home(navController = navController)

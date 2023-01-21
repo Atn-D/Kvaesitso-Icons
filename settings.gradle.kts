@@ -1,8 +1,10 @@
+include(":app")
+
 pluginManagement {
     repositories {
         google()
         gradlePluginPortal()
-        
+
     }
     resolutionStrategy {
         eachPlugin {
@@ -14,30 +16,13 @@ pluginManagement {
     }
 }
 
-// https://docs.gradle.com/enterprise/gradle-plugin/
-plugins {
-    id("com.gradle.enterprise") version "3.12.2"
-}
-
-gradleEnterprise {
-    buildScan {
-        termsOfServiceUrl = "https://gradle.com/terms-of-service"
-        termsOfServiceAgree = "yes"
-        publishAlways()
-    }
-}
-
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
         google()
         mavenCentral()
-        maven("https://jitpack.io")
+        maven(
+            "https://jitpack.io"
+        )
     }
 }
-
-rootProject.name = "Lawnicons"
-
-enableFeaturePreview("STABLE_CONFIGURATION_CACHE")
-
-include(":app")
