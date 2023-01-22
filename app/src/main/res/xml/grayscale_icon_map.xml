@@ -1774,6 +1774,12 @@
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority" name="Port Authority" />
     <icon drawable="@drawable/tiwee" package="com.example.Tiwee" name="Tiwee" />
     <icon drawable="@drawable/bodhi_timer" package="org.yuttadhammo.BodhiTimer" name="Bodhi Timer" />
+    <icon drawable="@drawable/aniyomi" package="xyz.jmir.tachiyomi.mi" name="Aniyomi" />
+    <icon drawable="@drawable/aniyomi" package="xyz.jmir.tachiyomi.mi.debug" name="Aniyomi" />
+    <icon drawable="@drawable/shosetsu" package="app.shosetsu.android" name="Shosetsu" />
+    <icon drawable="@drawable/shosetsu" package="app.shosetsu.android.fdroid" name="Shosetsu" />
+    <icon drawable="@drawable/shosetsu" package="com.github.doomsdayrs.apps.shosetsu.debug" name="Shosetsu" />
+    <icon drawable="@drawable/myne" package="com.starry.myne" name="Myne: Ebook Downloader" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
