@@ -817,6 +817,7 @@
     <icon drawable="@drawable/mobikwik" package="com.mobikwik_new" name="Mobikwik" />
     <icon drawable="@drawable/mobile_legends" package="com.mobile.legends" name="Mobile Legends" />
     <icon drawable="@drawable/mobiles_bezahlen" package="com.s_payment.mobiles_bezahlen" name="Mobiles Bezahlen" />
+    <icon drawable="@drawable/molly" package="im.molly.app" name="Molly" />
     <icon drawable="@drawable/momox" package="de.momox" name="momox" />
     <icon drawable="@drawable/monobank" package="com.ftband.mono" name="Monobank" />
     <icon drawable="@drawable/monzo" package="co.uk.getmondo" name="Monzo" />
@@ -1151,7 +1152,6 @@
     <icon drawable="@drawable/shortcut_maker" package="rk.android.app.shortcutmaker" name="Shortcut Maker" />
     <icon drawable="@drawable/show_youtube_dislikes" package="com.jesperh.showyoutubedislikes" name="Show Youtube Dislikes" />
     <icon drawable="@drawable/showly" package="com.michaldrabik.showly2" name="Showly" />
-    <icon drawable="@drawable/signal" package="im.molly.app" name="Signal" />
     <icon drawable="@drawable/signal" package="org.thoughtcrime.securesms" name="Signal" />
     <icon drawable="@drawable/sim_toolkit" package="com.android.stk" name="SIM Toolkit" />
     <icon drawable="@drawable/simpl_pay" package="com.simpl.android" name="Simpl Pay Later" />
