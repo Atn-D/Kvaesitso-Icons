@@ -586,6 +586,7 @@
     <icon drawable="@drawable/groupme" package="com.groupme.android" name="GroupMe" />
     <icon drawable="@drawable/grundgesetz" package="de.bpb.grundgesetz" name="Grundgesetz" />
     <icon drawable="@drawable/guardians" package="com.truecaller.guardians" name="Guardians" />
+    <icon drawable="@drawable/hacki" package="com.jiaqifeng.hacki" name="Hacki" />
     <icon drawable="@drawable/hago" package="com.yy.hiyo" name="Hago" />
     <icon drawable="@drawable/hbo_max" package="com.hbo.hbonow" name="HBO Max" />
     <icon drawable="@drawable/hdfc" package="com.snapwork.hdfc" name="HDFC Bank" />
