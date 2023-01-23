@@ -1345,6 +1345,7 @@
     <icon drawable="@drawable/untis_mobile" package="com.grupet.web.app" name="Untis Mobile" />
     <icon drawable="@drawable/urbano_norte" package="br.com.urbanonorte.passenger.drivermachine" name="Urbano Norte" />
     <icon drawable="@drawable/usagedirect" package="godau.fynn.usagedirect" name="usageDirect" />
+    <icon drawable="@drawable/v2rayng" package="com.v2ray.ang" name="v2rayNG" />
     <icon drawable="@drawable/vacation_days" package="rocks.poopjournal.vacationdays" name="Vacation Days" />
     <icon drawable="@drawable/valetudo" package="cloud.valetudo.companion" name="Valetudo Companion" />
     <icon drawable="@drawable/vanced_manager" package="com.vanced.manager" name="Vanced Manager" />
