@@ -1780,6 +1780,8 @@
     <icon drawable="@drawable/shosetsu" package="app.shosetsu.android.fdroid" name="Shosetsu" />
     <icon drawable="@drawable/shosetsu" package="com.github.doomsdayrs.apps.shosetsu.debug" name="Shosetsu" />
     <icon drawable="@drawable/myne" package="com.starry.myne" name="Myne: Ebook Downloader" />
+    <icon drawable="@drawable/exodusprivacy" package="org.eu.exodus_privacy.exodusprivacy" name="Exodus" />
+    <icon drawable="@drawable/surveyheart" package="com.surveyheart" name="SurveyHeart" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
