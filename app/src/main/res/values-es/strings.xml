@@ -1,2 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources></resources>
+<resources>
+    <string name="version_x">Versión %s</string>
+    <string name="about">Acerca de</string>
+    <string name="request_icons_link">Solicitar iconos</string>
+    <string name="core_contributors">Contribuidores Principales</string>
+    <string name="special_thanks">Agradecimientos Especiales</string>
+    <string name="see_all_contributors">Visualizar Todos los Contribuidores</string>
+    <string name="special_thanks_name">Por nombrar la aplicación.</string>
+    <string name="special_thanks_arctions">Por algúnos SVG.</string>
+    <string name="acknowledgements">Reconocimientos</string>
+    <string name="package_prefix">Paquete:</string>
+    <string name="drawable_prefix">Prefijo:</string>
+    <string name="app_name">Iconos Kvæsitso</string>
+    <string name="search_bar_hint">Buscar %d iconos</string>
+    <string name="github_link">Visualizar GitHub</string>
+    <string name="contributors">Contribuidores</string>
+    <string name="special_thanks_icon">Por inspirar el icono de la aplicación.</string>
+    <string name="special_thanks_source">Por el código fuente.</string>
+</resources>
