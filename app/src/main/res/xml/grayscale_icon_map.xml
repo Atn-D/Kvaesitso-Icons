@@ -505,7 +505,6 @@
     <icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
-    <icon drawable="@drawable/generic_games" package="com.trueaxis.trueskate" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.riotgames.league.teamfighttactics" name="Games" />
@@ -1798,6 +1797,16 @@
     <icon drawable="@drawable/chollometro" package="com.chollometro" name="Chollometro – Chollos, ofertas" />
     <icon drawable="@drawable/vibemusic" package="com.webyte.vibe_music" name="Vibe Music" />
     <icon drawable="@drawable/myproximus" package="be.belgacom.hello" name="MyProximus" />
+    <icon drawable="@drawable/trueskate" package="com.trueaxis.trueskate" name="True Skate" />
+    <icon drawable="@drawable/moelist" package="com.axiel7.moelist" name="MoeList" />
+    <icon drawable="@drawable/flowfreewarps" package="com.bigduckgames.flow" name="Flow Free Warps" />
+    <icon drawable="@drawable/bettercounter" package="org.kde.bettercounter" name="BetterCounter" />
+    <icon drawable="@drawable/classysharkexodus" package="com.oF2pks.classyshark3xodus" name="ClassySharkexodus" />
+    <icon drawable="@drawable/url_checker" package="com.trianguloy.urlchecker" name="Url checker" />
+    <icon drawable="@drawable/swiftkey" package="com.touchtype.swiftkey" name="SwiftKey" />
+    <icon drawable="@drawable/swiftkey" package="com.touchtype.swiftkey.beta" name="SwiftKey" />
+    <icon drawable="@drawable/libreofficeviewer" package="org.documentfoundation.libreoffice" name="LibreOffice Viewer" />
+    <icon drawable="@drawable/survivalmanual" package="org.ligi.survivalmanual" name="Survival Manual" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
