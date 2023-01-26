@@ -1,0 +1,41 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:name="path"
+        android:pathData="M 49.38 42.52 L 141.68 42.52 L 141.68 134.82 L 49.38 134.82 Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"/>
+    <path
+        android:name="path_1"
+        android:pathData="M 120.38 56.64 C 124.09 56.64 127.11 59.66 127.11 63.37 C 127.11 67.08 124.09 70.1 120.38 70.1 C 116.67 70.1 113.65 67.08 113.65 63.37 C 113.65 59.66 116.67 56.64 120.38 56.64 M 120.38 48.64 C 112.24 48.64 105.65 55.24 105.65 63.37 C 105.65 71.5 112.25 78.1 120.38 78.1 C 128.51 78.1 135.11 71.5 135.11 63.37 C 135.11 55.24 128.51 48.64 120.38 48.64 Z"
+        android:fillColor="#000"
+        android:strokeWidth="1"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 142.62 85.88 C 136.89 91.65 128.94 95.22 120.17 95.22 C 102.68 95.22 88.51 81.04 88.51 63.56 C 88.51 55.22 91.74 47.63 97.01 41.98"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeMiterLimit="10"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 135.11 91.5 C 129.76 101.41 119.28 108.15 107.23 108.15 C 89.74 108.15 75.57 93.97 75.57 76.49 C 75.57 64.56 82.16 54.18 91.91 48.78"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeMiterLimit="10"/>
+    <path
+        android:name="path_4"
+        android:pathData="M 121.53 105.09 C 116.18 115 105.7 121.74 93.65 121.74 C 76.16 121.74 61.99 107.56 61.99 90.08 C 61.99 78.15 68.58 67.77 78.33 62.37"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeMiterLimit="10"/>
+    <path
+        android:name="path_5"
+        android:pathData="M 151.24 28 C 153.67 28 155.64 29.98 155.64 32.4 L 155.64 159.59 C 155.64 162.02 153.66 163.99 151.24 163.99 L 40.76 163.99 C 38.33 163.99 36.36 162.01 36.36 159.59 L 36.36 32.4 C 36.36 29.97 38.34 28 40.76 28 L 151.23 28 M 151.23 16 L 40.76 16 C 31.7 16 24.36 23.34 24.36 32.4 L 24.36 159.59 C 24.36 168.65 31.7 175.99 40.76 175.99 L 151.23 175.99 C 160.29 175.99 167.63 168.65 167.63 159.59 L 167.63 32.4 C 167.63 23.34 160.29 16 151.23 16 Z"
+        android:fillColor="#000"
+        android:strokeWidth="1"/>
+</vector>
