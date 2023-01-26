@@ -1234,6 +1234,7 @@
     <icon drawable="@drawable/stremio" package="com.stremio.one" name="Stremio" />
     <icon drawable="@drawable/substratum_lite" package="projekt.substratum.lite" name="substratum Lite" />
     <icon drawable="@drawable/sudoku" package="com.easybrain.sudoku.android" name="Sudoku" />
+    <icon drawable="@drawable/sudoku" package="com.kaajjo.libresudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="org.secuso.privacyfriendlysudoku" name="Sudoku" />
     <icon drawable="@drawable/sweech" package="com.sweech" name="Sweech" />
