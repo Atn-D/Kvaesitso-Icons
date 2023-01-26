@@ -1795,6 +1795,7 @@
     <icon drawable="@drawable/remotenow" package="com.universal.remote.ms" name="RemoteNOW" />
     <icon drawable="@drawable/chollometro" package="com.chollometro" name="Chollometro – Chollos, ofertas" />
     <icon drawable="@drawable/vibemusic" package="com.webyte.vibe_music" name="Vibe Music" />
+    <icon drawable="@drawable/myproximus" package="be.belgacom.hello" name="MyProximus" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
