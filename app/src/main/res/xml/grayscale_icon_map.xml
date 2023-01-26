@@ -505,6 +505,7 @@
     <icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.rvappstudios.jigsaw.puzzles.kids" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.storytoys.miffy.free.android.googleplay" name="Games" />
+    <icon drawable="@drawable/generic_games" package="com.trueaxis.trueskate" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
     <icon drawable="@drawable/generic_games" package="io.chaldeaprjkt.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.riotgames.league.teamfighttactics" name="Games" />
