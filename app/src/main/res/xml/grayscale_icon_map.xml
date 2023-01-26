@@ -67,6 +67,7 @@
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
+    <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves.libre" name="Aves Gallery" />
     <icon drawable="@drawable/avito" package="com.avito.android" name="Avito" />
     <icon drawable="@drawable/axisnet" package="com.axis.net" name="AXISnet" />
     <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
