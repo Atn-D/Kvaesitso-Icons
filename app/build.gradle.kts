@@ -16,7 +16,7 @@ android {
 
     defaultConfig {
         applicationId = "de.kvaesitso.icons"
-        minSdk = 26
+        minSdk = 28
         targetSdk = 33
         versionCode = 5
         versionName = "1.4.0"
