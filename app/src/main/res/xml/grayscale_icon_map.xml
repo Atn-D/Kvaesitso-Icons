@@ -94,6 +94,7 @@
     <icon drawable="@drawable/binary_eye" package="de.markusfisch.android.binaryeye" name="Binary Eye" />
     <icon drawable="@drawable/birday" package="com.minar.birday" name="Birday" />
     <icon drawable="@drawable/bitmoji" package="com.bitstrips.imoji" name="Bitmoji" />
+    <icon drawable="@drawable/bitmoji" package="com.snowcorp.stickerly.android" name="Bitmoji" />
     <icon drawable="@drawable/bitrix24" package="com.bitrix24.android" name="Bitrix24" />
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
     <icon drawable="@drawable/black_screen" package="io.japp.blackscreen" name="Black Screen" />
@@ -498,6 +499,7 @@
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
     <icon drawable="@drawable/generic_email" package="com.skemailmobileapp" name="Email" />
+    <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.amayasoft.dinosaur.games.little.kids.toddlers" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
@@ -957,6 +959,7 @@
     <icon drawable="@drawable/photo_editor" package="com.example.retouchephoto" name="Photo Editor" />
     <icon drawable="@drawable/photo_editor" package="com.iudesk.android.photo.editor" name="Photo Editor" />
     <icon drawable="@drawable/photo_editor" package="com.mt.mtxx.mtxx" name="Photo Editor" />
+    <icon drawable="@drawable/photoscan" package="com.google.android.apps.photos.scanner" name="PhotoScan" />
     <icon drawable="@drawable/phototan" package="ch.raiffeisen.phototan" name="PhotoTAN" />
     <icon drawable="@drawable/physics_wallah" package="xyz.penpencil.physicswala" name="Physics Wallah" />
     <icon drawable="@drawable/picpay" package="com.picpay" name="PicPay" />
@@ -1713,6 +1716,7 @@
     <icon drawable="@drawable/openreads" package="software.mdev.bookstracker" name="Openreads" />
     <icon drawable="@drawable/paseo" package="ca.chancehorizon.paseo" name="Paseo" />
     <icon drawable="@drawable/privacyblur" package="de.mathema.privacyblur" name="PrivacyBlur" />
+    <icon drawable="@drawable/puzzles" package="com.stateofplaygames.kami2" name="Puzzles" />
     <icon drawable="@drawable/puzzles" package="name.boyle.chris.sgtpuzzles" name="Puzzles" />
     <icon drawable="@drawable/rustdesk" package="com.carriez.flutter_hbb" name="RustDesk" />
     <icon drawable="@drawable/saikou" package="ani.saikou" name="Saikou" />
@@ -1807,6 +1811,14 @@
     <icon drawable="@drawable/swiftkey" package="com.touchtype.swiftkey.beta" name="SwiftKey" />
     <icon drawable="@drawable/libreofficeviewer" package="org.documentfoundation.libreoffice" name="LibreOffice Viewer" />
     <icon drawable="@drawable/survivalmanual" package="org.ligi.survivalmanual" name="Survival Manual" />
+    <icon drawable="@drawable/bikesharinghub" package="fdr.fdesousa.bikesharinghub" name="BikeSharingHub" />
+    <icon drawable="@drawable/bikesharinghub" package="fr.fdesousa.bikesharinghub" name="BikeSharingHub" />
+    <icon drawable="@drawable/upv_alumnado" package="es.upv.alumnos" name="UPV Alumnado" />
+    <icon drawable="@drawable/emt" package="es.emtvalencia.emt" name="EMT Valencia" />
+    <icon drawable="@drawable/dua" package="com.ls.arabic" name="Dua &amp; Azkar" />
+    <icon drawable="@drawable/batchuninstaller" package="com.saha.batchuninstaller" name="Batch Uninstaller" />
+    <icon drawable="@drawable/caixa" package="es.lacaixa.mobile.android.newwapicon" name="CaixaBankNow" />
+    <icon drawable="@drawable/caixasign" package="es.caixabank.caixabanksign" name="CaixaBank Sign - Firma digital" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
