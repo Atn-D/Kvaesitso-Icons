@@ -496,8 +496,19 @@
     <icon drawable="@drawable/gcash" package="com.globe.gcash.android" name="GCash" />
     <icon drawable="@drawable/geizhals" package="at.geizhals.pv" name="Geizhals" />
     <icon drawable="@drawable/generic_bluetooth" package="de.kai_morich.serial_bluetooth_terminal" name="Serial Bluetooth Terminal" />
+    <icon drawable="@drawable/generic_downloader" package="com.devanoir.down2" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="com.download.free.videodownloader" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="com.downloader.privatebrowser" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="com.videodownloader.instagram.video.downloader" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="downloader.video.download.free" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="downloader.vitmate.downloaderapp" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="free.video.downloader.freevideodownloader" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="instagram.video.downloader.story.saver" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="instasaver.instagram.video.downloader.photo" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="instasaver.videodownloader.photodownloader.repost" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="repost.share.instagram.videodownloader.photodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="video.downloader.videodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
     <icon drawable="@drawable/generic_email" package="com.skemailmobileapp" name="Email" />
     <icon drawable="@drawable/generic_games" package="com.age.wgg.appspot" name="Games" />
@@ -1192,7 +1203,14 @@
     <icon drawable="@drawable/slack" package="com.Slack" name="Slack" />
     <icon drawable="@drawable/slay_the_spire" package="com.humble.SlayTheSpire" name="Slay the Spire" />
     <icon drawable="@drawable/sleep" package="com.franco.doze" name="Naptime" />
+    <icon drawable="@drawable/sleep_as_android" package="ai.asleep.android_aaron" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="com.dealwatch24.sleepcalculator" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="com.fullpower.applications.sleepz" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="com.sleepmonitor.aio" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="com.sleep.snore.insomnia" name="Sleep as Android" />
     <icon drawable="@drawable/sleep_as_android" package="com.urbandroid.sleep" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="ru.olegfilimonov.sleeptime" name="Sleep as Android" />
+    <icon drawable="@drawable/sleep_as_android" package="sleeptrakcer.sleeprecorder.sleepapp.sleep" name="Sleep as Android" />
     <icon drawable="@drawable/sliceit" package="indwin.c3.shareapp" name="Slice" />
     <icon drawable="@drawable/slide_reddit" package="me.ccrama.redditslide" name="Slide" />
     <icon drawable="@drawable/smartpack_kernel_manager" package="com.smartpack.kernelmanager" name="SmartPack-Kernel Manager" />
@@ -1357,6 +1375,7 @@
     <icon drawable="@drawable/udemy" package="com.udemy.android" name="Udemy - Online Courses" />
     <icon drawable="@drawable/ulike" package="com.gorgeous.liteinternational" name="Ulike" />
     <icon drawable="@drawable/unacademy" package="com.unacademyapp" name="Unacademy" />
+    <icon drawable="@drawable/unapp" package="vladyslavpohrebniakov.uninstaller" name="UnApp" />
     <icon drawable="@drawable/underlords" package="com.valvesoftware.underlords" name="Dota Underlords" />
     <icon drawable="@drawable/uniciv" package="com.unciv.app" name="Unciv" />
     <icon drawable="@drawable/unidays" package="com.myunidays" name="Unidays" />
