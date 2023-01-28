@@ -899,11 +899,13 @@
     <icon drawable="@drawable/octoremote" package="com.kabacon.octoremote" name="OctoRemote" />
     <icon drawable="@drawable/odysee" package="com.odysee.app" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
+    <icon drawable="@drawable/office_suite" package="com.mobisystems.office" name="OfficeSuite" />
     <icon drawable="@drawable/olx" package="pl.tablica" name="OLX Polska" />
     <icon drawable="@drawable/onedotonedotonedotone" package="com.cloudflare.onedotonedotonedotone" name="1.1.1.1" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
     <icon drawable="@drawable/onvista" package="de.onvista.ovone" name="onvista" />
+    <icon drawable="@drawable/open_link_with" package="com.tasomaniac.openwith" name="Open Link With" />
     <icon drawable="@drawable/openapk" package="com.dkanada.openapk" name="OperaAPK" />
     <icon drawable="@drawable/openboard" package="org.dslul.openboard.inputmethod.latin" name="OpenBoard" />
     <icon drawable="@drawable/openfoodfacts" package="openfoodfacts.github.scrachx.openfood" name="OpenFoodFacts" />
@@ -1047,6 +1049,7 @@
     <icon drawable="@drawable/quick_calculation" package="io.github.subhamtyagi.quickcalculation" name="Quick Calculation" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit" name="QuickEdit" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit.pro" name="QuickEdit" />
+    <icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
     <icon drawable="@drawable/quillnote" package="org.qosp.notes" name="Quillnote" />
     <icon drawable="@drawable/quillpad" package="io.github.quillpad" name="Quillpad" />
@@ -1173,6 +1176,7 @@
     <icon drawable="@drawable/simple_gallery" package="com.sonyericsson.album" name="Simple Gallery" />
     <icon drawable="@drawable/simple_notes" package="com.simplemobiletools.notes" name="Simple Notes" />
     <icon drawable="@drawable/simple_notes" package="com.simplemobiletools.notes.pro" name="Simple Notes" />
+    <icon drawable="@drawable/simple_social" package="com.creativetrends.simple.app" name="Simple" />
     <icon drawable="@drawable/simplenote" package="com.automattic.simplenote" name="Simplenote" />
     <icon drawable="@drawable/simplytranslate" package="com.simplytranslate_mobile" name="SimplyTranslate" />
     <icon drawable="@drawable/simplytranslate" package="com.simplytranslate" name="SimplyTranslate" />
@@ -1664,7 +1668,6 @@
     <icon drawable="@drawable/garanti_bbva" package="com.garanti.cepsubesi" name="Garanti BBVA" />
     <icon drawable="@drawable/getir" package="com.getir" name="getir" />
     <icon drawable="@drawable/contacts_sync" package="com.lb.contacts_sync" name="Contacts Sync" />
-    <icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
     <icon drawable="@drawable/google_webview_devtools" package="com.google.android.webview" name="Google WebView DevTools" />
     <icon drawable="@drawable/google_webview_devtools_beta" package="com.google.android.webview.beta" name="Google WebView DevTools Beta" />
     <icon drawable="@drawable/google_webview_devtools_canary" package="com.google.android.webview.canary" name="Google WebView DevTools Canery" />
