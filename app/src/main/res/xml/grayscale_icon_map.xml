@@ -785,7 +785,6 @@
     <icon drawable="@drawable/mi_freeform" package="com.sunshine.freeform" name="Mi Freeform" />
     <icon drawable="@drawable/mi_music" package="com.miui.player" name="Music" />
     <icon drawable="@drawable/mi_music" package="com.zionhuang.music" name="Music" />
-    <icon drawable="@drawable/mi_music" package="it.vfsfitvnm.vimusic" name="Music" />
     <icon drawable="@drawable/mi_music" package="org.lineageos.eleven" name="Music" />
     <icon drawable="@drawable/mi_remote" package="com.duokan.phone.remotecontroller" name="Mi Remote" />
     <icon drawable="@drawable/mi_security" package="com.miui.securitycenter" name="MIUI Security" />
@@ -1603,6 +1602,7 @@
     <icon drawable="@drawable/epassgo" package="de.passgo.passgo" name="ePassGo" />
     <icon drawable="@drawable/scanner" package="com.coolmobilesolution" name="Pro" />
     <icon drawable="@drawable/scanner" package="com.coolmobilesolution.fastscannerfree" name="Scanner" />
+    <icon drawable="@drawable/scanner" package="com.simplescan.scanner" name="Scanner" />
     <icon drawable="@drawable/gesundakte" package="zollsoft.de.patientapp" name="Gesundakte" />
     <icon drawable="@drawable/source_wall" package="nz.co.teamsean.matrix" name="Source Wall" />
     <icon drawable="@drawable/aktionmensch" package="de.aktionmensch.AMMobileAppDistribution" name="Aktion Mensch Lotterie" />
@@ -1819,6 +1819,22 @@
     <icon drawable="@drawable/batchuninstaller" package="com.saha.batchuninstaller" name="Batch Uninstaller" />
     <icon drawable="@drawable/caixa" package="es.lacaixa.mobile.android.newwapicon" name="CaixaBankNow" />
     <icon drawable="@drawable/caixasign" package="es.caixabank.caixabanksign" name="CaixaBank Sign - Firma digital" />
+    <icon drawable="@drawable/clavepin" package="es.aeat.pin24h" name="Clave PIN" />
+    <icon drawable="@drawable/cx_file_explorer" package="com.cxinventor.file.explorer" name="Cx File Explorer" />
+    <icon drawable="@drawable/forest" package="cc.forestapp" name="Forest" />
+    <icon drawable="@drawable/alazan" package="com.github.meypod.al_azan" name="Al-Azan" />
+    <icon drawable="@drawable/activitylauncher" package="de.szalkowski.activitylauncher" name="Activity Launcher" />
+    <icon drawable="@drawable/ffshare" package="com.caydey.ffshare" name="FFShare" />
+    <icon drawable="@drawable/novaprime" package="com.teslacoilsw.launcher.prime" name="Nova Launcher Prime" />
+    <icon drawable="@drawable/nova" package="com.teslacoilsw.launcher" name="Nova Launcher" />
+    <icon drawable="@drawable/digilocker" package="com.digilocker.android" name="DigiLocker" />
+    <icon drawable="@drawable/vi_music" package="it.vfsfitvnm.vimusic" name="ViMusic" />
+    <icon drawable="@drawable/aospenhancer" package="com.looper.enhancer" name="AOSP Enhancer" />
+    <icon drawable="@drawable/jionews" package="com.jio.media.jioxpressnews" name="JioNews" />
+    <icon drawable="@drawable/salatuk" package="com.masarat.salati" name="Salatuk - Prayer time" />
+    <icon drawable="@drawable/renfe" package="com.renfeviajeros.ticket" name="Renfe" />
+    <icon drawable="@drawable/parlera" package="com.enjoyingfoss.parlera" name="Parlera" />
+    <icon drawable="@drawable/wallfactory" package="wallfactory.at4u.walls" name="Wall Factory" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />

@@ -1,0 +1,36 @@
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:name="vector"
+    android:width="192dp"
+    android:height="192dp"
+    android:viewportWidth="192"
+    android:viewportHeight="192">
+    <path
+        android:name="path"
+        android:pathData="M 91.517 34.385 C 81.044 34.038 71.38 39.656 67.032 48.618 C 62.89 57.167 64.348 67.193 70.779 74.384 L 66.399 84.323 L 69.496 93.812 L 63.011 98.653 L 64.363 103.221 L 58.05 110.024 L 57.69 118.275 L 50.247 124.226 L 46.5 131.946 L 50.213 141.306 L 61.711 137.286 L 88.112 82.924 C 88.335 82.927 88.557 82.927 88.779 82.924 C 86.172 78.659 84.781 73.834 84.741 68.916 C 84.772 55.573 94.623 44.028 108.473 41.107 C 106.386 39.233 103.981 37.7 101.356 36.572 C 98.261 35.242 94.918 34.499 91.517 34.385 Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_1"
+        android:pathData="M 115.129 40.352 C 98.35 40.348 84.745 53.131 84.741 68.904 L 84.741 68.916 C 84.754 79.931 91.506 89.956 102.091 94.681 L 102.57 107.291 L 110.8 116.008 L 106.386 124.13 L 110.201 128.392 L 106.984 138.54 L 110.886 147.499 L 106.026 157.262 L 106.026 167.217 L 114.838 175.5 L 125.019 165.947 L 125.019 95.856 C 137.253 91.892 145.473 81.079 145.5 68.916 C 145.503 53.146 131.907 40.358 115.129 40.352 Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_2"
+        android:pathData="M 92.585 32.741 C 95.388 22.21 106.121 15.309 117.578 16.671 C 129.035 18.033 137.603 27.227 137.529 38.082 C 137.456 48.937 128.764 58.028 117.29 59.253"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+    <path
+        android:name="path_3"
+        android:pathData="M 122.582 60.215 C 122.582 63.524 119.729 66.206 116.209 66.206 C 112.689 66.206 109.836 63.524 109.836 60.215 C 109.836 56.907 112.689 54.225 116.209 54.225 C 119.729 54.225 122.582 56.907 122.582 60.215 Z M 89.214 54.433 C 87.121 53.604 85.823 51.614 85.985 49.485 C 86.147 47.356 87.735 45.561 89.931 45.02 C 92.128 44.48 94.447 45.316 95.698 47.097 L 91.272 49.841 L 89.213 54.433 Z"
+        android:strokeColor="#000000"
+        android:strokeWidth="8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"/>
+</vector>
