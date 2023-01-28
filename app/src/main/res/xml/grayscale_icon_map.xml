@@ -538,7 +538,7 @@
     <icon drawable="@drawable/google" package="com.google.android.apps.searchlite" name="Google" />
     <icon drawable="@drawable/google" package="com.google.android.googlequicksearchbox" name="Google" />
     <icon drawable="@drawable/google_analytics" package="com.google.android.apps.giant" name="Google Analytics" />
-    <icon drawable="@drawable/google_arts_culture" package="com.google.android.apps.cultural" name="oogle Arts &amp; Culture" />
+    <icon drawable="@drawable/google_arts_culture" package="com.google.android.apps.cultural" name="Google Arts &amp; Culture" />
     <icon drawable="@drawable/google_assistant" package="com.google.android.apps.googleassistant" name="Google Assistant" />
     <icon drawable="@drawable/google_authenticator" package="com.google.android.apps.authenticator2" name="Google Authenticator" />
     <icon drawable="@drawable/google_chat" package="com.google.android.apps.dynamite" name="Google Chat" />
