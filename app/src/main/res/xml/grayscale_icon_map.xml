@@ -3,6 +3,7 @@
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
     <icon drawable="@drawable/acronis_mobile" package="com.acronis.acronistrueimage" name="Acronis Mobile" />
+    <icon drawable="@drawable/action_blocks" package="com.google.android.apps.accessibility.maui.actionblocks" name="Action Blocks" />
     <icon drawable="@drawable/actionbound" package="de.actionbound" name="Actionbound" />
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
     <icon drawable="@drawable/adidas" package="com.adidas.app" name="adidas" />
@@ -536,6 +537,8 @@
     <icon drawable="@drawable/goodline" package="info.goodline.mobile2" name="Goodline" />
     <icon drawable="@drawable/google" package="com.google.android.apps.searchlite" name="Google" />
     <icon drawable="@drawable/google" package="com.google.android.googlequicksearchbox" name="Google" />
+    <icon drawable="@drawable/google_analytics" package="com.google.android.apps.giant" name="Google Analytics" />
+    <icon drawable="@drawable/google_arts_culture" package="com.google.android.apps.cultural" name="oogle Arts &amp; Culture" />
     <icon drawable="@drawable/google_assistant" package="com.google.android.apps.googleassistant" name="Google Assistant" />
     <icon drawable="@drawable/google_authenticator" package="com.google.android.apps.authenticator2" name="Google Authenticator" />
     <icon drawable="@drawable/google_chat" package="com.google.android.apps.dynamite" name="Google Chat" />
@@ -650,6 +653,7 @@
     <icon drawable="@drawable/iti" package="com.itau.iti" name="iti" />
     <icon drawable="@drawable/ivy_wallet" package="com.ivy.wallet" name="Ivy Wallet" />
     <icon drawable="@drawable/jakdojade" package="com.citynav.jakdojade.pl.android" name="Jakdojade" />
+    <icon drawable="@drawable/jamboard" package="com.google.android.apps.jam" name="Jamboard" />
     <icon drawable="@drawable/jellyfin" package="org.jellyfin.mobile" name="Jellyfin" />
     <icon drawable="@drawable/jenius" package="com.btpn.dc" name="Jenius" />
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
