@@ -487,6 +487,7 @@
     <icon drawable="@drawable/gallery" package="com.oppo.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.sec.android.gallery3d" name="Gallery" />
     <icon drawable="@drawable/gallery" package="com.vivo.gallery" name="Gallery" />
+    <icon drawable="@drawable/gallery" package="la.daube.photochiotte" name="Gallery" />
     <icon drawable="@drawable/gallery_go" package="com.google.android.apps.photosgo" name="Gallery Go" />
     <icon drawable="@drawable/game_launcher" package="com.samsung.android.game.gamehome" name="Game Launcher" />
     <icon drawable="@drawable/garmin_drive" package="com.garmin.android.apps.gecko" name="Garmin Drive" />
@@ -1864,6 +1865,21 @@
     <icon drawable="@drawable/renfe" package="com.renfeviajeros.ticket" name="Renfe" />
     <icon drawable="@drawable/parlera" package="com.enjoyingfoss.parlera" name="Parlera" />
     <icon drawable="@drawable/wallfactory" package="wallfactory.at4u.walls" name="Wall Factory" />
+    <icon drawable="@drawable/realme_link" package="com.realme.link" name="realme Link" />
+    <icon drawable="@drawable/batterytool" package="io.github.domi04151309.batterytool" name="Battery Tool" />
+    <icon drawable="@drawable/hail" package="com.aistra.hail" name="Hail" />
+    <icon drawable="@drawable/midgt" package="com.dgt.midgt" name="miDGT" />
+    <icon drawable="@drawable/flowit" package="com.bytehamster.flowitgame" name="Flowit!" />
+    <icon drawable="@drawable/mysplash" package="com.wangdaye.mysplash" name="Mysplash" />
+    <icon drawable="@drawable/diskusage" package="com.google.android.diskusage" name="DiskUsage" />
+    <icon drawable="@drawable/s_notz" package="com.sunilpaulmathew.snotz" name="sNotz" />
+    <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
+    <icon drawable="@drawable/digi" package="es.digimobil.micuenta" name="Mi Cuenta DIGI" />
+    <icon drawable="@drawable/valenbisi" package="com.jcdecaux.vls.valence" name="VALENBISI" />
+    <icon drawable="@drawable/gvasalut" package="es.gva.mesSalut" name="GVA +Salut" />
+    <icon drawable="@drawable/smartkit360" package="com.kafuiutils" name="Smart Kit 360" />
+    <icon drawable="@drawable/gva" package="es.gva.autoservef" name="GVA PuntLABORA" />
+    <icon drawable="@drawable/menús" package="es.upv.asic.MenusCafeterias" name="Menús" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
