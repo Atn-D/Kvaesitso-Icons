@@ -55,6 +55,7 @@
     <icon drawable="@drawable/antutu" package="com.antutu.benchmark.full" name="AnTuTu Benchmark" />
     <icon drawable="@drawable/anydesk" package="com.anydesk.anydeskandroid" name="AnyDesk" />
     <icon drawable="@drawable/anything_to_pip" package="com.vitolaminafra.imagetopip" name="Anything to PiP" />
+    <icon drawable="@drawable/anytracker" package="com.shervinkoushan.anyTracker" name="AnyTracker" />
     <icon drawable="@drawable/aok" package="de.aoksystems.amg" name="Meine AOK" />
     <icon drawable="@drawable/aospenhancer" package="com.looper.enhancer" name="AOSP Enhancer" />
     <icon drawable="@drawable/apex_legends" package="com.ea.gp.apexlegendsmobilefps" name="Apex Legends Mobile" />
@@ -312,6 +313,7 @@
     <icon drawable="@drawable/clash_royale" package="com.supercell.clashroyale" name="Clash Royale" />
     <icon drawable="@drawable/classysharkexodus" package="com.oF2pks.classyshark3xodus" name="ClassySharkexodus" />
     <icon drawable="@drawable/clavepin" package="es.aeat.pin24h" name="Clave PIN" />
+    <icon drawable="@drawable/clevnote" package="com.dencreak.esmemo" name="ClevNote" />
     <icon drawable="@drawable/clipto" package="com.wb.clipboard.pro" name="Clipto" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3" name="Cloudstream" />
     <icon drawable="@drawable/cloudstream" package="com.lagradost.cloudstream3.prerelease" name="Cloudstream" />
@@ -433,6 +435,7 @@
     <icon drawable="@drawable/dolby" package="com.atmos" name="Dolby" />
     <icon drawable="@drawable/dolby" package="com.dolby" name="Dolby" />
     <icon drawable="@drawable/dolby" package="com.dolby.daxappui" name="Dolby" />
+    <icon drawable="@drawable/dolphin_emulator" package="com.dolphinemu.dolphinemu" name="Dolphin Emulator" />
     <icon drawable="@drawable/dominos" package="by.mc.dominos.com" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.Dominos" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.boloid.dominos" name="Domino's Pizza" />
@@ -572,6 +575,8 @@
     <icon drawable="@drawable/fm_radio" package="com.radio.fmradio" name="FM Radio" />
     <icon drawable="@drawable/fm_radio" package="com.sec.android.app.fm" name="FM Radio" />
     <icon drawable="@drawable/focus_todo" package="com.superelement.pomodoro" name="Focus To-Do" />
+    <icon drawable="@drawable/foldersync_pro" package="dk.tacit.android.foldersync.full" name="FolderSync Pro" />
+    <icon drawable="@drawable/foldersync_pro" package="dk.tacit.android.foldersync.lite" name="FolderSync Pro" />
     <icon drawable="@drawable/forest" package="cc.forestapp" name="Forest" />
     <icon drawable="@drawable/forkgram" package="org.forkclient.messenger.beta" name="Forkgram" />
     <icon drawable="@drawable/forkgram" package="org.forkgram.messenger" name="Forkgram" />
@@ -654,7 +659,6 @@
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.ad" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.pro" name="Player" />
-    <icon drawable="@drawable/generic_player" package="is.xyz.mpv" name="Player" />
     <icon drawable="@drawable/genius" package="com.genius.android" name="Genius" />
     <icon drawable="@drawable/genshin_impact" package="com.miHoYo.GenshinImpact" name="Genshin Impact" />
     <icon drawable="@drawable/geometric_weather" package="wangdaye.com.geometricweather" name="Geometric Weather" />
@@ -1048,6 +1052,7 @@
     <icon drawable="@drawable/moodle" package="com.moodle.moodlemobile" name="Moodle" />
     <icon drawable="@drawable/moon_reader" package="com.flyersoft.moonreader" name="Moon+ Reader" />
     <icon drawable="@drawable/moovit" package="com.tranzmate" name="Moovit" />
+    <icon drawable="@drawable/mpv_android" package="is.xyz.mpv" name="mpv" />
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
     <icon drawable="@drawable/movie_lab" package="com.movielab.mobile" name="MovieLab" />
     <icon drawable="@drawable/mozilla_vpn" package="org.mozilla.firefox.vpn" name="Mozilla VPN" />
@@ -1135,6 +1140,7 @@
     <icon drawable="@drawable/obimy" package="com.empat.wory" name="Obimy" />
     <icon drawable="@drawable/obsidentify" package="org.observation.obsidentify" name="ObsIdentify" />
     <icon drawable="@drawable/obsidian" package="md.obsidian" name="Obsidian" />
+    <icon drawable="@drawable/obtainium" package="dev.imranr.obtainium" name="Obtainium" />
     <icon drawable="@drawable/octoapp" package="de.crysxd.octoapp" name="OctoApp" />
     <icon drawable="@drawable/octodroid" package="com.gh4a" name="OctoDroid" />
     <icon drawable="@drawable/octoremote" package="com.kabacon.octoremote" name="OctoRemote" />
@@ -1228,6 +1234,8 @@
     <icon drawable="@drawable/picpay" package="com.picpay" name="PicPay" />
     <icon drawable="@drawable/picpay" package="com.picpay.business" name="PicPay Empresas" />
     <icon drawable="@drawable/picsart" package="com.picsart.studio" name="Picsart" />
+    <icon drawable="@drawable/pigments" package="com.sorincovor.pigments" name="Pigments" />
+    <icon drawable="@drawable/pikpak" package="com.pikcloud.pikpak" name="PikPak" />
     <icon drawable="@drawable/pinterest" package="com.pinterest" name="Pinterest" />
     <icon drawable="@drawable/pixapencil" package="com.therealbluepandabear.pixapencil" name="PixaPencil" />
     <icon drawable="@drawable/pixel_buds" package="com.google.android.apps.wearables.maestro.companion" name="Pixel Buds" />
@@ -1375,6 +1383,8 @@
     <icon drawable="@drawable/relay" package="free.reddit.news" name="Relay" />
     <icon drawable="@drawable/relay" package="reddit.news" name="Relay" />
     <icon drawable="@drawable/remarkable" package="com.remarkable.mobile" name="The reMarkable Companion" />
+    <icon drawable="@drawable/reminder_pro" package="alarm.clock.calendar.reminder.pro" name="Reminder Pro" />
+    <icon drawable="@drawable/reminder_pro" package="alarm.clock.calendar.reminder" name="Reminder Pro" /
     <icon drawable="@drawable/remotenow" package="com.universal.remote.ms" name="RemoteNOW" />
     <icon drawable="@drawable/renfe" package="com.renfeviajeros.ticket" name="Renfe" />
     <icon drawable="@drawable/repainter" package="dev.kdrag0n.dyntheme" name="Repainter" />
@@ -1639,6 +1649,8 @@
     <icon drawable="@drawable/teufel" package="com.wifiaudio.Teufel" name="Teufel" />
     <icon drawable="@drawable/teufel" package="de.teufel.android.app.bluetooth.playstore" name="Teufel" />
     <icon drawable="@drawable/textra" package="com.textra" name="Textra" />
+    <icon drawable="@drawable/thanox" package="github.tornaco.android.thanos" name="Thanox" />
+    <icon drawable="@drawable/thanox" package="github.tornaco.android.thanos.pro" name="Thanox" />
     <icon drawable="@drawable/theathletic" package="com.theathletic" name="The Athletic" />
     <icon drawable="@drawable/the_battle_cats" package="jp.co.ponos.battlecatsen" name="The Battle Cats" />
     <icon drawable="@drawable/the_economist" package="com.economist.lamarr" name="Economist" />
