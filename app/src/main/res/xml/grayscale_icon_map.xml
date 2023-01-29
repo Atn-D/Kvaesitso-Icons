@@ -1879,7 +1879,7 @@
     <icon drawable="@drawable/gvasalut" package="es.gva.mesSalut" name="GVA +Salut" />
     <icon drawable="@drawable/smartkit360" package="com.kafuiutils" name="Smart Kit 360" />
     <icon drawable="@drawable/gva" package="es.gva.autoservef" name="GVA PuntLABORA" />
-    <icon drawable="@drawable/menús" package="es.upv.asic.MenusCafeterias" name="Menús" />
+    <icon drawable="@drawable/menus" package="es.upv.asic.MenusCafeterias" name="Menús" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="org.withouthat.acalendarplus" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.android.calendar" />
