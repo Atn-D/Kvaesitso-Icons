@@ -1384,7 +1384,7 @@
     <icon drawable="@drawable/relay" package="reddit.news" name="Relay" />
     <icon drawable="@drawable/remarkable" package="com.remarkable.mobile" name="The reMarkable Companion" />
     <icon drawable="@drawable/reminder_pro" package="alarm.clock.calendar.reminder.pro" name="Reminder Pro" />
-    <icon drawable="@drawable/reminder_pro" package="alarm.clock.calendar.reminder" name="Reminder Pro" /
+    <icon drawable="@drawable/reminder_pro" package="alarm.clock.calendar.reminder" name="Reminder Pro" />
     <icon drawable="@drawable/remotenow" package="com.universal.remote.ms" name="RemoteNOW" />
     <icon drawable="@drawable/renfe" package="com.renfeviajeros.ticket" name="Renfe" />
     <icon drawable="@drawable/repainter" package="dev.kdrag0n.dyntheme" name="Repainter" />
