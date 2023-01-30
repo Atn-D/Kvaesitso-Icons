@@ -1734,6 +1734,8 @@
     <icon drawable="@drawable/uber" package="com.ubercab" name="Uber" />
     <icon drawable="@drawable/uber_driver" package="com.ubercab.driver" name="Uber Driver" />
     <icon drawable="@drawable/uber_eats" package="com.ubercab.eats" name="Uber Eats" />
+    <icon drawable="@drawable/uber_eats_manager" package="com.uber.restaurantmanager" name="Uber Eats Manager" />
+    <icon drawable="@drawable/uber_eats_orders" package="com.uber.restaurants" name="Uber Eats Orders" />
     <icon drawable="@drawable/udemy" package="com.udemy.android" name="Udemy - Online Courses" />
     <icon drawable="@drawable/ulike" package="com.gorgeous.liteinternational" name="Ulike" />
     <icon drawable="@drawable/unacademy" package="com.unacademyapp" name="Unacademy" />
