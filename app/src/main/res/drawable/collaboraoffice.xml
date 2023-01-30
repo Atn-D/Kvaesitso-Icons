@@ -1,22 +1,20 @@
-<vector
-    xmlns:android="http://schemas.android.com/apk/res/android"
-    android:name="collaboraoffice_1"
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="48dp"
     android:height="48dp"
     android:viewportWidth="48"
     android:viewportHeight="48">
-    <path
-        android:name="path"
-        android:pathData="M 9.46 34.61 L 18 43.06 C 18.184 43.247 18.415 43.382 18.668 43.451 C 18.921 43.519 19.189 43.519 19.442 43.451 C 19.695 43.382 19.926 43.247 20.11 43.06 L 38.11 25.06 C 38.295 24.875 38.429 24.644 38.497 24.391 C 38.565 24.138 38.565 23.872 38.497 23.619 C 38.429 23.366 38.295 23.135 38.11 22.95 L 20.11 4.95 C 19.925 4.762 19.693 4.627 19.439 4.559 C 19.184 4.49 18.916 4.49 18.661 4.559 C 18.407 4.627 18.175 4.762 17.99 4.95 L 9.49 13.45"
-        android:strokeColor="#000000"
-        android:strokeWidth="2"
-        android:strokeLineCap="round"
-        android:strokeLineJoin="round"/>
-    <path
-        android:name="path_1"
-        android:pathData="M 9.46 34.61 L 18.82 25.25 C 19.035 25.035 19.19 24.767 19.269 24.474 C 19.348 24.18 19.348 23.87 19.269 23.576 C 19.19 23.283 19.035 23.015 18.82 22.8 L 9.46 13.44 Z"
-        android:strokeColor="#000000"
-        android:strokeWidth="2"
-        android:strokeLineCap="round"
-        android:strokeLineJoin="round"/>
+  <path
+      android:pathData="M9.46,34.61 L18,43.06a1.487,1.487 0,0 0,1.442 0.391c0.253,-0.069 0.484,-0.204 0.668,-0.391l18,-18a1.497,1.497 0,0 0,0.387 -1.441,1.497 1.497,0 0,0 -0.387,-0.669l-18,-18a1.488,1.488 0,0 0,-2.12 0l-8.5,8.5"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
+  <path
+      android:pathData="m9.46,34.61 l9.36,-9.36a1.738,1.738 0,0 0,0.449 -1.674,1.738 1.738,0 0,0 -0.449,-0.776l-9.36,-9.36Z"
+      android:strokeLineJoin="round"
+      android:strokeWidth="2"
+      android:fillColor="#00000000"
+      android:strokeColor="#000"
+      android:strokeLineCap="round"/>
 </vector>

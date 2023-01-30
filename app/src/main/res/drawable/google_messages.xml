@@ -9,7 +9,7 @@
       android:fillColor="#00000000"
       android:strokeColor="#000"/>
   <path
-      android:pathData="M128.5,131.5H94v35c-16.49,0 -47.23,-44.61 -53.92,-58.54A41.24,41.24 0,0 1,36 90h0A41.5,41.5 0,0 1,77.5 48.5h51A41.5,41.5 0,0 1,170 90h0A41.5,41.5 0,0 1,128.5 131.5Z"
+      android:pathData="M128.5,131.5H94v35c-16.49,0 -47.23,-44.61 -53.92,-58.54A41.24,41.24 0,0 1,36 90a41.5,41.5 0,0 1,41.5 -41.5h51A41.5,41.5 0,0 1,170 90a41.5,41.5 0,0 1,-41.5 41.5Z"
       android:strokeLineJoin="round"
       android:strokeWidth="12"
       android:fillColor="#00000000"
