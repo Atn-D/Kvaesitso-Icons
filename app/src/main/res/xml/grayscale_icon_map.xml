@@ -91,6 +91,7 @@
     <icon drawable="@drawable/authpass" package="design.codeux.authpass" name="AuthPass" />
     <icon drawable="@drawable/authpass" package="design.codeux.authpass.fdroid" name="AuthPass" />
     <icon drawable="@drawable/authy" package="com.authy.authy" name="Authy" />
+    <icon drawable="@drawable/autodoc" package="de.autodoc.gmbh" name="Autodoc" />
     <icon drawable="@drawable/auxio" package="org.oxycblt.auxio" name="Auxio" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves" name="Aves Gallery" />
     <icon drawable="@drawable/aves_gallery" package="deckers.thibault.aves.libre" name="Aves Gallery" />
@@ -500,6 +501,7 @@
     <icon drawable="@drawable/facebook" package="com.facebook.lite" name="Facebook" />
     <icon drawable="@drawable/facer" package="com.jeremysteckling.facerrel" name="Facer" />
     <icon drawable="@drawable/fairemail" package="eu.faircode.email" name="FairEmail" />
+    <icon drawable="@drawable/fallzahlen_aktuell" package="com.kokoschka.michael.casestoday" name="Fallzahlen Aktuell" />
     <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylink" name="Family Link" />
     <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
     <icon drawable="@drawable/familypark" package="com.intermaps.familypark" name="Family Park" />
