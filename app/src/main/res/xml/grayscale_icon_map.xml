@@ -923,7 +923,6 @@
     <icon drawable="@drawable/lidl_plus" package="com.lidl.eci.lidlplus" name="Lidl Plus" />
     <icon drawable="@drawable/life360" package="com.life360.android.safetymapd" name="Life360" />
     <icon drawable="@drawable/lifesum" package="com.sillens.shapeupclub" name="Lifesum" />
-    <icon drawable="@drawable/lighthouse_pm" package="com.jeroen1602.lighthouse_pm/" name="Lighthouse PM" />
     <icon drawable="@drawable/line" package="jp.naver.line.android" name="LINE" />
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
     <icon drawable="@drawable/liputan6" package="com.woi.liputan6.android" name="Liputan6" />
