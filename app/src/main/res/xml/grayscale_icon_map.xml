@@ -1746,6 +1746,7 @@
     <icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
     <icon drawable="@drawable/uniciv" package="com.unciv.app" name="Unciv" />
     <icon drawable="@drawable/unidays" package="com.myunidays" name="Unidays" />
+    <icon drawable="@drawable/universalcopy" package="com.camel.corp.universalcopy" name="Universal Copy" />
     <icon drawable="@drawable/untis_mobile" package="com.grupet.web.app" name="Untis Mobile" />
     <icon drawable="@drawable/upv_alumnado" package="es.upv.alumnos" name="UPV Alumnado" />
     <icon drawable="@drawable/urbano_norte" package="br.com.urbanonorte.passenger.drivermachine" name="Urbano Norte" />
