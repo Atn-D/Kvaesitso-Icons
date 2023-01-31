@@ -1137,8 +1137,8 @@
     <icon drawable="@drawable/nothingx" package="com.nothing.smartcenter" name="Nothing X" />
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/noto" package="com.noto" name="Noto" />
-    <icon drawable="@drawable/nova" package="com.teslacoilsw.launcher" name="Nova Launcher" />
-    <icon drawable="@drawable/nova" package="com.teslacoilsw.launcher.prime" name="Nova Launcher" />
+    <icon drawable="@drawable/nova_launcher" package="com.teslacoilsw.launcher" name="Nova Launcher" />
+    <icon drawable="@drawable/nova_launcher" package="com.teslacoilsw.launcher.prime" name="Nova Launcher" />
     <icon drawable="@drawable/nova_video_player" package="org.courville.nova" name="Nova Video Player" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/ntfy" package="io.heckel.ntfy" name="ntfy" />
