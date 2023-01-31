@@ -3,13 +3,11 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="192px" height="192px" viewBox="0 0 192 192" style="enable-background:new 0 0 192 192;" xml:space="preserve">
 <style type="text/css">
-	.st0{fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:10;}
-	.st1{fill:none;stroke:#000000;stroke-width:8;stroke-miterlimit:10;}
-	.st2{fill:none;stroke:#000000;stroke-width:12;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st0{fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
 <g>
-	<circle class="st0" cx="96" cy="96" r="74"/>
-	<circle class="st1" cx="96" cy="96" r="56"/>
-	<polygon class="st2" points="119.8,95.5 80.8,73 80.8,118 	"/>
+	<path class="st0" d="M30.6,162c39.7-51.6,82.9-96.5,130.8-132"/>
+	<circle cx="61.6" cy="55.4" r="12"/>
+	<circle cx="129.7" cy="122.2" r="12"/>
 </g>
 </svg>

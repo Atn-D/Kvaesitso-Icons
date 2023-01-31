@@ -1,1 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><path d="M50.552 154.703c-6.056-.078-11.989-2.844-17.178-8.008-5.188-5.164-9.444-12.538-12.322-21.35-2.99-8.99-4.555-19.087-4.549-29.347.007-10.26 1.585-20.352 4.586-29.331 2.889-8.801 7.154-16.16 12.35-21.304 5.195-5.144 11.131-7.888 17.187-7.943m0 0 36.695-.243m-38.556 117.71 35.22.613m57.463-119c6.056.078 11.989 2.844 17.178 8.008 5.188 5.164 9.444 12.538 12.322 21.35 2.99 8.989 4.555 19.087 4.549 29.347-.007 10.26-1.584 20.352-4.586 29.332-2.889 8.8-7.154 16.159-12.349 21.303-5.196 5.144-11.132 7.888-17.187 7.944m.37-117.097-36.696.242m36.325 116.855-35.219-.614M61.37 94.193h68.216v1.226H61.37Z" fill="none" stroke="#000" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.4.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="192px" height="192px" viewBox="0 0 192 192" style="enable-background:new 0 0 192 192;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:12;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<path class="st0" d="M84,128.6H54.6C36.6,128.6,22,114,22,96c0-9,3.7-17.2,9.6-23.1c5.9-5.9,14.1-9.6,23.1-9.6H84 M108,128.6h29.4
+	c9,0,17.2-3.7,23.1-9.6c5.9-5.9,9.6-14.1,9.6-23.1c0-18-14.6-32.6-32.6-32.6H108 M67.9,96h56.2"/>
+</svg>

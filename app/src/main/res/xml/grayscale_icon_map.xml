@@ -49,6 +49,7 @@
     <icon drawable="@drawable/aniyomi" package="xyz.jmir.tachiyomi.mi" name="Aniyomi" />
     <icon drawable="@drawable/aniyomi" package="xyz.jmir.tachiyomi.mi.debug" name="Aniyomi" />
     <icon drawable="@drawable/ankidroid" package="com.ichi2.anki" name="AnkiDroid" />
+    <icon drawable="@drawable/anonaddy" package="host.stjin.anonaddy" name="AnonAddy" />
     <icon drawable="@drawable/another_notes_app" package="com.maltaisn.notes.sync" name="Another Notes" />
     <icon drawable="@drawable/antennapod" package="de.danoeh.antennapod" name="AntennaPod" />
     <icon drawable="@drawable/antutu" package="com.antutu.ABenchMark" name="AnTuTu Benchmark" />
@@ -73,6 +74,7 @@
     <icon drawable="@drawable/app_manager" package="cz.seeq.prog.android.packageviewer" name="Package Viewer" />
     <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/app_manager_debug" package="io.github.muntashirakon.AppManager.debug" name="App Manager Debug" />
+    <icon drawable="@drawable/appsales" package="net.tsapps.appsales" name="AppSales" />
     <icon drawable="@drawable/arbeitstage" package="de.lausitzsoftware.workdays" name="Arbeitstage" />
     <icon drawable="@drawable/arcticons_dark" package="com.donnnno.arcticons" name="Arcticons Dark" />
     <icon drawable="@drawable/ard_mediathek" package="de.swr.avp.ard" name="ARD Mediathek" />
@@ -423,6 +425,8 @@
     <icon drawable="@drawable/dialer" package="jp.ad.iij.miodial" name="Phone" />
     <icon drawable="@drawable/dicio" package="com.setegraus.dicio" name="Dicio" />
     <icon drawable="@drawable/dicio" package="org.dicio.dicio_android" name="Dicio" />
+    <icon drawable="@drawable/dictionary_com" package="com.dictionary.paid" name="Dictionary.com" />
+    <icon drawable="@drawable/dictionary_com" package="com.dictionary" name="Dictionary.com" />
     <icon drawable="@drawable/digi" package="es.digimobil.micuenta" name="Mi Cuenta DIGI" />
     <icon drawable="@drawable/digilocker" package="com.digilocker.android" name="DigiLocker" />
     <icon drawable="@drawable/digital_wellbeing" package="com.google.android.apps.wellbeing" name="Digital Wellbeing" />
@@ -463,6 +467,7 @@
     <icon drawable="@drawable/dove_icons" package="com.jndapp.dove.light.iconpack" name="Dove" />
     <icon drawable="@drawable/download" package="com.android.providers.downloads.ui" name="Downloads" />
     <icon drawable="@drawable/download_navi" package="com.tachibana.downloader" name="Download Navi" />
+    <icon drawable="@drawable/drastic" package="com.dsemu.drastic" name="DraStic" />
     <icon drawable="@drawable/drivedroid" package="com.softwarebakery.drivedroid" name="DriveDroid" />
     <icon drawable="@drawable/drlyd" package="dk.dr.radio" name="DR LYD" />
     <icon drawable="@drawable/drm_info" package="com.androidfung.drminfo" name="DRM Info" />
@@ -783,6 +788,7 @@
     <icon drawable="@drawable/home_assistant" package="io.homeassistant.companion.android.minimal" name="Home Assistant" />
     <icon drawable="@drawable/homeworker" package="info.xolf.homeworker" name="Homeworker" />
     <icon drawable="@drawable/hoplr" package="com.hoplr" name="Hoplr" />
+    <icon drawable="@drawable/hotspot_shield" package="hotspotshield.android.vpn" name="Hotspot Shield VPN" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar" name="Disney+ Hotstar" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstar.dplus" name="Disney+ Hotstar" />
     <icon drawable="@drawable/hotstar" package="in.startv.hotstaronly" name="Hotstar" />
@@ -1349,7 +1355,7 @@
     <icon drawable="@drawable/pubg" package="com.pubg.newstate" name="PUBG" />
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" />
     <icon drawable="@drawable/pujieblack" package="com.pujie.wristwear.pujieblack" name="Pujie Black" />
-    <icon drawable="@drawable/purpletv" package="tv.orange" name="PurpleTV" />
+    <icon drawable="@drawable/purple_tv" package="tv.orange" name="PurpleTV" />
     <icon drawable="@drawable/pushbullet" package="com.pushbullet.android" name="Pushbullet" />
     <icon drawable="@drawable/puzzles" package="com.stateofplaygames.kami2" name="Puzzles" />
     <icon drawable="@drawable/puzzles" package="name.boyle.chris.sgtpuzzles" name="Puzzles" />
@@ -1369,6 +1375,8 @@
     <icon drawable="@drawable/quick_calculation" package="io.github.subhamtyagi.quickcalculation" name="Quick Calculation" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit" name="QuickEdit" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit.pro" name="QuickEdit" />
+    <icon drawable="@drawable/quick_novel" package="com.lagradost.quicknovel" name="QuickNovel" />
+    <icon drawable="@drawable/quick_novel" package="org.ranobe.ranobe" name="QuickNovel" />
     <icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
     <icon drawable="@drawable/quicktiles" package="com.asdoi.quicktiles" name="QuickTiles" />
