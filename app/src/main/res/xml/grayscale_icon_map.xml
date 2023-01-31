@@ -101,6 +101,7 @@
     <icon drawable="@drawable/babbel" package="com.babbel.mobile.android.en" name="Babbel" />
     <icon drawable="@drawable/backdrops" package="com.backdrops.wallpapers" name="Backdrops" />
     <icon drawable="@drawable/baidu_map" package="com.baidu.BaiduMap" name="Baidu Map" />
+    <icon drawable="@drawable/bajaj_finserv" package="org.altruist.BajajExperia" name="Bajaj Finserv" />
     <icon drawable="@drawable/bandbond" package="se.droid.bandbond" name="Bandbond" />
     <icon drawable="@drawable/bandcamp" package="com.bandcamp.android" name="Bandcamp" />
     <icon drawable="@drawable/bandlab" package="com.bandlab.bandlab" name="BandLab" />
@@ -673,6 +674,7 @@
     <icon drawable="@drawable/globeone" package="ph.com.globe.globeonesuperapp" name="GlobeOne" />
     <icon drawable="@drawable/glovo" package="com.glovo" name="Glovo" />
     <icon drawable="@drawable/gls_banking" package="de.gls.banking.app" name="GLS Banking"/>
+    <icon drawable="@drawable/glyph_control" package="tech.ozstudios.np1_glyph_control" name="Glyph control"/>
     <icon drawable="@drawable/gmail" package="com.google.android.gm" name="Gmail" />
     <icon drawable="@drawable/gmail" package="com.google.android.gm.lite" name="Gmail" />
     <icon drawable="@drawable/gmapswv" package="us.spotco.maps" name="GMaps WV" />
@@ -807,6 +809,7 @@
     <icon drawable="@drawable/infektinfo" package="com.wdtec.infektinfo.hw" name="InfektInfo Fallzahlen Inzidenz" />
     <icon drawable="@drawable/infinity_for_reddit" package="ml.docilealligator.infinityforreddit" name="Infinity" />
     <icon drawable="@drawable/ing" package="de.ingdiba.bankingapp" name="Ing" />
+    <icon drawable="@drawable/inshorts" package="com.nis.app" name="Inshorts" />
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instander.android" name="Instagram" />
@@ -834,6 +837,7 @@
     <icon drawable="@drawable/jellyfin" package="org.jellyfin.mobile" name="Jellyfin" />
     <icon drawable="@drawable/jenius" package="com.btpn.dc" name="Jenius" />
     <icon drawable="@drawable/jionews" package="com.jio.media.jioxpressnews" name="JioNews" />
+    <icon drawable="@drawable/jionews" package="com.jio.media.jiobeats" name="JioSaavn" />
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
     <icon drawable="@drawable/joyn" package="de.prosiebensat1digital.seventv" name="Joyn" />
@@ -943,6 +947,7 @@
     <icon drawable="@drawable/magisk" package="com.topjohnwu.magisk" name="Magisk" />
     <icon drawable="@drawable/magisk" package="io.github.huskydg.magisk" name="Magisk" />
     <icon drawable="@drawable/mainaqila" package="de.mainaqila.app" name="Mainaqila" />
+    <icon drawable="@drawable/makemytrip" package="com.makemytrip" name="MakeMyTrip" />
     <icon drawable="@drawable/manipal_hospitals" package="com.manipal.manipalhospitals" name="Manipal Hospitals" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.maps" name="Google Maps" />
     <icon drawable="@drawable/maps" package="com.google.android.apps.mapslite" name="Google Maps" />
@@ -1149,6 +1154,7 @@
     <icon drawable="@drawable/odysee" package="com.odysee.app" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
     <icon drawable="@drawable/office_suite" package="com.mobisystems.office" name="OfficeSuite" />
+    <icon drawable="@drawable/ola" package="com.olacabs.customer" name="Ola" />
     <icon drawable="@drawable/olx" package="pl.tablica" name="OLX Polska" />
     <icon drawable="@drawable/onedotonedotonedotone" package="com.cloudflare.onedotonedotonedotone" name="1.1.1.1" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
@@ -1391,6 +1397,7 @@
     <icon drawable="@drawable/renfe" package="com.renfeviajeros.ticket" name="Renfe" />
     <icon drawable="@drawable/repainter" package="dev.kdrag0n.dyntheme" name="Repainter" />
     <icon drawable="@drawable/republik" package="app.republik" name="Republik" />
+    <icon drawable="@drawable/resso" package="com.moonvideo.android.resso" name="Resso Music" />
     <icon drawable="@drawable/retroarch" package="com.retroarch" name="RetroArch" />
     <icon drawable="@drawable/retroarch" package="com.retroarch.aarch64" name="RetroArch" />
     <icon drawable="@drawable/retro_music" package="code.name.monkey.retromusic" name="Retro Music" />
@@ -1440,6 +1447,8 @@
     <icon drawable="@drawable/scanner" package="com.coolmobilesolution.fastscannerfree" name="Scanner" />
     <icon drawable="@drawable/scanner" package="com.simplescan.scanner" name="Scanner" />
     <icon drawable="@drawable/scanner" package="com.xiaomi.scanner" name="Scanner" />
+    <icon drawable="@drawable/scanner" package="pdf.tap.scanner" name="Scanner" />
+    <icon drawable="@drawable/scannerate" package="com.drbrosdev.studytextscan" name="Scannerate - Text Scanner App" />
     <icon drawable="@drawable/schildichat" package="de.spiritcroc.riotx" name="SchildiChat" />
     <icon drawable="@drawable/school_planner" package="com.swazerlab.schoolplanner" name="School Planner" />
     <icon drawable="@drawable/schoolplanner" package="daldev.android.gradehelper" name="School Planner" />
@@ -1588,6 +1597,7 @@
     <icon drawable="@drawable/strava" package="com.strava" name="Strava" />
     <icon drawable="@drawable/streetcomplete" package="de.westnordost.streetcomplete" name="StreetComplete" />
     <icon drawable="@drawable/stremio" package="com.stremio.one" name="Stremio" />
+    <icon drawable="@drawable/student_beans" package="com.studentbeans.studentbeans" name="Student Beans" />
     <icon drawable="@drawable/styx_browser" package="com.jamal2367.styx" name="Styx Browser" />
     <icon drawable="@drawable/subhub" package="com.crazylegend.subhub" name="Subhub" />
     <icon drawable="@drawable/substratum_lite" package="projekt.substratum.lite" name="substratum Lite" />
@@ -1847,6 +1857,7 @@
     <icon drawable="@drawable/wps_office" package="cn.wps.moffice_eng" name="WPS Office" />
     <icon drawable="@drawable/wrc" package="laola1.wrc" name="WRC" />
     <icon drawable="@drawable/wsc" package="wscconnect.android" name="WSC Connect" />
+    <icon drawable="@drawable/wynk_music" package="com.bsbportal.music" name="Wynk Music" />
     <icon drawable="@drawable/xbox" package="com.microsoft.xboxone.smartglass" name="Xbox" />
     <icon drawable="@drawable/xda" package="com.xda.labs" name="XDA" />
     <icon drawable="@drawable/xda" package="com.xda.labs.play" name="XDA" />
