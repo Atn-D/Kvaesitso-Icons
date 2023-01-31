@@ -898,6 +898,7 @@
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.alpha" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.beta" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.debug" name="Kvaesitso" />
+    <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.nightly" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.release" name="Kvaesitso" />
     <icon drawable="@drawable/kvaesitso_icons" package="de.kvaesitso.icons" name="Kvaesitso Icons" />
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
