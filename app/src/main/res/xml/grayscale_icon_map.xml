@@ -1138,7 +1138,7 @@
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/noto" package="com.noto" name="Noto" />
     <icon drawable="@drawable/nova" package="com.teslacoilsw.launcher" name="Nova Launcher" />
-    <icon drawable="@drawable/novaprime" package="com.teslacoilsw.launcher.prime" name="Nova Launcher Prime" />
+    <icon drawable="@drawable/nova" package="com.teslacoilsw.launcher.prime" name="Nova Launcher" />
     <icon drawable="@drawable/nova_video_player" package="org.courville.nova" name="Nova Video Player" />
     <icon drawable="@drawable/ns" package="nl.ns.android.activity" name="NS" />
     <icon drawable="@drawable/ntfy" package="io.heckel.ntfy" name="ntfy" />
@@ -1155,8 +1155,27 @@
     <icon drawable="@drawable/odysee" package="com.odysee.app" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
     <icon drawable="@drawable/office_suite" package="com.mobisystems.office" name="OfficeSuite" />
-    <icon drawable="@drawable/ola" package="com.olacabs.customer" name="Ola" />
-    <icon drawable="@drawable/olx" package="pl.tablica" name="OLX Polska" />
+    <icon drawable="@drawable/ola_cabs" package="com.olacabs.customer" name="Ola Cabs" />
+    <icon drawable="@drawable/ola_cabs" package="com.olacabs.lite" name="Ola Cabs" />
+    <icon drawable="@drawable/olx" package="ba.pik.v2.android" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.app.dealfish.main" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.app.tokobagus.betterb" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.fixeads.olxangola" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olx.pk" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olx.southasia" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olx.ssa.gh" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olx.ssa.ng" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olx.ssa.ug" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olx.ssa.za" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.olxmena.horizontal" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.schibsted.bomnegocio.androidApp" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.sirmamobile.prodavalnik" name="Olx" />
+    <icon drawable="@drawable/olx" package="com.torg.torg" name="Olx" />
+    <icon drawable="@drawable/olx" package="kz.slando" name="Olx" />
+    <icon drawable="@drawable/olx" package="ph.com.sulit.app" name="Olx" />
+    <icon drawable="@drawable/olx" package="pl.tablica" name="Olx" />
+    <icon drawable="@drawable/olx" package="ro.mercador" name="Olx" />
+    <icon drawable="@drawable/olx" package="ua.slando" name="Olx" />
     <icon drawable="@drawable/onedotonedotonedotone" package="com.cloudflare.onedotonedotonedotone" name="1.1.1.1" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
