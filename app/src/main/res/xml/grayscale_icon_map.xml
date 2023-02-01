@@ -669,6 +669,7 @@
     <icon drawable="@drawable/generic_player" package="com.iven.musicplayergo" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.kapp.youtube.final" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer" name="Player" />
+    <icon drawable="@drawable/generic_player" package="com.maxmpz.audioplayer.unlock" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.ad" name="Player" />
     <icon drawable="@drawable/generic_player" package="com.mxtech.videoplayer.pro" name="Player" />
     <icon drawable="@drawable/genius" package="com.genius.android" name="Genius" />
@@ -1322,7 +1323,6 @@
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
-    <icon drawable="@drawable/poweramp_unlocker" package="com.maxmpz.audioplayer.unlock" name="Poweramp Unlocker" />
     <icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
     <icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
     <icon drawable="@drawable/prey" package="com.prey" name="Prey: Find My Phone &amp; Security" />
@@ -1491,7 +1491,7 @@
     <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
     <icon drawable="@drawable/screenshot_tile_noroot" package="com.github.cvzi.screenshottile" name="Screenshot Tile" />
     <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm" name="SD Maid" />
-    <icon drawable="@drawable/sdmaid_pro" package="eu.thedarken.sdm.unlocker" name="SDMaid Pro" />
+    <icon drawable="@drawable/sd_maid" package="eu.thedarken.sdm.unlocker" name="SD Maid" />
     <icon drawable="@drawable/seal" package="com.junkfood.seal" name="Seal" />
     <icon drawable="@drawable/securego_plus" package="de.fiduciagad.securego.wl" name="SecureGo plus" />
     <icon drawable="@drawable/seedvault" package="com.stevesoltys.seedvault" name="Backup" />
