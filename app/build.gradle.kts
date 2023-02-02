@@ -20,7 +20,7 @@ android {
         targetSdk = 33
         versionCode = 5
         versionName = "1.4.0"
-        resourceConfigurations.addAll(listOf("en", "de", "es", "fr", "hi", "ja", "ru", "tr"))
+        resourceConfigurations.addAll(listOf("en", "de", "es", "fr", "hi", "ja", "pl", "ru", "tr"))
     }
 
     val keystorePropertiesFile = rootProject.file("keystore.properties")
