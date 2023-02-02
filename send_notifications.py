@@ -9,13 +9,11 @@ github_repository = os.getenv('GITHUB_REPOSITORY')
 github_ref = os.getenv('GITHUB_REF')
 telegram_ci_bot_token = os.getenv('TELEGRAM_CI_BOT_TOKEN')
 telegram_ci_channel_id = os.getenv('TELEGRAM_CI_CHANNEL_ID')
-telegram_ci_message_thread_id = os.getenv('TELEGRAM_CI_MESSAGE_THREAD_ID')
 artifact_directory = os.getenv('ARTIFACT_DIRECTORY')
 
 def send_message_to_ci_channel(message):
     data = {
         'chat_id': telegram_ci_channel_id, 
-        'topic_id': telegram_ci_message_thread_id,
         'parse_mode': 'HTML',
         'text': message,
         'disable_web_page_preview': 'true'
@@ -28,7 +26,6 @@ def send_message_to_ci_channel(message):
 def send_document_to_ci_channel(document):
     data = {
         'chat_id': telegram_ci_channel_id,
-        'topic_id': telegram_ci_message_thread_id,
     }
     files = {
         'document': document
