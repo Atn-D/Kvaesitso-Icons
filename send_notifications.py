@@ -14,7 +14,8 @@ artifact_directory = os.getenv('ARTIFACT_DIRECTORY')
 
 def send_message_to_ci_channel(message):
     data = {
-        'chat_id': telegram_ci_channel_id, telegram_ci_message_thread_id,
+        'chat_id': telegram_ci_channel_id, 
+        'topic_id': telegram_ci_message_thread_id,
         'parse_mode': 'HTML',
         'text': message,
         'disable_web_page_preview': 'true'
@@ -26,7 +27,8 @@ def send_message_to_ci_channel(message):
 
 def send_document_to_ci_channel(document):
     data = {
-        'chat_id': telegram_ci_channel_id, telegram_ci_message_thread_id,
+        'chat_id': telegram_ci_channel_id,
+        'topic_id': telegram_ci_message_thread_id,
     }
     files = {
         'document': document
