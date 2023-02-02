@@ -877,6 +877,7 @@
     <icon drawable="@drawable/just_eat" package="pt.takeaway.android" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
     <icon drawable="@drawable/just_eat" package="ro.ascendnet.android.agregator" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
     <icon drawable="@drawable/just_eat" package="uk.takeaway.android" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
+    <icon drawable="@drawable/justalk" package="com.juphoon.justalk" name="Justalk" />
     <icon drawable="@drawable/k9_mail" package="com.fsck.k9" name="K-9 Mail" />
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
     <icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
