@@ -852,6 +852,7 @@
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
     <icon drawable="@drawable/joyn" package="de.prosiebensat1digital.seventv" name="Joyn" />
+    <icon drawable="@drawable/jtx_board" package="at.techbee.jtx" name="jtx Board" />
     <icon drawable="@drawable/juicessh" package="com.sonelli.juicessh" name="JuiceSSH" />
     <icon drawable="@drawable/just_eat" package="at.lieferservice.android" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
     <icon drawable="@drawable/just_eat" package="be.pizza.android" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
