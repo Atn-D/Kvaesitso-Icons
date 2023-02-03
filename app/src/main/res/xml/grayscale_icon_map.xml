@@ -1192,6 +1192,7 @@
     <icon drawable="@drawable/onedotonedotonedotone" package="com.cloudflare.onedotonedotonedotone" name="1.1.1.1" />
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
+    <icon drawable="@drawable/one_second_diary" package="com.kylekun.one_second_diary" name="One Second Diary" />
     <icon drawable="@drawable/onvista" package="de.onvista.ovone" name="onvista" />
     <icon drawable="@drawable/ooniprobe" package="org.openobservatory.ooniprobe" name="OONI Probe" />
     <icon drawable="@drawable/openapk" package="com.dkanada.openapk" name="OperaAPK" />
