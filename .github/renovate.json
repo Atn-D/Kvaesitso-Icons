@@ -3,11 +3,27 @@
         "dependencies"
     ],
     "extends": [
-        "config:base", ":disableDependencyDashboard"
+        "config:base",
     ],
-    "ignoreDeps": [
-        "org.jetbrains.kotlin",
-        "com.google.devtools.ksp",
-        "com.google.android.gms.oss-licenses-plugin"
+
+    "packageRules": [
+        {
+            "groupName": "Kotlin",
+            "groupSlug": "kotlin",
+            "matchPackagePrefixes": [
+                "com.google.devtools.ksp",
+                "androidx.compose.compiler"
+            ],
+            "matchPackagePatterns": [
+                "org.jetbrains.kotlin.*"
+            ]
+        },
+        {
+            "groupName": "AGP",
+            "groupSlug": "agp",
+            "matchPackagePatterns": [
+                "com.android.*"
+            ]
+        }
     ]
 }
