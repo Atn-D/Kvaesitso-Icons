@@ -13,4 +13,8 @@
     <string name="contributors">Контрибьюторы</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Имя пакета:</string>
+    <string name="request_icons_link">Попросить значки</string>
+    <string name="github_link">Открыть GitHub</string>
+    <string name="special_thanks_source">За исходный код.</string>
+    <string name="special_thanks_arctions">За некоторые SVG.</string>
 </resources>
