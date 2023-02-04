@@ -945,7 +945,9 @@
     <icon drawable="@drawable/lifesum" package="com.sillens.shapeupclub" name="Lifesum" />
     <icon drawable="@drawable/line" package="jp.naver.line.android" name="LINE" />
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
+    <icon drawable="@drawable/linux_android_backup" package="com.example.companion_app" name="Linux Android Backup" />
     <icon drawable="@drawable/liputan6" package="com.woi.liputan6.android" name="Liputan6" />
+    <icon drawable="@drawable/localsend" package="org.localsend.localsend_app" name="LocalSend" />
     <icon drawable="@drawable/locket_widget" package="com.locket.Locket" name="Locket Widget" />
     <icon drawable="@drawable/logseq" package="com.logseq.app" name="Logseq" />
     <icon drawable="@drawable/lolisnatcher" package="com.noaisu.lolisnatcher" name="LoliSnatcher" />
