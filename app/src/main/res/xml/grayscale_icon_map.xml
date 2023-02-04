@@ -1149,6 +1149,7 @@
     <icon drawable="@drawable/notes" package="com.miui.notes" name="Notes" />
     <icon drawable="@drawable/notes" package="com.oneplus.note" name="Notes" />
     <icon drawable="@drawable/notesnook" package="com.streetwriters.notesnook" name="Notesnook" />
+    <icon drawable="@drawable/nothingx" package="com.nothing.smartcenter" name="Nothing X" />
     <icon drawable="@drawable/notion" package="notion.id" name="Notion" />
     <icon drawable="@drawable/noto" package="com.noto" name="Noto" />
     <icon drawable="@drawable/nova_launcher" package="com.teslacoilsw.launcher" name="Nova Launcher" />
