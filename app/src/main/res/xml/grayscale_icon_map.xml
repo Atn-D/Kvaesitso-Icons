@@ -1488,7 +1488,7 @@
     <icon drawable="@drawable/scannerate" package="com.drbrosdev.studytextscan" name="Scannerate - Text Scanner App" />
     <icon drawable="@drawable/schildichat" package="de.spiritcroc.riotx" name="SchildiChat" />
     <icon drawable="@drawable/school_planner" package="com.swazerlab.schoolplanner" name="School Planner" />
-    <icon drawable="@drawable/schoolplanner" package="daldev.android.gradehelper" name="School Planner" />
+    <icon drawable="@drawable/school_planner" package="daldev.android.gradehelper" name="School Planner" />
     <icon drawable="@drawable/schulmanager" package="online.schulmanager.app" name="Schulmanager" />
     <icon drawable="@drawable/scoop" package="taco.scoop" name="Scoop" />
     <icon drawable="@drawable/scrambled_exif" package="com.jarsilio.android.scrambledeggsif" name="Scrambled Exif" />
