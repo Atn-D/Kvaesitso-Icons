@@ -1427,6 +1427,7 @@
     <icon drawable="@drawable/recorder" package="com.dimowner.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.github.axet.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.google.android.apps.recorder" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.jlong.miccheck" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.motorola.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.nothing.soundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.oneplus.soundrecorder" name="Recorder" />
