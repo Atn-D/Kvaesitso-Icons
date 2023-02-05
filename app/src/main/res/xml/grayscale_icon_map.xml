@@ -72,7 +72,7 @@
     <icon drawable="@drawable/apple_music" package="com.apple.android.music" name="Apple Music" />
     <icon drawable="@drawable/application_inspector" package="com.ubqsoft.sec01" name="Application Inspector" />
     <icon drawable="@drawable/app_lounge" package="foundation.e.apps" name="App Lounge" />
-    <icon drawable="@drawable/app_manager" package="cz.seeq.prog.android.packageviewer" name="App Managerr" />
+    <icon drawable="@drawable/app_manager" package="cz.seeq.prog.android.packageviewer" name="App Manager" />
     <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/app_manager_debug" package="io.github.muntashirakon.AppManager.debug" name="App Manager Debug" />
     <icon drawable="@drawable/appsales" package="net.tsapps.appsales" name="AppSales" />
@@ -730,8 +730,8 @@
     <icon drawable="@drawable/google_one" package="com.google.android.apps.subscriptions.red" name="Google One" />
     <icon drawable="@drawable/google_opinion_rewards" package="com.google.android.apps.paidtasks" name="Google Opinion Rewards" />
     <icon drawable="@drawable/google_pay" package="com.google.android.apps.nbu.paisa.user" name="Google Pay" />
-    <icon drawable="@drawable/google_phone" package="com.android.phone" name="Phone" />
-    <icon drawable="@drawable/google_phone" package="com.google.android.dialer" name="Phone" />
+    <icon drawable="@drawable/google_phone" package="com.android.phone" name="Google Phone" />
+    <icon drawable="@drawable/google_phone" package="com.google.android.dialer" name="Google Phone" />
     <icon drawable="@drawable/google_photos" package="com.google.android.apps.photos" name="Google Photos" />
     <icon drawable="@drawable/google_pixel_watch" package="com.google.android.apps.wear.companion" name="Google Pixel Watch" />
     <icon drawable="@drawable/google_play_books" package="com.foobnix.pro.pdf.reader" name="Google Play Books" />
