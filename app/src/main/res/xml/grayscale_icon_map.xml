@@ -351,6 +351,7 @@
     <icon drawable="@drawable/compass" package="net.androgames.compass" name="Compass" />
     <icon drawable="@drawable/connect" package="com.garmin.android.apps.connectmobile" name="Connect" />
     <icon drawable="@drawable/connect_iq" package="com.garmin.connectiq" name="Connect IQ" />
+    <icon drawable="@drawable/contacts" package="com.bnyro.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.samsung.android.app.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Contacts" />
@@ -711,8 +712,8 @@
     <icon drawable="@drawable/google_chrome_canary" package="com.chrome.canary" name="Google Chrome Canary" />
     <icon drawable="@drawable/google_chrome_dev" package="com.chrome.dev" name="Google Chrome Dev" />
     <icon drawable="@drawable/google_classroom" package="com.google.android.apps.classroom" name="Google Classroom" />
-    <icon drawable="@drawable/google_contacts" package="com.android.contacts" name="Contacts" />
-    <icon drawable="@drawable/google_contacts" package="com.google.android.contacts" name="Contacts" />
+    <icon drawable="@drawable/google_contacts" package="com.android.contacts" name="Google Contacts" />
+    <icon drawable="@drawable/google_contacts" package="com.google.android.contacts" name="Google Contacts" />
     <icon drawable="@drawable/google_docs" package="com.google.android.apps.docs.editors.docs" name="Google Docs" />
     <icon drawable="@drawable/google_drive" package="com.google.android.apps.docs" name="Google Drive" />
     <icon drawable="@drawable/google_duo" package="com.google.android.apps.tachyon" name="Google Duo" />
