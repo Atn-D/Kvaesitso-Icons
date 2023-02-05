@@ -33,6 +33,7 @@
     <icon drawable="@drawable/aliucord_installer" package="com.aliucord.installer" name="Aliucord Installer" />
     <icon drawable="@drawable/aliucord_installer" package="com.aliucord.manager" name="Aliucord Installer" />
     <icon drawable="@drawable/allegro" package="pl.allegro" name="Allegro" />
+    <icon drawable="@drawable/amarok" package="deltazero.amarok.foss" name="Amarok-Hider" />
     <icon drawable="@drawable/amaze" package="com.amaze.filemanager" name="Amaze" />
     <icon drawable="@drawable/amazon_alexa" package="com.amazon.dee.app" name="Amazon Alexa" />
     <icon drawable="@drawable/amazon_prime_video" package="com.amazon.avod.thirdpartyclient" name="Amazon Prime Video" />
@@ -425,6 +426,7 @@
     <icon drawable="@drawable/dialer" package="jp.ad.iij.miodial" name="Phone" />
     <icon drawable="@drawable/dicio" package="com.setegraus.dicio" name="Dicio" />
     <icon drawable="@drawable/dicio" package="org.dicio.dicio_android" name="Dicio" />
+    <icon drawable="@drawable/dicio" package="org.stypox.dicio" name="Dicio" />
     <icon drawable="@drawable/dictionary_com" package="com.dictionary.paid" name="Dictionary.com" />
     <icon drawable="@drawable/dictionary_com" package="com.dictionary" name="Dictionary.com" />
     <icon drawable="@drawable/digi" package="es.digimobil.micuenta" name="Mi Cuenta DIGI" />
@@ -681,6 +683,7 @@
     <icon drawable="@drawable/getir" package="com.getir" name="getir" />
     <icon drawable="@drawable/gimme5" package="it.reply.kc.android.gimme5" name="Gimme5" />
     <icon drawable="@drawable/github" package="com.github.android" name="GitHub" />
+    <icon drawable="@drawable/gitnex" package="org.mian.gitnex" name="GitNex" />
     <icon drawable="@drawable/globeone" package="ph.com.globe.globeonesuperapp" name="GlobeOne" />
     <icon drawable="@drawable/glovo" package="com.glovo" name="Glovo" />
     <icon drawable="@drawable/gls_banking" package="de.gls.banking.app" name="GLS Banking"/>
