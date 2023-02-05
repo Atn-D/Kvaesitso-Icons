@@ -521,7 +521,7 @@
     <icon drawable="@drawable/fandom" package="com.fandom.app" name="FANDOM" />
     <icon drawable="@drawable/fastmail" package="com.fastmail.app" name="Fastmail" />
     <icon drawable="@drawable/fave" package="com.pinelabs.fave" name="Fave" />
-    <icon drawable="@drawable/fdroid" package="eu.bubu1.fdroidclassic" name="F-Droid" />
+    <icon drawable="@drawable/fdroidclassic" package="eu.bubu1.fdroidclassic" name="F-Droid Classic" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
     <icon drawable="@drawable/fedilab" package="fr.gouv.etalab.mastodon" name="Fedilab" />
     <icon drawable="@drawable/feedback" package="com.huawei.phoneservice" name="Services &amp; Feedback" />
