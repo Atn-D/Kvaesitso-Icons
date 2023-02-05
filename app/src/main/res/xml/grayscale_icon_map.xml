@@ -159,7 +159,7 @@
     <icon drawable="@drawable/bni_mobile" package="src.com.bni" name="BNI Mobile Banking" />
     <icon drawable="@drawable/bodhi_timer" package="org.yuttadhammo.BodhiTimer" name="Bodhi Timer" />
     <icon drawable="@drawable/boi" package="com.bankofireland.mobilebanking" name="BOI Mobile" />
-    <icon drawable="@drawable/bol" package="com.bol.shop" name="bol.com" name="Bol" />
+    <icon drawable="@drawable/bol" package="com.bol.shop" name="bol.com" />
     <icon drawable="@drawable/booking" package="com.booking" name="Booking.com" />
     <icon drawable="@drawable/bookmyshow" package="com.bt.bms" name="Bookmyshow" />
     <icon drawable="@drawable/bookmyshow" package="com.bt.bms.id" name="Bookmyshow" />
