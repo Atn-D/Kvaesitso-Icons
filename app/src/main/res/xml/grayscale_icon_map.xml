@@ -136,6 +136,7 @@
     <icon drawable="@drawable/bima_plus" package="com.linkit.bimatri" name="Bima+" />
     <icon drawable="@drawable/binance" package="com.binance.dev" name="Binance" />
     <icon drawable="@drawable/binary_eye" package="de.markusfisch.android.binaryeye" name="Binary Eye" />
+    <icon drawable="@drawable/binauralbeats" package="com.github.axet.binauralbeats" name="Binaural Beats" />
     <icon drawable="@drawable/birday" package="com.minar.birday" name="Birday" />
     <icon drawable="@drawable/birdnet" package="de.tu_chemnitz.mi.kahst.birdnet" name="BirdNET" />
     <icon drawable="@drawable/bitmoji" package="com.bitstrips.imoji" name="Bitmoji" />
@@ -381,6 +382,7 @@
     <icon drawable="@drawable/curiosity_stream" package="com.curiosity.curiositystream" name="Curiosity Stream" />
     <icon drawable="@drawable/currencies" package="de.salomax.currencies" name="Currencies" />
     <icon drawable="@drawable/cx_file_explorer" package="com.cxinventor.file.explorer" name="Cx File Explorer" />
+    <icon drawable="@drawable/dailydozen" package="org.nutritionfacts.dailydozen" name="Daily Dozen" />
     <icon drawable="@drawable/dana" package="id.dana" name="DANA" />
     <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
     <icon drawable="@drawable/dashlane" package="com.dashlane" name="Dashlane" />
@@ -488,6 +490,8 @@
     <icon drawable="@drawable/duolingo" package="com.duolingo" name="Duolingo" />
     <icon drawable="@drawable/dynamic_spot" package="com.jamworks.dynamicspot" name="dynamicSpot" />
     <icon drawable="@drawable/eapteka" package="ru.getpharma.eapteka" name="Eapteka" />
+    <icon drawable="@drawable/easer" package="ryey.easer" name="Easer" />
+    <icon drawable="@drawable/easer" package="ryey.easer.beta" name="Easer" />
     <icon drawable="@drawable/ebay" package="com.ebay.mobile" name="eBay" />
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/ecovacs_home" package="com.eco.global.app" name="Ecovacs Home" />
@@ -499,6 +503,7 @@
     <icon drawable="@drawable/element" package="im.vector.app" name="Element" />
     <icon drawable="@drawable/ella" package="rocks.poopjournal.Ella" name="Ella" />
     <icon drawable="@drawable/emt" package="es.emtvalencia.emt" name="EMT Valencia" />
+    <icon drawable="@drawable/energize" package="com.flasskamp.energize" name="Energize" />
     <icon drawable="@drawable/englishwhiz" package="com.javalon.englishwhiz" name="EnglishWhiz" />
     <icon drawable="@drawable/enpara" package="finansbank.enpara" name="Enpara" />
     <icon drawable="@drawable/enpass" package="io.enpass.app" name="Enpass" />
@@ -910,6 +915,7 @@
     <icon drawable="@drawable/kodi" package="org.xbmc.kodi" name="Kodi" />
     <icon drawable="@drawable/koduko" package="com.example.koduko" name="Koduko" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
+    <icon drawable="@drawable/kotatsu" package="org.koitharu.kotatsu" name="Kotatsu" />
     <icon drawable="@drawable/krita" package="org.krita" name="Krita" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
     <icon drawable="@drawable/kvaesitso" package="de.mm20.launcher2.alpha" name="Kvaesitso" />
@@ -1006,6 +1012,7 @@
     <icon drawable="@drawable/meinvodafone" package="com.vodafone.selfservis" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/meinvodafone" package="it.vodafone.my190" name="MeinVodafone / My Vodafone" />
     <icon drawable="@drawable/mekorama" package="com.martinmagni.mekorama" name="Mekorama" />
+    <icon drawable="@drawable/memetastic" package="io.github.gsantner.memetastic" name="MemeTastic" />
     <icon drawable="@drawable/menus" package="es.upv.asic.MenusCafeterias" name="Menús" />
     <icon drawable="@drawable/messages" package="com.android.messaging" name="Messages" />
     <icon drawable="@drawable/messages" package="com.android.mms" name="Messages" />
@@ -1247,6 +1254,7 @@
     <icon drawable="@drawable/package_manager" package="sarangal.packagemanager" name="Package Manager" />
     <icon drawable="@drawable/packages_names" package="com.csdroid.pkg" name="Package Names" />
     <icon drawable="@drawable/pager_duty" package="com.pagerduty.android" name="Pager Duty" />
+    <icon drawable="@drawable/paisa" package="dev.hemanths.paisa" name="Paisa" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
     <icon drawable="@drawable/paperless" package="eu.bauerj.paperless_app" name="Paperless" />
     <icon drawable="@drawable/parlera" package="com.enjoyingfoss.parlera" name="Parlera" />
@@ -1376,7 +1384,9 @@
     <icon drawable="@drawable/qonqr" package="com.qonqr.android.blue" name="QONQR" />
     <icon drawable="@drawable/qq" package="com.tencent.mobileqq" name="QQ" />
     <icon drawable="@drawable/qr" package="de.t_dankworth.secscanqr" name="SecScanQR" />
+    <icon drawable="@drawable/qr_reader" package="com.atharok.barcodescanner" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.example.barcodescanner" name="QR Reader" />
+    <icon drawable="@drawable/qr_reader" package="com.google.zxing.client.android" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.secuso.privacyFriendlyCodeScanner" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.teacapps.barcodescanner" name="QR Reader" />
     <icon drawable="@drawable/qr_reader" package="com.tomfong.simpleqr" name="QR Reader" />
@@ -1759,6 +1769,7 @@
     <icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
     <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount" />
     <icon drawable="@drawable/trime" package="com.osfans.trime" name="Trime" />
+    <icon drawable="@drawable/trivia_you" package="com.bnyro.trivia" name="Trivia You" />
     <icon drawable="@drawable/trueskate" package="com.trueaxis.trueskate" name="True Skate" />
     <icon drawable="@drawable/trust_wallet" package="app.fedilab.nitterizeme" name="Trust Wallet" />
     <icon drawable="@drawable/trust_wallet" package="com.wallet.crypto.trustapp" name="Trust Wallet" />
@@ -1846,6 +1857,7 @@
     <icon drawable="@drawable/wallmewallpaper" package="com.alaory.wallmewallpaper" name="Wallme-Wallpaper" />
     <icon drawable="@drawable/wallpapers" package="com.mathyeckerdt.wallrod" name="WallRod" />
     <icon drawable="@drawable/warnwetter" package="de.dwd.warnapp" name="WarnWetter" />
+    <icon drawable="@drawable/warpinator" package="slowscript.warpinator" name="Warpinator" />
     <icon drawable="@drawable/watchbuddy" package="de.pietsmiet.watchbuddy" name="Watchbuddy" />
     <icon drawable="@drawable/wattz" package="dubrowgn.wattz" name="Wattz" />
     <icon drawable="@drawable/wavelet" package="com.pittvandewitt.wavelet" name="Wavelet" />
