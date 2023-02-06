@@ -145,6 +145,7 @@
     <icon drawable="@drawable/bitwarden" package="com.x8bit.bitwarden" name="Bitwarden" />
     <icon drawable="@drawable/blackberry_uem" package="com.rim.mobilefusion.client" name="BlackBerry UEM" />
     <icon drawable="@drawable/blackberry_work" package="com.good.gcs" name="BlackBerry Work" />
+    <icon drawable="@drawable/blackhole" package="com.shadow.blackhole" name="BlackHole" />
     <icon drawable="@drawable/black_screen" package="io.japp.blackscreen" name="Black Screen" />
     <icon drawable="@drawable/blindmate" package="eu.appiphany.blindmate" name="blindmate" />
     <icon drawable="@drawable/blockinger" package="org.blockinger.game" name="Blockinger" />
@@ -620,6 +621,8 @@
     <icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
     <icon drawable="@drawable/funimation" package="com.Funimation.FunimationNow" name="Funimation" />
     <icon drawable="@drawable/furaffinity" package="open.furaffinity.client" name="Open Furaffinity Client" />
+    <icon drawable="@drawable/fx_file_explorer" package="nextapp.fx" name="FX Manager" />
+    <icon drawable="@drawable/fx_file_explorer" package="nextapp.fx.rk" name="FX Manager" />
     <icon drawable="@drawable/fxxxs_given" package="rocks.poopjournal.fucksgiven" name="F***s Given" />
     <icon drawable="@drawable/galaxy_store" package="com.sec.android.app.samsungapps" name="Galaxy Store" />
     <icon drawable="@drawable/gallery" package="com.android.gallery3d" name="Gallery" />
@@ -747,6 +750,7 @@
     <icon drawable="@drawable/google_podcasts" package="com.google.android.apps.podcasts" name="Google Podcasts" />
     <icon drawable="@drawable/google_sheets" package="com.google.android.apps.docs.editors.sheets" name="Google Sheets" />
     <icon drawable="@drawable/google_slides" package="com.google.android.apps.docs.editors.slides" name="Google Slides" />
+    <icon drawable="@drawable/google_task_mate" package="com.google.android.apps.nbu.tinytask" name="Task Mate" />
     <icon drawable="@drawable/google_tasks" package="com.google.android.apps.tasks" name="Google Tasks" />
     <icon drawable="@drawable/google_translate" package="com.google.android.apps.translate" name="Google Translate" />
     <icon drawable="@drawable/google_tv" package="com.google.android.videos" name="Google TV" />
@@ -860,6 +864,7 @@
     <icon drawable="@drawable/jionews" package="com.jio.media.jiobeats" name="JioSaavn" />
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
+    <icon drawable="@drawable/joey_reddit" package="o.o.joey" name="Joey" />
     <icon drawable="@drawable/joyn" package="de.prosiebensat1digital.seventv" name="Joyn" />
     <icon drawable="@drawable/jtx_board" package="at.techbee.jtx" name="jtx Board" />
     <icon drawable="@drawable/juicessh" package="com.sonelli.juicessh" name="JuiceSSH" />
@@ -1283,6 +1288,7 @@
     <icon drawable="@drawable/photo_editor" package="com.example.retouchephoto" name="Photo Editor" />
     <icon drawable="@drawable/photo_editor" package="com.iudesk.android.photo.editor" name="Photo Editor" />
     <icon drawable="@drawable/photo_editor" package="com.mt.mtxx.mtxx" name="Photo Editor" />
+    <icon drawable="@drawable/photomath" package="ecom.microblink.photomath" name="Photomath" />
     <icon drawable="@drawable/photon" package="dev.abhi.photon" name="Share files - Photon share" />
     <icon drawable="@drawable/photoscan" package="com.google.android.apps.photos.scanner" name="PhotoScan" />
     <icon drawable="@drawable/phototan" package="ch.raiffeisen.phototan" name="PhotoTAN" />
@@ -1699,6 +1705,7 @@
     <icon drawable="@drawable/telegram" package="org.thunderdog.challegramtwo" name="Telegram" />
     <icon drawable="@drawable/telenet" package="be.telenet.telenetapp" name="Telemet" />
     <icon drawable="@drawable/telenet_tv" package="be.telenet.tv" name="Telenet TV" />
+    <icon drawable="@drawable/termius" package="com.server.auditor.ssh.client" name="Termius" />
     <icon drawable="@drawable/termux" package="com.termux" name="Termux" />
     <icon drawable="@drawable/termux" package="com.termux.api" name="Termux" />
     <icon drawable="@drawable/termux" package="com.termux.boot" name="Termux" />
