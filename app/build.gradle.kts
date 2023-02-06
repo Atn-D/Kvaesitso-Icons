@@ -18,8 +18,8 @@ android {
         applicationId = "de.kvaesitso.icons"
         minSdk = 26
         targetSdk = 33
-        versionCode = 5
-        versionName = "1.4.0"
+        versionCode = 6
+        versionName = "1.5.0"
         resourceConfigurations.addAll(listOf("en", "de", "es", "fr", "hi", "ja", "pl", "ru", "tr"))
     }
 

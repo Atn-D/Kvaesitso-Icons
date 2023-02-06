@@ -222,6 +222,7 @@
     <icon drawable="@drawable/burger_king" package="ni.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="ru.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="se.burgerking.ordersapp" name="Burger King" />
+    <icon drawable="@drawable/button_mapper" package="flar2.homebutton" name="Button Mapper" />
     <icon drawable="@drawable/by_u" package="com.byu.id" name="by.U" />
     <icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
     <icon drawable="@drawable/caixa" package="es.lacaixa.mobile.android.newwapicon" name="CaixaBankNow" />
@@ -351,6 +352,7 @@
     <icon drawable="@drawable/compass" package="danielmeek32.compass" name="Compass" />
     <icon drawable="@drawable/compass" package="dev.synapsetech.compass" name="Compass" />
     <icon drawable="@drawable/compass" package="net.androgames.compass" name="Compass" />
+    <icon drawable="@drawable/congstar" package="de.congstar.meincongstar" name="Congstar" />
     <icon drawable="@drawable/connect" package="com.garmin.android.apps.connectmobile" name="Connect" />
     <icon drawable="@drawable/connect_iq" package="com.garmin.connectiq" name="Connect IQ" />
     <icon drawable="@drawable/contacts" package="com.bnyro.contacts" name="Contacts" />
@@ -410,6 +412,7 @@
     <icon drawable="@drawable/denon_avr" package="com.dmholdings.DenonAVRRemote" name="Denon AVR Remote" />
     <icon drawable="@drawable/designer_tools" package="com.scheffsblend.designertools" name="Designer Tools" />
     <icon drawable="@drawable/de_tijd" package="mobi.inthepocket.mediafin.detijd" name="De Tijd" />
+    <icon drawable="@drawable/devcheck" package="flar2.devcheck" name="DevCheck" />
     <icon drawable="@drawable/deviantart" package="com.deviantart.android.damobile" name="DeviantArt" />
     <icon drawable="@drawable/device_info_hw" package="ru.andr7e.deviceinfohw" name="Device Info HW" />
     <icon drawable="@drawable/dhl" package="de.dhl.paket" name="Post &amp; DHL" />
@@ -618,6 +621,8 @@
     <icon drawable="@drawable/freeotp" package="org.fedorahosted.freeotp" name="FreeOTP" />
     <icon drawable="@drawable/freeotp" package="org.liberty.android.freeotpplus" name="FreeOTP" />
     <icon drawable="@drawable/fritter" package="com.jonjomckay.fritter" name="Fritter" />
+    <icon drawable="@drawable/fritz_wlan" package="de.avm.android.wlanapp" name="Fritz!App WLAN" />
+    <icon drawable="@drawable/fritz_fon" package="de.avm.android.fritzapp" name="FRITZ!App Fon" />
     <icon drawable="@drawable/frostfacebook" package="com.pitchedapps.frost" name="Frost for Facebook" />
     <icon drawable="@drawable/fstop" package="com.fstop.photo" name="F-Stop" />
     <icon drawable="@drawable/funimation" package="com.Funimation.FunimationNow" name="Funimation" />
@@ -1271,6 +1276,7 @@
     <icon drawable="@drawable/passandroid" package="org.ligi.passandroid" name="PassAndroid" />
     <icon drawable="@drawable/password_safe_manager" package="com.reneph.passwordsafe" name="Password Safe and Manager" />
     <icon drawable="@drawable/patreon" package="com.patreon.android" name="Patreon" />
+    <icon drawable="@drawable/payback" package="de.payback.client.android" name="PAYBACK" />
     <icon drawable="@drawable/payconiq" package="mobi.inthepocket.bcmc.bancontact" name="Payconiq by Bancontact" />
     <icon drawable="@drawable/paypal" package="com.paypal.android.p2pmobile" name="PayPal" />
     <icon drawable="@drawable/paysafecard" package="at.paysafecard.android" name="paysafecard" />
@@ -1474,6 +1480,7 @@
     <icon drawable="@drawable/revolt" package="com.revolt" name="Revolt" />
     <icon drawable="@drawable/revolt" package="site.endl.taiku.rvmob" name="Revolt" />
     <icon drawable="@drawable/revolut" package="com.revolut.revolut" name="Revolut" />
+    <icon drawable="@drawable/rewe" package="de.rewe.app.mobile" name="REWE" />
     <icon drawable="@drawable/riot_mobile" package="com.riotgames.mobile.leagueconnect" name="Riot Mobile" />
     <icon drawable="@drawable/riseup_vpn" package="se.leap.riseupvpn" name="Riseup VPN" />
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
@@ -1811,6 +1818,7 @@
     <icon drawable="@drawable/two_zero_four_eight" package="com.gabrielecirulli.app2048" name="2048" />
     <icon drawable="@drawable/two_zero_four_eight" package="com.ketchapp.play2048" name="2048" />
     <icon drawable="@drawable/two_zero_four_eight" package="com.tpcstld.twozerogame" name="2048" />
+    <icon drawable="@drawable/twrp" package="me.twrp.twrpapp" name="TWRP" />
     <icon drawable="@drawable/uber" package="com.ubercab" name="Uber" />
     <icon drawable="@drawable/uber_driver" package="com.ubercab.driver" name="Uber Driver" />
     <icon drawable="@drawable/uber_eats" package="com.ubercab.eats" name="Uber Eats" />
