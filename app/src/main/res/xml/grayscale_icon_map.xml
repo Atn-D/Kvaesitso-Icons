@@ -869,7 +869,7 @@
     <icon drawable="@drawable/jenius" package="com.btpn.dc" name="Jenius" />
     <icon drawable="@drawable/jetquotes" package="www.spikeysanju.jetquotes" name="JetQuotes" />
     <icon drawable="@drawable/jionews" package="com.jio.media.jioxpressnews" name="JioNews" />
-    <icon drawable="@drawable/jionews" package="com.jio.media.jiobeats" name="JioSaavn" />
+    <icon drawable="@drawable/jiosaavn" package="com.jio.media.jiobeats" name="JioSaavn" />
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
     <icon drawable="@drawable/joplin" package="net.cozic.joplin" name="Joplin" />
     <icon drawable="@drawable/joey_reddit" package="o.o.joey" name="Joey" />
