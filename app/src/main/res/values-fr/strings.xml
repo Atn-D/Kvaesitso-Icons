@@ -13,4 +13,8 @@
     <string name="search_bar_hint">Rechercher %d Icônes</string>
     <string name="contributors">Contributeurs</string>
     <string name="see_all_contributors">Voir tous les contributeurs</string>
+    <string name="github_link">Voir GitHub</string>
+    <string name="request_icons_link">Demande d\'icônes</string>
+    <string name="special_thanks_source">Pour le code source.</string>
+    <string name="special_thanks_arctions">Pour certains SVG.</string>
 </resources>
