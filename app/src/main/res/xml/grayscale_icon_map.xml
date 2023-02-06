@@ -355,7 +355,7 @@
     <icon drawable="@drawable/congstar" package="de.congstar.meincongstar" name="Congstar" />
     <icon drawable="@drawable/connect" package="com.garmin.android.apps.connectmobile" name="Connect" />
     <icon drawable="@drawable/connect_iq" package="com.garmin.connectiq" name="Connect IQ" />
-    <icon drawable="@drawable/contacts" package="com.bnyro.contacts" name="Contacts" />
+    <icon drawable="@drawable/connect_you" package="com.bnyro.contacts" name="Connect You" />
     <icon drawable="@drawable/contacts" package="com.samsung.android.app.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts" name="Contacts" />
     <icon drawable="@drawable/contacts" package="com.simplemobiletools.contacts.pro" name="Contacts" />
