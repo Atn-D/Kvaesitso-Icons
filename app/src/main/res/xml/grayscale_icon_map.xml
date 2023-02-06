@@ -527,6 +527,7 @@
     <icon drawable="@drawable/fandom" package="com.fandom.app" name="FANDOM" />
     <icon drawable="@drawable/fastmail" package="com.fastmail.app" name="Fastmail" />
     <icon drawable="@drawable/fave" package="com.pinelabs.fave" name="Fave" />
+    <icon drawable="@drawable/faz" package="net.faz.FAZ" name="FAZ" />
     <icon drawable="@drawable/fdroidclassic" package="eu.bubu1.fdroidclassic" name="F-Droid Classic" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
     <icon drawable="@drawable/fedilab" package="fr.gouv.etalab.mastodon" name="Fedilab" />
@@ -842,7 +843,8 @@
     <icon drawable="@drawable/inter" package="br.com.Inter.CDPro" name="Inter" />
     <icon drawable="@drawable/inter" package="br.com.intermedium" name="Inter" />
     <icon drawable="@drawable/intesa_sanpaolo" package="com.latuabancaperandroid" name="Intesa Sanpaolo Mobile" />
-    <icon drawable="@drawable/inure" package="app.simple.inure" name="Inure App Manager" />
+    <icon drawable="@drawable/inure" package="app.simple.inure" name="Inure" />
+    <icon drawable="@drawable/inure_unlocker" package="app.simple.inureunlocker" name="Inure Unlocker" />
     <icon drawable="@drawable/inviziblepro" package="pan.alexander.tordnscrypt" name="Invizible" />
     <icon drawable="@drawable/inware" package="com.evo.inware" name="Inware" />
     <icon drawable="@drawable/io" package="it.pagopa.io.app" name="IO" />
@@ -860,6 +862,7 @@
     <icon drawable="@drawable/japanese_dictionary_takoboto" package="jp.takoboto" name="Japanese Dictionary Takoboto" />
     <icon drawable="@drawable/jellyfin" package="org.jellyfin.mobile" name="Jellyfin" />
     <icon drawable="@drawable/jenius" package="com.btpn.dc" name="Jenius" />
+    <icon drawable="@drawable/jetquotes" package="www.spikeysanju.jetquotes" name="JetQuotes" />
     <icon drawable="@drawable/jionews" package="com.jio.media.jioxpressnews" name="JioNews" />
     <icon drawable="@drawable/jionews" package="com.jio.media.jiobeats" name="JioSaavn" />
     <icon drawable="@drawable/jitsi" package="org.jitsi.meet" name="Jitsi Meet" />
@@ -1409,6 +1412,8 @@
     <icon drawable="@drawable/quillpad" package="io.github.quillpad" name="Quillpad" />
     <icon drawable="@drawable/quizduel" package="se.maginteractive.quizduel2" name="Quizduel" />
     <icon drawable="@drawable/quora" package="com.quora.android" name="Quora" />
+    <icon drawable="@drawable/quotes" package="com.github.gouravkhunger.quotesapp" name="Quotes" />
+    <icon drawable="@drawable/quotes" package="phone.vishnu.quotes" name="Quotes" />
     <icon drawable="@drawable/quran" package="com.andi.alquran.en" name="Quran" />
     <icon drawable="@drawable/quran" package="com.andi.alquran.id" name="Quran" />
     <icon drawable="@drawable/quran" package="com.quran.labs.androidquran" name="Quran" />
@@ -1498,6 +1503,7 @@
     <icon drawable="@drawable/samsung_notes" package="com.samsung.android.app.notes" name="Samsung Notes" />
     <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite" />
     <icon drawable="@drawable/satstat" package="com.vonglasow.michael.satstat" name="SatStat" />
+    <icon drawable="@drawable/sayboard" package="com.elishaazaria.sayboard" name="Sayboard" />
     <icon drawable="@drawable/sbb_mobile" package="ch.sbb.mobile.android.b2c" name="SBB Mobile" />
     <icon drawable="@drawable/sber" package="ru.sberbankmobile" name="Sberbank" />
     <icon drawable="@drawable/sber_mega_market" package="ru.goods.marketplace" name="SberMegaMarket" />
@@ -1775,6 +1781,7 @@
     <icon drawable="@drawable/traderepublic" package="de.traderepublic.app" name="Trade Republic" />
     <icon drawable="@drawable/trail_sense" package="com.kylecorry.trail_sense" name="Trail Sense" />
     <icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
+    <icon drawable="@drawable/trenitalia" package="com.lynxspa.prontotreno" name="Trenitalia" />
     <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount" />
     <icon drawable="@drawable/trime" package="com.osfans.trime" name="Trime" />
     <icon drawable="@drawable/trivia_you" package="com.bnyro.trivia" name="Trivia You" />
