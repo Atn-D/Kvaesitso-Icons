@@ -22,6 +22,7 @@
     <icon drawable="@drawable/airbnb" package="com.airbnb.android" name="Airbnb" />
     <icon drawable="@drawable/airguard" package="de.seemoo.at_tracking_detection" name="AirGuard" />
     <icon drawable="@drawable/airguard" package="de.seemoo.at_tracking_detection.release" name="AirGuard" />
+    <icon drawable="@drawable/ajio" package="com.ril.ajio" name="Ajio" />
     <icon drawable="@drawable/aktionmensch" package="de.aktionmensch.AMMobileAppDistribution" name="Aktion Mensch Lotterie" />
     <icon drawable="@drawable/alazan" package="com.github.meypod.al_azan" name="Al-Azan" />
     <icon drawable="@drawable/aldi_talk" package="de.eplus.mappecc.client.android.alditalk" name="Aldi Talk" />
