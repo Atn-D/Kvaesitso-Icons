@@ -1071,7 +1071,6 @@
     <icon drawable="@drawable/mi_music" package="com.miui.player" name="Music" />
     <icon drawable="@drawable/mi_music" package="com.zionhuang.music" name="Music" />
     <icon drawable="@drawable/mi_music" package="org.lineageos.eleven" name="Music" />
-    <icon drawable="@drawable/mi_music" package="org.oxycblt.auxio" name="Music" />
     <icon drawable="@drawable/mind_tracker" package="com.fedosov.mindtracker" name="Mind Tracker" />
     <icon drawable="@drawable/mindustry" package="io.anuke.mindustry" name="Mindustry" />
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
