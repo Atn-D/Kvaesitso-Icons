@@ -1950,7 +1950,7 @@
     <icon drawable="@drawable/yandex_mail" package="ru.yandex.mail" name="Mail" />
     <icon drawable="@drawable/yandex_maps" package="ru.yandex.yandexmaps" name="Maps" />
     <icon drawable="@drawable/yandex_market" package="ru.beru.android" name="Market" />
-    <icon drawable="@drawable/yandex_music" package="ru.yandex.music" name="Music" />
+    <icon drawable="@drawable/yandex_music" package="ru.yandex.music" name="Yandex Music" />
     <icon drawable="@drawable/yandex_taxi" package="ru.yandex.taxi" name="Taxi" />
     <icon drawable="@drawable/yasnac" package="rikka.safetynetchecker" name="YASNAC" />
     <icon drawable="@drawable/yazio" package="com.yazio.android" name="Yazio" />
