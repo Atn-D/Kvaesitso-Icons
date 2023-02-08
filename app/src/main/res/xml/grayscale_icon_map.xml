@@ -660,6 +660,7 @@
     <icon drawable="@drawable/generic_downloader" package="instasaver.instagram.video.downloader.photo" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="instasaver.videodownloader.photodownloader.repost" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="repost.share.instagram.videodownloader.photodownloader" name="Downloader" />
+    <icon drawable="@drawable/generic_downloader" package="sic.nzb.app" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="video.downloader.videodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
