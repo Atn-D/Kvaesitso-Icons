@@ -2,6 +2,7 @@
 <icons>
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
+    <icon drawable="@drawable/accuweather" package="com.accuweather.android" name="AccuWeather" />
     <icon drawable="@drawable/acronis_mobile" package="com.acronis.acronistrueimage" name="Acronis Mobile" />
     <icon drawable="@drawable/action_blocks" package="com.google.android.apps.accessibility.maui.actionblocks" name="Action Blocks" />
     <icon drawable="@drawable/actionbound" package="de.actionbound" name="Actionbound" />
@@ -85,6 +86,7 @@
     <icon drawable="@drawable/ar_zone" package="com.samsung.android.arzone" name="AR Zone" />
     <icon drawable="@drawable/asana" package="com.asana.app" name="Asana" />
     <icon drawable="@drawable/asos" package="com.asos.app" name="Asos" />
+    <icon drawable="@drawable/audible" package="com.audible.application" name="Audible" />
     <icon drawable="@drawable/audiofx" package="org.lineageos.audiofx" name="AudioFX" />
     <icon drawable="@drawable/aurora_droid" package="com.aurora.adroid" name="Aurora Droid" />
     <icon drawable="@drawable/aurora_services" package="com.aurora.services" name="Aurora Services" />
@@ -303,6 +305,7 @@
     <icon drawable="@drawable/camera_date_folders" package="de.kromke.andreas.cameradatefolders" name="Camera Date Folders" />
     <icon drawable="@drawable/camo" package="com.reincubate.camo" name="Camo" />
     <icon drawable="@drawable/camscanner" package="com.intsig.camscanner" name="CamScanner" />
+    <icon drawable="@drawable/canva" package="com.canva.editor" name="Canva" />
     <icon drawable="@drawable/capcut" package="com.lemon.lvoverseas" name="CapCut" />
     <icon drawable="@drawable/cardboard" package="com.google.samples.apps.cardboarddemo" name="Cardboard" />
     <icon drawable="@drawable/careem" package="com.careem.acma" name="Careem" />
@@ -590,6 +593,7 @@
     <icon drawable="@drawable/flud" package="com.delphicoder.flud" name="Flud" />
     <icon drawable="@drawable/flud" package="com.delphicoder.flud.paid" name="Flud" />
     <icon drawable="@drawable/fluent_reader" package="me.hyliu.fluent_reader_lite" name="Fluent Reader Lite" />
+    <icon drawable="@drawable/fluid_navigation_gestures" package="com.fb.fluid" name="FNG" />
     <icon drawable="@drawable/flux" package="de.bendix.flux" name="Flux" />
     <icon drawable="@drawable/fm_radio" package="com.android.fmradio" name="FM Radio" />
     <icon drawable="@drawable/fm_radio" package="com.caf.fmradio" name="FM Radio" />
@@ -1167,6 +1171,10 @@
     <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
     <icon drawable="@drawable/nomad_sculpt" package="com.stephaneginier.nomad" name="Nomad Sculpt" />
     <icon drawable="@drawable/nonogramm_katana" package="com.ucdevs.jcross" name="Nonogramm Katana" />
+    <icon drawable="@drawable/nord_android" package="com.nordvpn.android" name="NordVPN" />
+    <icon drawable="@drawable/nord_android" package="com.nordvpn.android.teams" name="NordVPN" />
+    <icon drawable="@drawable/nord_android" package="com.nordlocker.android.encrypt.cloud" name="NordVPN" />
+    <icon drawable="@drawable/nord_android" package="com.nordpass.android.app.password.manager" name="NordVPN" />
     <icon drawable="@drawable/notally" package="com.omgodse.notally" name="Notally" />
     <icon drawable="@drawable/notenapp" package="com.notenapp" name="Notenapp" />
     <icon drawable="@drawable/notes" package="com.miui.notes" name="Notes" />
@@ -1702,6 +1710,7 @@
     <icon drawable="@drawable/talon" package="com.klinker.android.twitter_l" name="Talon for Twitter" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalk" name="Tapatalk Pro" />
     <icon drawable="@drawable/tapo" package="com.tplink.iot" name="Tapo" />
+    <icon drawable="@drawable/taptap" package="com.kieronquinn.app.taptap" name="Tap, Tap" />
     <icon drawable="@drawable/tasker" package="net.dinglisch.android.taskerm" name="Tasker" />
     <icon drawable="@drawable/tasks" package="org.myklos.inote" name="Tasks" />
     <icon drawable="@drawable/tasks" package="org.tasks" name="Tasks" />
@@ -1854,6 +1863,7 @@
     <icon drawable="@drawable/vimpay" package="net.petafuel.mobile.vimpay" name="Vimpay" />
     <icon drawable="@drawable/vi_music" package="it.vfsfitvnm.vimusic" name="ViMusic" />
     <icon drawable="@drawable/viper4android" package="com.pittvandewitt.viperfx" name="ViPER4Android FX" />
+    <icon drawable="@drawable/viperfx" package="com.aam.viper4android" name="ViperFX" />
     <icon drawable="@drawable/viseca_one" package="ch.viseca.visecaone" name="One" />
     <icon drawable="@drawable/vivaldi" package="com.vivaldi.browser" name="Vivaldi" />
     <icon drawable="@drawable/vkontakte" package="com.tea.android" name="VK" />
@@ -1975,6 +1985,7 @@
     <icon drawable="@drawable/zarchiver" package="ru.zdevs.zarchiver" name="ZArchiver" />
     <icon drawable="@drawable/zdfheute" package="de.heute.mobile" name="ZDF Heute" />
     <icon drawable="@drawable/zdfmediathek" package="com.zdf.android.mediathek" name="ZDFmediathek" />
+    <icon drawable="@drawable/zedge" package="net.zedge.android" name="Zedge" />
     <icon drawable="@drawable/zepp_life" package="com.xiaomi.hm.health" name="Zepp Life" />
     <icon drawable="@drawable/zepto" package="com.zeptoconsumerapp" name="Zepto" />
     <icon drawable="@drawable/zeus" package="com.zeus.app" name="ZEUS" />
