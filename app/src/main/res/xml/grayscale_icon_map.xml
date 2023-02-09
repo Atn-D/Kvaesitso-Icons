@@ -939,7 +939,7 @@
     <icon drawable="@drawable/kwgt" package="org.kustom.widget" name="KWGT" />
     <icon drawable="@drawable/kwgtpro" package="org.kustom.widget.pro" name="KWGT Pro" />
     <icon drawable="@drawable/labcoat" package="com.commit451.gitlab" name="Labcoat" />
-    <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="KWGT" />
+    <icon drawable="@drawable/lastpass" package="com.lastpass.lpandroid" name="LastPass" />
     <icon drawable="@drawable/lawnchair" package="app.lawnchair" name="Lawnchair" />
     <icon drawable="@drawable/lawnchair" package="app.lawnchair.debug" name="Lawnchair" />
     <icon drawable="@drawable/lawnchair" package="ch.deletescape.lawnchair.plah" name="Lawnchair" />
