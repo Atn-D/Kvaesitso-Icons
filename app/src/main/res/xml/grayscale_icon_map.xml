@@ -805,6 +805,7 @@
     <icon drawable="@drawable/hepsiburada" package="com.pozitron.hepsiburada" name="Hepsiburada" />
     <icon drawable="@drawable/hex_installer" package="project.vivid.hex.bodhi" name="Hex Installer" />
     <icon drawable="@drawable/hiby_music" package="com.hiby.music" name="Hiby Music" />
+    <icon drawable="@drawable/hijri_calendar" package="com.kodelokus.hijri" name="Hijri Calendar" />
     <icon drawable="@drawable/hinge" package="co.hinge.app" name="Hinge" />
     <icon drawable="@drawable/ho" package="it.homobile.ho" name="ho." />
     <icon drawable="@drawable/home_assistant" package="io.homeassistant.companion.android" name="Home Assistant" />
@@ -1228,7 +1229,7 @@
     <icon drawable="@drawable/one_second_diary" package="com.kylekun.one_second_diary" name="One Second Diary" />
     <icon drawable="@drawable/onvista" package="de.onvista.ovone" name="onvista" />
     <icon drawable="@drawable/ooniprobe" package="org.openobservatory.ooniprobe" name="OONI Probe" />
-    <icon drawable="@drawable/openapk" package="com.dkanada.openapk" name="OperaAPK" />
+    <icon drawable="@drawable/openapk" package="com.dkanada.openapk" name="Open APK" />
     <icon drawable="@drawable/openboard" package="org.dslul.openboard.inputmethod.latin" name="OpenBoard" />
     <icon drawable="@drawable/opencvmanager" package="org.opencv.engine" name="OpenCV Manager" />
     <icon drawable="@drawable/opendocument_reader" package="at.tomtasche.reader" name="LibreOffice &amp; OpenOffice docum" />
@@ -1521,7 +1522,7 @@
     <icon drawable="@drawable/sbb_mobile" package="ch.sbb.mobile.android.b2c" name="SBB Mobile" />
     <icon drawable="@drawable/sber" package="ru.sberbankmobile" name="Sberbank" />
     <icon drawable="@drawable/sber_mega_market" package="ru.goods.marketplace" name="SberMegaMarket" />
-    <icon drawable="@drawable/scanner" package="com.coolmobilesolution" name="Pro" />
+    <icon drawable="@drawable/scanner" package="com.coolmobilesolution" name="Scanner" />
     <icon drawable="@drawable/scanner" package="com.coolmobilesolution.fastscannerfree" name="Scanner" />
     <icon drawable="@drawable/scanner" package="com.simplescan.scanner" name="Scanner" />
     <icon drawable="@drawable/scanner" package="com.xiaomi.scanner" name="Scanner" />
