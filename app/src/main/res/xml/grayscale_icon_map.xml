@@ -593,6 +593,7 @@
     <icon drawable="@drawable/flud" package="com.delphicoder.flud" name="Flud" />
     <icon drawable="@drawable/flud" package="com.delphicoder.flud.paid" name="Flud" />
     <icon drawable="@drawable/fluent_reader" package="me.hyliu.fluent_reader_lite" name="Fluent Reader Lite" />
+    <icon drawable="@drawable/fluffychat" package="chat.fluffy.fluffychat" name="FluffyChat" />
     <icon drawable="@drawable/fluid_navigation_gestures" package="com.fb.fluid" name="FNG" />
     <icon drawable="@drawable/flux" package="de.bendix.flux" name="Flux" />
     <icon drawable="@drawable/fm_radio" package="com.android.fmradio" name="FM Radio" />
