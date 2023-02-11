@@ -5,6 +5,9 @@
     "extends": [
         "config:base",
     ],
+    "ignoreDeps": [
+        "com.google.android.gms.oss-licenses-plugin"
+    ],
 
     "packageRules": [
         {
@@ -24,6 +27,13 @@
             "matchPackagePatterns": [
                 "com.android.*"
             ]
-        }
+        },
+        {
+            "groupName": "Hilt",
+            "groupSlug": "hilt",
+            "matchPackagePatterns": [
+                "com.google.dagger*"
+            ]
+        }   
     ]
 }
