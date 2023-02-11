@@ -435,6 +435,8 @@
     <icon drawable="@drawable/dicio" package="com.setegraus.dicio" name="Dicio" />
     <icon drawable="@drawable/dicio" package="org.dicio.dicio_android" name="Dicio" />
     <icon drawable="@drawable/dicio" package="org.stypox.dicio" name="Dicio" />
+    <icon drawable="@drawable/dict_cc" package="cc.dict.dictcc" name="dict.cc" />
+    <icon drawable="@drawable/dict_cc" package="cc.dict.dictccplus" name="dict.cc" />
     <icon drawable="@drawable/dictionary_com" package="com.dictionary.paid" name="Dictionary.com" />
     <icon drawable="@drawable/dictionary_com" package="com.dictionary" name="Dictionary.com" />
     <icon drawable="@drawable/digi" package="es.digimobil.micuenta" name="Mi Cuenta DIGI" />
@@ -1494,7 +1496,9 @@
     <icon drawable="@drawable/riseup_vpn" package="se.leap.riseupvpn" name="Riseup VPN" />
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
     <icon drawable="@drawable/rock_am_ring" package="com.mlk.rockamring" name="RAR &amp; RIP" />
+    <icon drawable="@drawable/rocketbook" package="com.rb.rocketbook" name="Rocketbook" />
     <icon drawable="@drawable/rocket_league" package="com.Psyonix.RL2D" name="Rocket League Sideswipe" />
+    <icon drawable="@drawable/rocket_chat" package="chat.rocket.android" name="Rocket.Chat" />
     <icon drawable="@drawable/rockman_x_dive" package="tw.com.capcom.rxd" name="ROCKMAN X DiVE" />
     <icon drawable="@drawable/roku" package="com.roku.remote" name="Roku" />
     <icon drawable="@drawable/roov" package="com.myhousepass.app" name="ROOV" />
