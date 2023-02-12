@@ -131,7 +131,7 @@ fun About(navController: NavController) {
                         Spacer(Modifier.size(10.dp))
                         LinkButton(
                             text = stringResource(id = R.string.request_icons_link),
-                            url = "https://surveyheart.com/form/63ce21449c048510b455fb45",
+                            url = "https://forms.gle/yzb1jV1HNo5kuAV36",
                         )
                     }
                 }
