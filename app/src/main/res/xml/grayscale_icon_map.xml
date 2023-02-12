@@ -495,6 +495,7 @@
     <icon drawable="@drawable/duckduckgo" package="com.duckduckgo.mobile.android" name="DuckDuckGo" />
     <icon drawable="@drawable/duelyst" package="net.distantmelody.application.duelyst" name="Duelyst" />
     <icon drawable="@drawable/duolingo" package="com.duolingo" name="Duolingo" />
+    <icon drawable="@drawable/duo_mobile" package="com.duosecurity.duomobile" name="Duo Mobile" />
     <icon drawable="@drawable/dynamic_spot" package="com.jamworks.dynamicspot" name="dynamicSpot" />
     <icon drawable="@drawable/eapteka" package="ru.getpharma.eapteka" name="Eapteka" />
     <icon drawable="@drawable/easer" package="ryey.easer" name="Easer" />
@@ -623,6 +624,7 @@
     <icon drawable="@drawable/freecharge" package="com.freecharge.android" name="Freecharge" />
     <icon drawable="@drawable/free_download_manager" package="org.freedownloadmanager.fdm" name="Free Download Manager" />
     <icon drawable="@drawable/freenet_mobilfunk" package="de.md.meinmd" name="freenet Mobilfunk" />
+    <icon drawable="@drawable/freelancer" package="com.freelancer.android.messenger" name="Freelancer" />
     <icon drawable="@drawable/freeotp" package="org.fedorahosted.freeotp" name="FreeOTP" />
     <icon drawable="@drawable/freeotp" package="org.liberty.android.freeotpplus" name="FreeOTP" />
     <icon drawable="@drawable/fritter" package="com.jonjomckay.fritter" name="Fritter" />
@@ -1053,10 +1055,12 @@
     <icon drawable="@drawable/microsoft_edge_canary" package="com.microsoft.emmx.canary" name="Microsoft Edge Canary" />
     <icon drawable="@drawable/microsoft_excel" package="com.microsoft.office.excel" name="Microsoft Excel" />
     <icon drawable="@drawable/microsoft_lens" package="com.microsoft.office.officelens" name="Microsoft Lens" />
+    <icon drawable="@drawable/microsoft_link" package="com.microsoft.appmanager" name="Link to Window" />
     <icon drawable="@drawable/microsoft_math" package="com.microsoft.math" name="Math" />
     <icon drawable="@drawable/microsoft_office" package="com.microsoft.office.officehubrow" name="Microsoft Office" />
     <icon drawable="@drawable/microsoft_onenote" package="com.microsoft.office.onenote" name="Microsoft OneNote" />
     <icon drawable="@drawable/microsoft_outlook" package="com.microsoft.office.outlook" name="Microsoft Outlook" />
+    <icon drawable="@drawable/microsoft_powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
     <icon drawable="@drawable/microsoft_remote_desktop" package="com.microsoft.rdc.androidx" name="Remote Desktop" />
     <icon drawable="@drawable/microsoft_solitaire" package="com.microsoft.microsoftsolitairecollection" name="Solitaire" />
     <icon drawable="@drawable/microsoft_teams" package="com.microsoft.teams" name="Teams" />
@@ -1112,7 +1116,7 @@
     <icon drawable="@drawable/mozilla_vpn" package="org.mozilla.firefox.vpn" name="Mozilla VPN" />
     <icon drawable="@drawable/mpatcher" package="ru.maximoff.sheller" name="MPatcher" />
     <icon drawable="@drawable/mt_manager" package="bin.mt.plus" name="MT Manager" />
-    <icon drawable="@drawable/mt_manager" package="bin.mt.plus.canary" name="MT Manager" />
+    <icon drawable="@drawable/mt_manager_canary" package="bin.mt.plus.canary" name="MT Manager Canary" />
     <icon drawable="@drawable/muehle" package="com.calcitem.sanmill" name="Muehle" />
     <icon drawable="@drawable/mull" package="us.spotco.fennec_dos" name="Mull" />
     <icon drawable="@drawable/mullvad_vpn" package="net.mullvad.mullvadvpn" name="Mullvad VPN" />
@@ -1134,6 +1138,7 @@
     <icon drawable="@drawable/myim3" package="com.pure.indosat.care" name="myIM3" />
     <icon drawable="@drawable/myjio" package="com.jio.myjio" name="MyJio" />
     <icon drawable="@drawable/myne" package="com.starry.myne" name="Myne: Ebook Downloader" />
+    <icon drawable="@drawable/myntra" package="com.myntra.android" name="Myntra" />
     <icon drawable="@drawable/mypertamina" package="com.dafturn.mypertamina" name="My Pertamina" />
     <icon drawable="@drawable/myproximus" package="be.belgacom.hello" name="MyProximus" />
     <icon drawable="@drawable/mysmartfren" package="com.smartfren" name="mySF." />
@@ -1171,6 +1176,7 @@
     <icon drawable="@drawable/nextcloud_deck" package="it.niedermann.nextcloud.deck" name="Deck" />
     <icon drawable="@drawable/nextcloud_notes" package="it.niedermann.owncloud.notes" name="Nextcloud Notes" />
     <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
+    <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
     <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
     <icon drawable="@drawable/nomad_sculpt" package="com.stephaneginier.nomad" name="Nomad Sculpt" />
@@ -1276,7 +1282,8 @@
     <icon drawable="@drawable/oxygen_updater" package="com.arjanvlek.oxygenupdater" name="Oxygen Updater" />
     <icon drawable="@drawable/ozon" package="ru.ozon.app.android" name="Ozon" />
     <icon drawable="@drawable/package_manager" package="sarangal.packagemanager" name="Package Manager" />
-    <icon drawable="@drawable/packages_names" package="com.csdroid.pkg" name="Package Names" />
+    <icon drawable="@drawable/package_name_viewer" package="com.csdroid.pkg" name="Package Names" />
+    <icon drawable="@drawable/package_name_viewer" package="com.csdroid.pkg.pro" name="Package Names" />
     <icon drawable="@drawable/pager_duty" package="com.pagerduty.android" name="Pager Duty" />
     <icon drawable="@drawable/paisa" package="dev.hemanths.paisa" name="Paisa" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
@@ -1301,6 +1308,7 @@
     <icon drawable="@drawable/permissionmanagerx" package="com.mirfatif.permissionmanagerx" name="Permission Manager X" />
     <icon drawable="@drawable/permission_pilot" package="eu.darken.myperm" name="Permission Pilot" />
     <icon drawable="@drawable/personal_safety" package="com.google.android.apps.safetyhub" name="Personal Safety" />
+    <icon drawable="@drawable/phonepe" package="com.phonepe.app" name="PhonePe" />
     <icon drawable="@drawable/photo_compare" package="com.vincentengelsoftware.vesandroidimagecompare" name="VES - Image and Photo Compare" />
     <icon drawable="@drawable/photo_editor" package="com.adobe.adobephotoshopfix" name="Photo Editor" />
     <icon drawable="@drawable/photo_editor" package="com.adobe.photoshopmix" name="Photo Editor" />
@@ -1366,7 +1374,6 @@
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
-    <icon drawable="@drawable/powerpoint" package="com.microsoft.office.powerpoint" name="PowerPoint" />
     <icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
     <icon drawable="@drawable/prey" package="com.prey" name="Prey: Find My Phone &amp; Security" />
     <icon drawable="@drawable/printer" package="com.brother.mfc.brprint" name="Printer" />
