@@ -1428,7 +1428,6 @@
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit" name="QuickEdit" />
     <icon drawable="@drawable/quickedit" package="com.rhmsoft.edit.pro" name="QuickEdit" />
     <icon drawable="@drawable/quick_novel" package="com.lagradost.quicknovel" name="QuickNovel" />
-    <icon drawable="@drawable/quick_novel" package="org.ranobe.ranobe" name="QuickNovel" />
     <icon drawable="@drawable/quickpic" package="com.alensw.PicFolder" name="Quickpic" />
     <icon drawable="@drawable/quickswitch" package="xyz.paphonb.quickstepswitcher" name="QuickSwitch" />
     <icon drawable="@drawable/quicktiles" package="com.asdoi.quicktiles" name="QuickTiles" />
@@ -1449,6 +1448,7 @@
     <icon drawable="@drawable/railbound" package="com.Afterburn.Railbound" name="Railbound" />
     <icon drawable="@drawable/raindrop" package="io.raindrop.raindropio" name="Raindrop" />
     <icon drawable="@drawable/randomix" package="com.minar.randomix" name="Randomix" />
+    <icon drawable="@drawable/ranobe" package="org.ranobe.ranobe" name="R.A.N.O.B.E" />
     <icon drawable="@drawable/rar" package="com.rarlab.rar" name="RAR" />
     <icon drawable="@drawable/rboard_creator" package="de.dertyp7214.rboardthememanager" name="Rboard Theme Manager" />
     <icon drawable="@drawable/read_era" package="org.readera" name="ReadEra" />
