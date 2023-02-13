@@ -1531,6 +1531,7 @@
     <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite" />
     <icon drawable="@drawable/satstat" package="com.vonglasow.michael.satstat" name="SatStat" />
     <icon drawable="@drawable/sayboard" package="com.elishaazaria.sayboard" name="Sayboard" />
+    <icon drawable="@drawable/sayit" package="com.urbandroid.sayit" name="SayIt" />
     <icon drawable="@drawable/sbb_mobile" package="ch.sbb.mobile.android.b2c" name="SBB Mobile" />
     <icon drawable="@drawable/sber" package="ru.sberbankmobile" name="Sberbank" />
     <icon drawable="@drawable/sber_mega_market" package="ru.goods.marketplace" name="SberMegaMarket" />
