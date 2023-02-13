@@ -1,13 +1,1 @@
-<svg
-    xmlns="http://www.w3.org/2000/svg"
-    viewBox="0 0 192 192"
-    id="vector">
-    <path
-        id="path"
-        d="M 96 175.5 C 67.021 175.5 20.872 120.499 20.872 64.07 C 20.872 25.364 53.265 16.5 96 16.5 C 138.735 16.5 171.128 25.364 171.128 64.07 C 171.128 120.5 124.979 175.5 96 175.5 Z M 73.326 88.158 L 114.633 17.189 M 65.102 160.463 L 130.378 48.313"
-        fill="none"
-        stroke="#000000"
-        stroke-width="12"
-        stroke-linecap="round"
-        stroke-linejoin="round"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192"><path fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12" d="M96 175.5c-28.979 0-75.128-55.001-75.128-111.43C20.872 25.364 53.265 16.5 96 16.5s75.128 8.864 75.128 47.57c0 56.43-46.149 111.43-75.128 111.43ZM73.326 88.158l41.307-70.969M65.102 160.463l65.276-112.15"/></svg>
