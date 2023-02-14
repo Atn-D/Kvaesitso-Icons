@@ -1814,6 +1814,7 @@
     <icon drawable="@drawable/trenitalia" package="com.lynxspa.prontotreno" name="Trenitalia" />
     <icon drawable="@drawable/tricount" package="com.trilab.tricount.android" name="Tricount" />
     <icon drawable="@drawable/trime" package="com.osfans.trime" name="Trime" />
+    <icon drawable="@drawable/trivia" package="com.nima.triviaapp" name="Trivia App" />
     <icon drawable="@drawable/trivia_you" package="com.bnyro.trivia" name="Trivia You" />
     <icon drawable="@drawable/trueskate" package="com.trueaxis.trueskate" name="True Skate" />
     <icon drawable="@drawable/trust_wallet" package="app.fedilab.nitterizeme" name="Trust Wallet" />
