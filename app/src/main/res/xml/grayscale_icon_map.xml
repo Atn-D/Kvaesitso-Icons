@@ -538,6 +538,7 @@
     <icon drawable="@drawable/fdroidclassic" package="eu.bubu1.fdroidclassic" name="F-Droid Classic" />
     <icon drawable="@drawable/fdroid" package="org.fdroid.fdroid" name="F-Droid" />
     <icon drawable="@drawable/fedilab" package="fr.gouv.etalab.mastodon" name="Fedilab" />
+    <icon drawable="@drawable/feedback" package="com.google.android.apps.betterbug" name="Services &amp; Feedback" />
     <icon drawable="@drawable/feedback" package="com.huawei.phoneservice" name="Services &amp; Feedback" />
     <icon drawable="@drawable/feedback" package="com.miui.bugreport" name="Services &amp; Feedback" />
     <icon drawable="@drawable/feedback" package="com.miui.miservice" name="Services &amp; Feedback" />
