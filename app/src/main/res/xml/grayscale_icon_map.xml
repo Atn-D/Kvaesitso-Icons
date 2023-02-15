@@ -2,9 +2,10 @@
 <icons>
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
+    <icon drawable="@drawable/accubattery" package="mattecarra.accapp" name="AccuBattery" />
     <icon drawable="@drawable/accuweather" package="com.accuweather.android" name="AccuWeather" />
     <icon drawable="@drawable/acronis_mobile" package="com.acronis.acronistrueimage" name="Acronis Mobile" />
-    <icon drawable="@drawable/action_blocks" package="com.google.android.apps.accessibility.maui.actionblocks" name="Action Blocks" />
+    <icon drawable="@drawable/action_blocks" package="com.mgoogle.android.apps.accessibility.maui.actionblocks" name="Action Blocks" />
     <icon drawable="@drawable/actionbound" package="de.actionbound" name="Actionbound" />
     <icon drawable="@drawable/activitylauncher" package="de.szalkowski.activitylauncher" name="Activity Launcher" />
     <icon drawable="@drawable/adaway" package="org.adaway" name="AdAway" />
