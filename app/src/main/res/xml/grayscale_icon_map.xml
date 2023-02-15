@@ -1145,6 +1145,8 @@
     <icon drawable="@drawable/mysplash" package="com.wangdaye.mysplash" name="Mysplash" />
     <icon drawable="@drawable/mytelkomsel" package="com.telkomsel.telkomselcm" name="MyTelkomsel" />
     <icon drawable="@drawable/my_tp_list" package="cz.extremeturtle.pratchettchecklist" name="My TP list" />
+    <icon drawable="@drawable/myviking" package="com.vikingco.vikingapp" name="My Viking" />
+    <icon drawable="@drawable/myviking" package="com.vikingco.vikingapp.poland" name="My Viking" />
     <icon drawable="@drawable/myxl" package="com.apps.MyXL" name="myXL" />
     <icon drawable="@drawable/naver_dictionary" package="com.nhn.android.naverdic" name="Naver Dictionary" />
     <icon drawable="@drawable/naver_map" package="com.nhn.android.nmap" name="Naver Map" />
