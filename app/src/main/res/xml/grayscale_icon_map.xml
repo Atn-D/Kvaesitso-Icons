@@ -457,7 +457,7 @@
     <icon drawable="@drawable/dolby" package="com.atmos" name="Dolby" />
     <icon drawable="@drawable/dolby" package="com.dolby" name="Dolby" />
     <icon drawable="@drawable/dolby" package="com.dolby.daxappui" name="Dolby" />
-    <icon drawable="@drawable/dolphin_emulator" package="com.dolphinemu.dolphinemu" name="Dolphin Emulator" />
+    <icon drawable="@drawable/dolphin_emulator" package="org.dolphinemu.dolphinemu" name="Dolphin Emulator" />
     <icon drawable="@drawable/dominos" package="by.mc.dominos.com" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.Dominos" name="Domino's Pizza" />
     <icon drawable="@drawable/dominos" package="com.boloid.dominos" name="Domino's Pizza" />
