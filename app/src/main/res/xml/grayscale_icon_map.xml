@@ -167,6 +167,8 @@
     <icon drawable="@drawable/boi" package="com.bankofireland.mobilebanking" name="BOI Mobile" />
     <icon drawable="@drawable/bol" package="com.bol.shop" name="bol.com" />
     <icon drawable="@drawable/booking" package="com.booking" name="Booking.com" />
+    <icon drawable="@drawable/bookmate" package="com.bookmate" name="Bookmate" />
+    <icon drawable="@drawable/bookmate" package="ru.plus.bookmate" name="Bookmate" />
     <icon drawable="@drawable/bookmyshow" package="com.bt.bms" name="Bookmyshow" />
     <icon drawable="@drawable/bookmyshow" package="com.bt.bms.id" name="Bookmyshow" />
     <icon drawable="@drawable/bookmyshow" package="com.bt.bms.ik" name="Bookmyshow" />
@@ -792,6 +794,7 @@
     <icon drawable="@drawable/groupme" package="com.groupme.android" name="GroupMe" />
     <icon drawable="@drawable/grundgesetz" package="de.bpb.grundgesetz" name="Grundgesetz" />
     <icon drawable="@drawable/guardians" package="com.truecaller.guardians" name="Guardians" />
+    <icon drawable="@drawable/gugal" package="com.porg.gugal" name="Gugal" />
     <icon drawable="@drawable/gurgle" package="org.billthefarmer.gurgle" name="Gurgle" />
     <icon drawable="@drawable/gva" package="es.gva.autoservef" name="GVA PuntLABORA" />
     <icon drawable="@drawable/gvasalut" package="es.gva.mesSalut" name="GVA +Salut" />
@@ -933,6 +936,7 @@
     <icon drawable="@drawable/kiwi_browser" package="com.kiwibrowser.browser.dev" name="Kiwi Browser" />
     <icon drawable="@drawable/klarna" package="com.myklarnamobile" name="Klarna" />
     <icon drawable="@drawable/klck" package="org.kustom.lockscreen" name="KLCK" />
+    <icon drawable="@drawable/klooni" package="dev.lonami.klooni" name="1010 Klooni" />
     <icon drawable="@drawable/klwp" package="org.kustom.wallpaper" name="KLWP" />
     <icon drawable="@drawable/kmplayer" package="com.kmplayer" name="KMPlayer" />
     <icon drawable="@drawable/knife_hit" package="com.ketchapp.knifehit" name="Knife Hit" />
@@ -1046,6 +1050,7 @@
     <icon drawable="@drawable/messenger" package="com.facebook.mlite" name="Messenger" />
     <icon drawable="@drawable/messenger" package="com.facebook.orca" name="Messenger" />
     <icon drawable="@drawable/metadata_remover" package="rocks.poopjournal.metadataremover" name="Metadata Remover" />
+    <icon drawable="@drawable/meta_quest" package="com.oculus.twilight" name="Meta Quest" />
     <icon drawable="@drawable/meteo_swiss" package="ch.admin.meteoswiss" name="MeteoSwiss" />
     <icon drawable="@drawable/michelin_guide" package="com.viamichelin.android.gm21" name="Michelin Guide" />
     <icon drawable="@drawable/microflux" package="com.constantin.microflux" name="Microflux" />
@@ -1378,6 +1383,7 @@
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
+    <icon drawable="@drawable/powertunnel" package="io.github.krlvm.powertunnel.android" name="PowerTunnel" />
     <icon drawable="@drawable/prepladder" package="com.prepladder.learningapp" name="PrepLadder Learning App" />
     <icon drawable="@drawable/prey" package="com.prey" name="Prey: Find My Phone &amp; Security" />
     <icon drawable="@drawable/printer" package="com.brother.mfc.brprint" name="Printer" />
@@ -1512,6 +1518,7 @@
     <icon drawable="@drawable/rocket_chat" package="chat.rocket.android" name="Rocket.Chat" />
     <icon drawable="@drawable/rockman_x_dive" package="tw.com.capcom.rxd" name="ROCKMAN X DiVE" />
     <icon drawable="@drawable/roku" package="com.roku.remote" name="Roku" />
+    <icon drawable="@drawable/rootless_james_dsp" package="me.timschneeberger.rootlessjamesdsp" name="RootlessJamesDSP" />
     <icon drawable="@drawable/roov" package="com.myhousepass.app" name="ROOV" />
     <icon drawable="@drawable/rtlplus" package="de.rtli.tvnow" name="RTL Plus" />
     <icon drawable="@drawable/russian_language" package="com.greenkeycompany.exam" name="Russian language" />
