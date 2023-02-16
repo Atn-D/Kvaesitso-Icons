@@ -130,6 +130,7 @@
     <icon drawable="@drawable/bereal" package="com.bereal.ft" name="BeReal." />
     <icon drawable="@drawable/bergfex" package="com.bergfex.mobile.android" name="bergfex" />
     <icon drawable="@drawable/bettercounter" package="org.kde.bettercounter" name="BetterCounter" />
+    <icon drawable="@drawable/better_untis" package="com.sapuseven.untis" name="BetterUntis" />
     <icon drawable="@drawable/bgram" package="org.telegram.BifToGram" name="BGram" />
     <icon drawable="@drawable/bhim" package="in.org.npci.upiapp" name="BHIM" />
     <icon drawable="@drawable/bigbasket" package="com.bigbasket.mobileapp" name="BigBasket" />
@@ -572,6 +573,7 @@
     <icon drawable="@drawable/files_by_google" package="com.google.android.apps.nbu.files" name="Files by Google" />
     <icon drawable="@drawable/finanzen" package="de.finanzen.net" name="finanzen.net" />
     <icon drawable="@drawable/find_my_device" package="com.google.android.apps.adm" name="Find My Device" />
+    <icon drawable="@drawable/findroid" package="dev.jdtech.jellyfin" name="Findroid" />
     <icon drawable="@drawable/fingerprint" package="ro.andreimircius.remotefingerauth" name="Remote Fingerprint Unlock" />
     <icon drawable="@drawable/firefds" package="sb.firefds.s.firefdskit" name="Firefds Kit" />
     <icon drawable="@drawable/firefox" package="org.mozilla.fennec_fdroid" name="Firefox" />
@@ -790,6 +792,7 @@
     <icon drawable="@drawable/graphing_calc" package="org.geogebra.android" name="Graphing Calc" />
     <icon drawable="@drawable/greenstash" package="com.starry.greenstash" name="GreenStash" />
     <icon drawable="@drawable/grill_one" package="ru.geo.ppmobile.grillone" name="Grill 1" />
+    <icon drawable="@drawable/grocy" package="xyz.zedler.patrick.grocy" name="Grocy" />
     <icon drawable="@drawable/group_alarm" package="com.groupalarm.app" name="GroupAlarm" />
     <icon drawable="@drawable/groupme" package="com.groupme.android" name="GroupMe" />
     <icon drawable="@drawable/grundgesetz" package="de.bpb.grundgesetz" name="Grundgesetz" />
@@ -943,6 +946,7 @@
     <icon drawable="@drawable/kodi" package="org.xbmc.kodi" name="Kodi" />
     <icon drawable="@drawable/koduko" package="com.example.koduko" name="Koduko" />
     <icon drawable="@drawable/komoot" package="de.komoot.android" name="Komoot" />
+    <icon drawable="@drawable/kore" package="org.xbmc.kore" name="Kore" />
     <icon drawable="@drawable/kotatsu" package="org.koitharu.kotatsu" name="Kotatsu" />
     <icon drawable="@drawable/krita" package="org.krita" name="Krita" />
     <icon drawable="@drawable/kucoin" package="com.kubi.kucoin" name="Kucoin" />
@@ -1278,6 +1282,7 @@
     <icon drawable="@drawable/osaifukeitai" package="com.felicanetworks.mfm.main" name="Osaifu-Keitai" />
     <icon drawable="@drawable/osmand" package="net.osmand" name="OsmAnd" />
     <icon drawable="@drawable/osmand_plus" package="net.osmand.plus" name="OsmAnd+" />
+    <icon drawable="@drawable/osu" package="sh.ppy.osulazer" name="osu!" />
     <icon drawable="@drawable/oto_music" package="com.piyush.music" name="Oto Music" />
     <icon drawable="@drawable/oto_music" package="de.moekadu.tuner" name="Oto Music" />
     <icon drawable="@drawable/otto" package="de.cellular.ottohybrid" name="OTTO" />
@@ -1614,6 +1619,7 @@
     <icon drawable="@drawable/simplenote" package="com.automattic.simplenote" name="Simplenote" />
     <icon drawable="@drawable/simple_notes" package="com.simplemobiletools.notes" name="Simple Notes" />
     <icon drawable="@drawable/simple_notes" package="com.simplemobiletools.notes.pro" name="Simple Notes" />
+    <icon drawable="@drawable/simple_reminder" package="felixwiemuth.simplereminder" name="SimpleReminder" />
     <icon drawable="@drawable/simple_social" package="com.creativetrends.simple.app" name="Simple Social" />
     <icon drawable="@drawable/simpl_pay" package="com.simpl.android" name="Simpl Pay Later" />
     <icon drawable="@drawable/simplytranslate" package="com.simplytranslate" name="SimplyTranslate" />
@@ -1625,6 +1631,7 @@
     <icon drawable="@drawable/skiline" package="cc.skiline.android" name="Skiline" />
     <icon drawable="@drawable/sky" package="de.sky.bw" name="Sky Go" />
     <icon drawable="@drawable/sky_children_of_the_light" package="com.tgc.sky.android" name="Sky: Children of the Light" />
+    <icon drawable="@drawable/skyline" package="skyline.emu" name="Skyline" />
     <icon drawable="@drawable/skype" package="com.skype.raider" name="Skype" />
     <icon drawable="@drawable/skyscanner" package="net.skyscanner.android.main" name="Skyscanner" />
     <icon drawable="@drawable/slack" package="com.Slack" name="Slack" />
