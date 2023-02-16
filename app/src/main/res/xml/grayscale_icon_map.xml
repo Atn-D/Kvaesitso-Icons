@@ -2037,7 +2037,6 @@
     <icon drawable="@array/grayscale_calendar_icons" package="com.blackberry.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.google.android.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.huawei.calendar" />
-    <icon drawable="@array/grayscale_calendar_icons" package="com.kodelokus.hijri" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.mi.calendar.agenda" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.oneplus.calendar" />
     <icon drawable="@array/grayscale_calendar_icons" package="com.samsung.android.calendar" />
