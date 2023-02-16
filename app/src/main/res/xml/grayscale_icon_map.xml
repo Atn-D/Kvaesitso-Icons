@@ -1120,6 +1120,7 @@
     <icon drawable="@drawable/mpv_android" package="is.xyz.mpv" name="mpv" />
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
     <icon drawable="@drawable/movie_lab" package="com.movielab.mobile" name="MovieLab" />
+    <icon drawable="@drawable/moshidon" package="org.joinmastodon.android.moshinda" name="Moshidon" />
     <icon drawable="@drawable/mozilla_vpn" package="org.mozilla.firefox.vpn" name="Mozilla VPN" />
     <icon drawable="@drawable/mpatcher" package="ru.maximoff.sheller" name="MPatcher" />
     <icon drawable="@drawable/mt_manager" package="bin.mt.plus" name="MT Manager" />
@@ -1185,6 +1186,7 @@
     <icon drawable="@drawable/nextcloud_deck" package="it.niedermann.nextcloud.deck" name="Deck" />
     <icon drawable="@drawable/nextcloud_notes" package="it.niedermann.owncloud.notes" name="Nextcloud Notes" />
     <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
+    <icon drawable="@drawable/nfsee" package="im.nfc.nfsee" name="NFSee" />
     <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
     <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
