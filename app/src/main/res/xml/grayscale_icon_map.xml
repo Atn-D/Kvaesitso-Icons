@@ -1193,6 +1193,7 @@
     <icon drawable="@drawable/nfcreader" package="se.anyro.nfc_reader" name="NFC Reader" />
     <icon drawable="@drawable/nfsee" package="im.nfc.nfsee" name="NFSee" />
     <icon drawable="@drawable/niagara_launcher" package="bitpit.launcher" name="Niagara Launcher" />
+    <icon drawable="@drawable/nine_dash" package="adriandp.ninedash" name="Nine Dash" />
     <icon drawable="@drawable/ninenine" package="com.taxis99" name="99" />
     <icon drawable="@drawable/noice" package="com.github.ashutoshgngwr.noice" name="Noice" />
     <icon drawable="@drawable/nomad_sculpt" package="com.stephaneginier.nomad" name="Nomad Sculpt" />
@@ -1566,6 +1567,7 @@
     <icon drawable="@drawable/school_planner" package="daldev.android.gradehelper" name="School Planner" />
     <icon drawable="@drawable/schulmanager" package="online.schulmanager.app" name="Schulmanager" />
     <icon drawable="@drawable/scoop" package="taco.scoop" name="Scoop" />
+    <icon drawable="@drawable/scooterhacking_utility" package="sh.cfw.utility" name="ScooterHacking Utility" />
     <icon drawable="@drawable/scrambled_exif" package="com.jarsilio.android.scrambledeggsif" name="Scrambled Exif" />
     <icon drawable="@drawable/screencam" package="com.orpheusdroid.screenrecorder" name="ScreenCam" />
     <icon drawable="@drawable/screen_recorder" package="com.miui.screenrecorder" name="Screen Recorder" />
