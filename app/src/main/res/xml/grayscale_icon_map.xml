@@ -1107,6 +1107,7 @@
     <icon drawable="@drawable/mixplorer" package="com.mixplorer" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.beta" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.silver" name="MiXplorer" />
+    <icon drawable="@drawable/mj_pdf" package="com.gitlab.mudlej.MjPdfReader" name="MJ PDF" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanager" name="ML Manager" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanagerpro" name="ML Manager" />
     <icon drawable="@drawable/mobikwik" package="com.mobikwik_new" name="Mobikwik" />
@@ -1306,6 +1307,7 @@
     <icon drawable="@drawable/paisa" package="dev.hemanths.paisa" name="Paisa" />
     <icon drawable="@drawable/papara" package="com.mobillium.papara" name="Papara" />
     <icon drawable="@drawable/paperless" package="eu.bauerj.paperless_app" name="Paperless" />
+    <icon drawable="@drawable/parcels" package="com.brightstripe.parcels" name="Parcels Sendungsverfolgung" />
     <icon drawable="@drawable/parlera" package="com.enjoyingfoss.parlera" name="Parlera" />
     <icon drawable="@drawable/parsec" package="tv.parsec.client" name="Parsec" />
     <icon drawable="@drawable/paseo" package="ca.chancehorizon.paseo" name="Paseo" />
