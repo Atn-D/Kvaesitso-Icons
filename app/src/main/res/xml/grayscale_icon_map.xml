@@ -619,6 +619,7 @@
     <icon drawable="@drawable/forkgram" package="org.forkclient.messenger.beta" name="Forkgram" />
     <icon drawable="@drawable/forkgram" package="org.forkgram.messenger" name="Forkgram" />
     <icon drawable="@drawable/forkyz" package="app.crossword.yourealwaysbe.forkyz" name="Forkyz" />
+    <icon drawable="@drawable/forms" package="de.daywalk3r666.forms" name="Forms" />
     <icon drawable="@drawable/fortnite" package="com.epicgames.fortnite" name="Fortnite" />
     <icon drawable="@drawable/fotmob" package="com.mobilefootie.wc2010" name="FotMob" />
     <icon drawable="@drawable/fourpda" package="ru.fourpda.client" name="4PDA" />
