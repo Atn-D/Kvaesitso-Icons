@@ -790,7 +790,6 @@
     <icon drawable="@drawable/grapheneos_auditor" package="app.attestation.auditor" name="Auditor" />
     <icon drawable="@drawable/grapheneos_pdf" package="app.grapheneos.pdfviewer" name="PDF Viewer" />
     <icon drawable="@drawable/grapheneos_pdf" package="app.grapheneos.pdfviewer.play" name="PDF Viewer" />
-    <icon drawable="@drawable/grapheneos_pdf" package="com.gitlab.mudlej.MjPdfReader" name="PDF Viewer" />
     <icon drawable="@drawable/graphing_calc" package="org.geogebra.android" name="Graphing Calc" />
     <icon drawable="@drawable/greenstash" package="com.starry.greenstash" name="GreenStash" />
     <icon drawable="@drawable/grill_one" package="ru.geo.ppmobile.grillone" name="Grill 1" />
