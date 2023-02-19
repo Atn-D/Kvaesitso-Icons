@@ -393,6 +393,7 @@
     <icon drawable="@drawable/crypto_prices" package="de.cloneapps.crypto_prices" name="Crypto Prices / Krypto Preise" />
     <icon drawable="@drawable/curiosity_stream" package="com.curiosity.curiositystream" name="Curiosity Stream" />
     <icon drawable="@drawable/currencies" package="de.salomax.currencies" name="Currencies" />
+    <icon drawable="@drawable/curve" package="com.imaginecurve.curve.prd" name="Curve" />
     <icon drawable="@drawable/cx_file_explorer" package="com.cxinventor.file.explorer" name="Cx File Explorer" />
     <icon drawable="@drawable/dailydozen" package="org.nutritionfacts.dailydozen" name="Daily Dozen" />
     <icon drawable="@drawable/dana" package="id.dana" name="DANA" />
@@ -1162,6 +1163,7 @@
     <icon drawable="@drawable/myviking" package="com.vikingco.vikingapp" name="My Viking" />
     <icon drawable="@drawable/myviking" package="com.vikingco.vikingapp.poland" name="My Viking" />
     <icon drawable="@drawable/myxl" package="com.apps.MyXL" name="myXL" />
+    <icon drawable="@drawable/n26" package="de.number26.android" name="N26" />
     <icon drawable="@drawable/naver_dictionary" package="com.nhn.android.naverdic" name="Naver Dictionary" />
     <icon drawable="@drawable/naver_map" package="com.nhn.android.nmap" name="Naver Map" />
     <icon drawable="@drawable/nays" package="com.nextcx.nays" name="Nays" />
@@ -1392,6 +1394,7 @@
     <icon drawable="@drawable/pons_translate" package="com.pons.onlinedictionary" name="Pons Translate" />
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority" name="Port Authority" />
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
+    <icon drawable="@drawable/posteid" package="posteitaliane.posteapp.appposteid" name="PosteID" />
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
     <icon drawable="@drawable/powertunnel" package="io.github.krlvm.powertunnel.android" name="PowerTunnel" />
@@ -1718,6 +1721,7 @@
     <icon drawable="@drawable/student_beans" package="com.studentbeans.studentbeans" name="Student Beans" />
     <icon drawable="@drawable/styx_browser" package="com.jamal2367.styx" name="Styx Browser" />
     <icon drawable="@drawable/subhub" package="com.crazylegend.subhub" name="Subhub" />
+    <icon drawable="@drawable/subito" package="it.subito" name="Subito" />
     <icon drawable="@drawable/substratum_lite" package="projekt.substratum.lite" name="substratum Lite" />
     <icon drawable="@drawable/sudoku" package="com.easybrain.sudoku.android" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="com.kaajjo.libresudoku" name="Sudoku" />
@@ -1824,6 +1828,7 @@
     <icon drawable="@drawable/today_weather" package="mobi.lockdown.weather" name="Today Weather" />
     <icon drawable="@drawable/todoist" package="com.todoist" name="Todoist" />
     <icon drawable="@drawable/to_dont" package="rocks.poopjournal.todont" name="To Donʼt" />
+    <icon drawable="@drawable/togetherprice" package="com.togetherprice" name="Together Price" />
     <icon drawable="@drawable/tokopedia" package="com.tokopedia.tkpd" name="Tokopedia" />
     <icon drawable="@drawable/tolino" package="com.mytolino.app" name="tolino" />
     <icon drawable="@drawable/tomtom" package="com.tomtom.gplay.navapp" name="TomTom GO" />
@@ -1881,6 +1886,7 @@
     <icon drawable="@drawable/unfold" package="com.moonlab.unfold" name="UNFOLD" />
     <icon drawable="@drawable/uniciv" package="com.unciv.app" name="Unciv" />
     <icon drawable="@drawable/unidays" package="com.myunidays" name="Unidays" />
+    <icon drawable="@drawable/uniwhere" package="lu.gian.uniwhere" name="Uniwhere" />
     <icon drawable="@drawable/universalcopy" package="com.camel.corp.universalcopy" name="Universal Copy" />
     <icon drawable="@drawable/untis_mobile" package="com.grupet.web.app" name="Untis Mobile" />
     <icon drawable="@drawable/upv_alumnado" package="es.upv.alumnos" name="UPV Alumnado" />
