@@ -22,24 +22,26 @@ jobs:
       - uses: gradle/gradle-build-action@v2
         with:
           gradle-home-cache-cleanup: true
-      - name: Build release APK
+      - name: Decode Keystore
+        env:
+          ENCODED_STRING: ${{ secrets.KEYSTORE }}
+        run: |
+          TMP_KEYSTORE_FILE_PATH="${RUNNER_TEMP}"/keystore
+          mkdir "${TMP_KEYSTORE_FILE_PATH}"
+          echo $ENCODED_STRING | base64 -di > "${TMP_KEYSTORE_FILE_PATH}"/keystore.jks
+      - name: Build and sign APK
+        env:
+          KEYSTORE_PASSWORD: ${{ secrets.KEYSTORE_PASSWORD }}
+          SIGNING_KEY_ALIAS: ${{ secrets.SIGNING_KEY_ALIAS }}
+          SIGNING_KEY_PASSWORD: ${{ secrets.SIGNING_KEY_PASSWORD }}
         run: ./gradlew app:assembleRelease
-      - uses: ilharp/sign-android-release@v1.0.4
-        name: Sign app APK
-        id: sign_app
-        with:
-           releaseDir: app/build/outputs/apk/release
-           signingKey: ${{ secrets.ANDROID_SIGNING_KEY }}
-           keyAlias: ${{ secrets.ANDROID_KEY_ALIAS }}
-           keyStorePassword: ${{ secrets.ANDROID_KEYSTORE_PASSWORD }}
-           keyPassword: ${{ secrets.ANDROID_KEY_PASSWORD }}
-           buildToolsVersion: 33.0.0
 
       - name: Upload artifact
         uses: actions/upload-artifact@v3
         with:
           name: Kvaesitso-Icons
-          path: ${{steps.sign_app.outputs.signedFile}}
+          path: app/build/outputs/apk/release/*.apk
+
       - name: Clean Workflow Logs
         uses: igorjs/gh-actions-clean-workflow@v3
         with:

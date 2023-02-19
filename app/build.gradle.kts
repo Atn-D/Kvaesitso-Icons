@@ -23,15 +23,12 @@ android {
         resourceConfigurations.addAll(listOf("en", "de", "es", "fr", "hi", "ja", "pl", "ru", "tr"))
     }
 
-    val keystorePropertiesFile = rootProject.file("keystore.properties")
-    val releaseSigning = if (keystorePropertiesFile.exists()) {
-        val keystoreProperties = Properties()
-        keystoreProperties.load(FileInputStream(keystorePropertiesFile))
-        signingConfigs.create("release") {
-            keyAlias = keystoreProperties["keyAlias"].toString()
-            keyPassword = keystoreProperties["keyPassword"].toString()
-            storeFile = rootProject.file(keystoreProperties["storeFile"].toString())
-            storePassword = keystoreProperties["storePassword"].toString()
+    signingConfigs {
+        create("gh-actions") {
+            storeFile = file("${System.getenv("RUNNER_TEMP")}/keystore/keystore.jks")
+            storePassword = System.getenv("KEYSTORE_PASSWORD")
+            keyAlias = System.getenv("SIGNING_KEY_ALIAS")
+            keyPassword = System.getenv("SIGNING_KEY_PASSWORD")
         }
     } else {
         signingConfigs["debug"]
@@ -40,11 +37,11 @@ android {
     buildTypes {
         release {
             isMinifyEnabled = true
-            signingConfig = releaseSigning
+            signingConfig = signingConfigs.findByName("gh-actions")
             proguardFiles("proguard-rules.pro")
         }
         debug {
-            signingConfig = releaseSigning
+            signingConfig = signingConfigs.findByName("gh-actions")
         }
     }
 
