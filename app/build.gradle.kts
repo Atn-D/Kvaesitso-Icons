@@ -30,9 +30,7 @@ android {
             keyAlias = System.getenv("SIGNING_KEY_ALIAS")
             keyPassword = System.getenv("SIGNING_KEY_PASSWORD")
         }
-    } else {
-        signingConfigs["debug"]
-    }
+    } 
 
     buildTypes {
         release {
