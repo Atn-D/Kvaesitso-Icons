@@ -9,14 +9,14 @@
       android:fillColor="#00000000"
       android:strokeColor="#000"/>
   <path
-      android:pathData="M68.95,65.03v0.85M121.92,65.03v0.85"
+      android:pathData="M68.95,65.03v0.85m52.97,-0.85v0.85"
       android:strokeLineJoin="miter"
       android:strokeWidth="11.7227"
       android:fillColor="#00000000"
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M32.29,71.75h126.3M63.09,153.45h64.7"
+      android:pathData="M32.29,71.75h126.3m-95.5,81.71h64.7"
       android:strokeLineJoin="miter"
       android:strokeWidth="11.7227"
       android:fillColor="#00000000"

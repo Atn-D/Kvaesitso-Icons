@@ -18,7 +18,7 @@
       android:strokeColor="#000"
       android:strokeLineCap="round"/>
   <path
-      android:pathData="M94.8,84.81c-19.15,-6.89 -18.67,11.91 -7.73,11.91M79.34,108.64c19.16,6.89 18.67,-11.91 7.73,-11.91M109.19,83.28v16.98s0.24,14.49 18.7,8.41M145.17,70.94v25.11"
+      android:pathData="M94.8,84.81c-19.15,-6.89 -18.67,11.91 -7.73,11.91m-7.73,11.91c19.16,6.89 18.67,-11.91 7.73,-11.91m22.12,-13.44v16.98s0.24,14.49 18.7,8.41m17.29,-37.73v25.11"
       android:strokeLineJoin="miter"
       android:strokeWidth="8"
       android:fillColor="#00000000"
