@@ -114,6 +114,7 @@
     <icon drawable="@drawable/bandlab" package="com.bandlab.bandlab" name="BandLab" />
     <icon drawable="@drawable/bandsintown" package="com.bandsintown" name="Bandsintown" />
     <icon drawable="@drawable/bank_jago" package="com.jago.digitalbanking" name="Jago" />
+    <icon drawable="@drawable/barclays" package="com.barclays.android.barclaysmobilebanking" name="Barclay" />
     <icon drawable="@drawable/barinsta" package="me.austinhuang.instagrabber" name="Barinsta" />
     <icon drawable="@drawable/barmer" package="de.barmergek.serviceapp" name="BARMER-App" />
     <icon drawable="@drawable/batchuninstaller" package="com.saha.batchuninstaller" name="Batch Uninstaller" />
@@ -585,6 +586,7 @@
     <icon drawable="@drawable/firefox_klar" package="org.mozilla.klar" name="Firefox Kalr" />
     <icon drawable="@drawable/firefox_nightly" package="org.mozilla.fenix" name="Firefox Nightly" />
     <icon drawable="@drawable/firstcry" package="fc.admin.fcexpressadmin" name="Firstcry" />
+    <icon drawable="@drawable/fitbit" package="com.fitbit.FitbitMobile" name="Fitbit" />
     <icon drawable="@drawable/fiverr" package="com.fiverr.fiverr" name="Fiverr" />
     <icon drawable="@drawable/fix_price" package="ru.bestprice.fixprice" name="FixPrice" />
     <icon drawable="@drawable/flamingo" package="com.samruston.twitter" name="Flamingo" />
@@ -689,6 +691,7 @@
     <icon drawable="@drawable/generic_games" package="com.anoshenko.android.mahjongg" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.foxcake.mirage.android" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.lulo.scrabble.classicwordsplus" name="Games" />
+    <icon drawable="@drawable/generic_games" package="com.motorola.gamemode" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oneplus.gamespace" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.oplus.games" name="Games" />
     <icon drawable="@drawable/generic_games" package="com.riotgames.league.teamfighttactics" name="Games" />
@@ -1128,6 +1131,7 @@
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
     <icon drawable="@drawable/movie_lab" package="com.movielab.mobile" name="MovieLab" />
     <icon drawable="@drawable/moshidon" package="org.joinmastodon.android.moshinda" name="Moshidon" />
+    <icon drawable="@drawable/moto" package="com.motorola.moto" name="Moto" />
     <icon drawable="@drawable/mozilla_vpn" package="org.mozilla.firefox.vpn" name="Mozilla VPN" />
     <icon drawable="@drawable/mpatcher" package="ru.maximoff.sheller" name="MPatcher" />
     <icon drawable="@drawable/mt_manager" package="bin.mt.plus" name="MT Manager" />
@@ -1395,6 +1399,7 @@
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority" name="Port Authority" />
     <icon drawable="@drawable/portauthority" package="com.aaronjwood.portauthority.free" name="Port Authority" />
     <icon drawable="@drawable/posteid" package="posteitaliane.posteapp.appposteid" name="PosteID" />
+    <icon drawable="@drawable/postparty" package="com.lifeonair.postparty" name="Postparty" />
     <icon drawable="@drawable/pou" package="me.pou.app" name="Pou" />
     <icon drawable="@drawable/poweramp_equalizer" package="com.maxmpz.equalizer" name="Poweramp Equalizer" />
     <icon drawable="@drawable/powertunnel" package="io.github.krlvm.powertunnel.android" name="PowerTunnel" />
@@ -1497,6 +1502,7 @@
     <icon drawable="@drawable/recorder" package="org.lineageos.recorder" name="Recorder" />
     <icon drawable="@drawable/recycle" package="mobi.inthepocket.fostplus.recyclage" name="Recycle" />
     <icon drawable="@drawable/redbus" package="in.redbus.android" name="RedBus" />
+    <icon drawable="@drawable/redbus" package="travel.ticketless.app.ipswich" name="RedBus" />
     <icon drawable="@drawable/reddit" package="com.devgary.ready" name="Reddit" />
     <icon drawable="@drawable/reddit" package="com.reddit.frontpage" name="Reddit" />
     <icon drawable="@drawable/relay" package="free.reddit.news" name="Relay" />
@@ -1553,6 +1559,7 @@
     <icon drawable="@drawable/samsung_internet_browser" package="com.sec.android.app.sbrowser" name="Samsung Internet Browser" />
     <icon drawable="@drawable/samsung_internet_browser_beta" package="com.sec.android.app.sbrowser.beta" name="Samsung Internet Browser Beta" />
     <icon drawable="@drawable/samsung_notes" package="com.samsung.android.app.notes" name="Samsung Notes" />
+    <icon drawable="@drawable/satchel_one" package="{uk.co.smhw.android" name="SatchelOne" />
     <icon drawable="@drawable/satellite" package="de.sipgate.app.satellite" name="Satellite" />
     <icon drawable="@drawable/satstat" package="com.vonglasow.michael.satstat" name="SatStat" />
     <icon drawable="@drawable/sayboard" package="com.elishaazaria.sayboard" name="Sayboard" />
@@ -1591,7 +1598,6 @@
     <icon drawable="@drawable/settings" package="com.android.settings" name="Settings" />
     <icon drawable="@drawable/sgk" package="ru.sibgenco.general" name="SGK" />
     <icon drawable="@drawable/share_me" package="com.xiaomi.midrop" name="ShareMe" />
-    <icon drawable="@drawable/share_me" package="com.xiaomi.midrop.SplashScreen" name="ShareMe" />
     <icon drawable="@drawable/shazam" package="com.shazam.android" name="Shazam" />
     <icon drawable="@drawable/shelly" package="allterco.bg.shelly" name="Shelly" />
     <icon drawable="@drawable/shelter" package="net.typeblog.shelter" name="Shelter" />
