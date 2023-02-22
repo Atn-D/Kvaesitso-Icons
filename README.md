@@ -23,9 +23,8 @@ Or join the [Telegram Group](https://t.me/KvaesitsoIcons).
 
 If you want to help translating, go to [the project page](https://i18n.mm20.de/projects/kvaesitso-icons/strings/).
 
-<a href="https://i18n.mm20.de/engage/kvaesitso-icons/">
+
 <img src="https://i18n.mm20.de/widgets/kvaesitso-icons/-/strings/287x66-black.png" alt="Übersetzungsstatus" />
-</a>
 
 ## License
 
