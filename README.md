@@ -13,6 +13,8 @@ This addon is now the source of all themed icons, for simplicity.
 
 ## Download
 
+See the [Releases](https://github.com/daywalk3r666/Kvaesitso-Icons/releases) section to download the latest stable build of Kvaesitso-Icons.
+
 Go to the [Actions](https://github.com/daywalk3r666/lawnicons/actions/workflows/build_release_apk.yml) tab,
 click the first workflow run, and scroll and find the `Kvaesitso Icons`.
 
