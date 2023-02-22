@@ -9,6 +9,7 @@ on:
       - '.idea/**'
       - '.gitattributes'
       - '.github/**.json'
+      - '.github/workflows/**.yml'
       - '.gitignore'
       - '**.md'
       - 'LICENSE'
