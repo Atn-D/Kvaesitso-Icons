@@ -161,6 +161,7 @@
     <icon drawable="@drawable/blokada" package="org.blokada.fyra" name="Blokada" />
     <icon drawable="@drawable/blokada" package="org.blokada.origin.alarm" name="Blokada" />
     <icon drawable="@drawable/blokada" package="org.blokada.sex" name="Blokada" />
+    <icon drawable="@drawable/bloomberg" package="com.bloomberg.android.plus" name="Bloomberg" />
     <icon drawable="@drawable/bloons_td_5" package="com.ninjakiwi.bloonstd5" name="Bloons TD 5" />
     <icon drawable="@drawable/bloons_td_6" package="com.ninjakiwi.bloonstd6" name="Bloons TD 6" />
     <icon drawable="@drawable/bluebubbles" package="com.bluebubbles.messaging" name="Bluebubbles" />
@@ -231,6 +232,7 @@
     <icon drawable="@drawable/burger_king" package="ni.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="ru.burgerking" name="Burger King" />
     <icon drawable="@drawable/burger_king" package="se.burgerking.ordersapp" name="Burger King" />
+    <icon drawable="@drawable/busuu" package="com.busuu.android.enc" name="Busuu" />
     <icon drawable="@drawable/button_mapper" package="flar2.homebutton" name="Button Mapper" />
     <icon drawable="@drawable/by_u" package="com.byu.id" name="by.U" />
     <icon drawable="@drawable/bzepaper" package="de.bzv.bz" name="Braunschweiger Zeitung E-Paper" />
@@ -1515,6 +1517,7 @@
     <icon drawable="@drawable/remotenow" package="com.universal.remote.ms" name="RemoteNOW" />
     <icon drawable="@drawable/renfe" package="com.renfeviajeros.ticket" name="Renfe" />
     <icon drawable="@drawable/repainter" package="dev.kdrag0n.dyntheme" name="Repainter" />
+    <icon drawable="@drawable/replit" package="com.replit.app" name="Replit" />
     <icon drawable="@drawable/republik" package="app.republik" name="Republik" />
     <icon drawable="@drawable/resso" package="com.moonvideo.android.resso" name="Resso Music" />
     <icon drawable="@drawable/retroarch" package="com.retroarch" name="RetroArch" />
@@ -1848,6 +1851,7 @@
     <icon drawable="@drawable/tracker_control" package="net.kollnig.missioncontrol.fdroid" name="Tracker Control" />
     <icon drawable="@drawable/tracker_control" package="net.kollnig.missioncontrol.play" name="Tracker Control" />
     <icon drawable="@drawable/traderepublic" package="de.traderepublic.app" name="Trade Republic" />
+    <icon drawable="@drawable/tradingview" package="com.tradingview.tradingviewapp" name="TradingView" />
     <icon drawable="@drawable/trail_sense" package="com.kylecorry.trail_sense" name="Trail Sense" />
     <icon drawable="@drawable/trendyol" package="trendyol.com" name="Trendyol" />
     <icon drawable="@drawable/trenitalia" package="com.lynxspa.prontotreno" name="Trenitalia" />
