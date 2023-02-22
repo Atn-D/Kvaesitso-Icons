@@ -13,4 +13,5 @@
     <string name="special_thanks_name">Uygulama ismine ilham veren.</string>
     <string name="drawable_prefix">Drawable:</string>
     <string name="package_prefix">Paket adı:</string>
+    <string name="github_link">GitHub</string>
 </resources>
