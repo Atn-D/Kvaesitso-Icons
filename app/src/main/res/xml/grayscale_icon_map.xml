@@ -1935,8 +1935,8 @@
     <icon drawable="@drawable/vvs" package="com.mdv.VVSMobil" name="VVS" />
     <icon drawable="@drawable/vw" package="de.volkswagen.mitarbeiterapp" name="360° Volkswagen App" />
     <icon drawable="@drawable/wacken" package="com.wacken" name="Wacken" />
-    <icon drawable="@drawable/waifupx" package="de.exaring.waipu" name="Waipu TV" />
-    <icon drawable="@drawable/waiputv" package="com.waist.line" name="Waistline" />
+    <icon drawable="@drawable/waifupx" package="dg.waifu.walls" name="WAIFUPX" />
+    <icon drawable="@drawable/waiputv" package="de.exaring.waipu" name="Waipu TV" />
     <icon drawable="@drawable/waistline" package="com.waist.line" name="Waistline" />
     <icon drawable="@drawable/wallcandy" package="in.wallpaper.wallpapers" name="Wallcandy"/>
     <icon drawable="@drawable/wallfactory" package="wallfactory.at4u.walls" name="Wall Factory" />
