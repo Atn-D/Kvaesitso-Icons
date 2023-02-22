@@ -5,6 +5,14 @@ on:
   push:
     branches:
       - main
+    paths-ignore:
+      - '.idea/**'
+      - '.gitattributes'
+      - '.github/**.json'
+      - '.gitignore'
+      - '**.md'
+      - 'LICENSE'
+      - 'NOTICE'
 
 jobs:
   build-release-apk:
