@@ -37,4 +37,4 @@ Lawnicons is licensed under the [Apache License 2.0](https://www.apache.org/lice
 
 ## Credits
 
-All lawnicons contributors, [Arcticons](https://github.com/Donnnno/Arcticons) and [MM2-0](https://github.com/MM2-0) for his weblate instance.
+All [Lawnicons](https://github.com/LawnchairLauncher/lawnicons) contributors, [Arcticons](https://github.com/Donnnno/Arcticons) and [MM2-0](https://github.com/MM2-0) for his weblate instance.
