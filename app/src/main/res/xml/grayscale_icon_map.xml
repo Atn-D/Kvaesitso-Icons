@@ -422,6 +422,7 @@
     <icon drawable="@drawable/denoiseit" package="reaimagine.denoiseit" name="Denoise it" />
     <icon drawable="@drawable/denon_avr" package="com.dmholdings.DenonAVRRemote" name="Denon AVR Remote" />
     <icon drawable="@drawable/designer_tools" package="com.scheffsblend.designertools" name="Designer Tools" />
+    <icon drawable="@drawable/destiny" package="com.leastauthority.destiny" name="Destiny" />
     <icon drawable="@drawable/de_tijd" package="mobi.inthepocket.mediafin.detijd" name="De Tijd" />
     <icon drawable="@drawable/devcheck" package="flar2.devcheck" name="DevCheck" />
     <icon drawable="@drawable/deviantart" package="com.deviantart.android.damobile" name="DeviantArt" />
