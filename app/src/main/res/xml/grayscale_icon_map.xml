@@ -1494,6 +1494,7 @@
     <icon drawable="@drawable/realvnc" package="com.realvnc.viewer.android" name="VNC Viewer" />
     <icon drawable="@drawable/recorder" package="com.android.bbksoundrecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.android.soundrecorder" name="Recorder" />
+    <icon drawable="@drawable/recorder" package="com.bnyro.recorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.certified.audionote" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.dimowner.audiorecorder" name="Recorder" />
     <icon drawable="@drawable/recorder" package="com.github.axet.audiorecorder" name="Recorder" />
