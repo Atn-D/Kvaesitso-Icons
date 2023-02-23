@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="192px"
+   height="192px"
+   viewBox="0 0 192 192"
+   version="1.1"
+   id="SVGRoot"
+   sodipodi:docname="droidrec.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview189"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     showgrid="false"
+     inkscape:current-layer="layer1"
+     inkscape:zoom="0.25"
+     inkscape:cx="362.5"
+     inkscape:cy="362.5" />
+  <defs
+     id="defs184" />
+  <g
+     inkscape:label="Ebene 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       id="path155"
+       cx="96"
+       cy="96"
+       r="76"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1" />
+    <circle
+       id="path155-6"
+       cx="96"
+       cy="96"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
+       r="38" />
+    <circle
+       id="path155-6-5"
+       cx="111.53457"
+       cy="84.052032"
+       style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
+       r="9.7294464" />
+    <path
+       id="circle1752"
+       style="fill:none;fill-opacity:0.418699;stroke:#000000;stroke-width:8;stroke-dasharray:none;stroke-opacity:1"
+       sodipodi:type="arc"
+       sodipodi:cx="96"
+       sodipodi:cy="96"
+       sodipodi:rx="76"
+       sodipodi:ry="76"
+       sodipodi:start="0.52359878"
+       sodipodi:end="3.6651914"
+       sodipodi:arc-type="slice"
+       d="M 161.81793,134 A 76,76 0 0 1 58.000001,161.81793 76,76 0 0 1 30.182068,58.000002 L 96,96 Z" />
+  </g>
+</svg>

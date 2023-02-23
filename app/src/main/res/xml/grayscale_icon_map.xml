@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <icons>
     <icon drawable="@drawable/a12_extensions" package="dev.kdrag0n.android12ext" name="Android 12 Extensions" />
+    <icon drawable="@drawable/aa_wireless" package="app.aawireless" name="AAWireless for Android Auto" />
     <icon drawable="@drawable/acalendar_store" package="de.tapirapps.acalendarstore" name="Acalendar Store" />
     <icon drawable="@drawable/accubattery" package="com.digibites.accubattery" name="AccuBattery" />
     <icon drawable="@drawable/accubattery" package="mattecarra.accapp" name="AccuBattery" />
@@ -352,6 +353,7 @@
     <icon drawable="@drawable/coins_ph" package="asia.coins.mobile" name="Coins.ph" />
     <icon drawable="@drawable/coinvero" package="com.candlestick_app" name="Coinvero" />
     <icon drawable="@drawable/collabora_office" package="com.collabora.libreoffice" name="Collabora Office" />
+    <icon drawable="@drawable/collectandgo" package="be.colruyt.collectandgo" name="Collect &amp; Go" />
     <icon drawable="@drawable/combined" package="de.peterge.combined" name="Combined!" />
     <icon drawable="@drawable/comdirect" package="de.comdirect.app" name="comdirect" />
     <icon drawable="@drawable/comdirect_phototan" package="com.comdirect.phototan" name="comdirect photoTAN" />
@@ -497,6 +499,7 @@
     <icon drawable="@drawable/drnyheder" package="dk.dr.drnyheder" name="DR Nyheder" />
     <icon drawable="@drawable/droidfs" package="sushi.hardcore.droidfs" name="DroidFS" />
     <icon drawable="@drawable/droidify" package="com.looker.droidify" name="Droid-ify" />
+    <icon drawable="@drawable/droidrec" package="com.yakovlevegor.DroidRec" name="DroidRec" />
     <icon drawable="@drawable/dropbox" package="com.dropbox.android" name="Dropbox" />
     <icon drawable="@drawable/dropsync" package="com.ttxapps.dropsync" name="Dropsync" />
     <icon drawable="@drawable/drugindex" package="com.medengage.drugindex" name="India Drug Index" />
