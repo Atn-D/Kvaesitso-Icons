@@ -1190,6 +1190,7 @@
     <icon drawable="@drawable/netguard" package="eu.faircode.netguard" name="NetGuard" />
     <icon drawable="@drawable/netto" package="com.valuephone.vpnetto" name="Netto" />
     <icon drawable="@drawable/netzclub" package="com.telefonica.netzclub.csc" name="Netzclub" />
+    <icon drawable="@drawable/neutrinote" package="com.appmindlab.nano" name="neutriNote CE" />
     <icon drawable="@drawable/newpipe" package="org.polymorphicshade.newpipe" name="NewPipe" />
     <icon drawable="@drawable/newpipe" package="org.schabi.newpipe" name="NewPipe" />
     <icon drawable="@drawable/newpipe" package="org.schabi.newpipelegacy" name="NewPipe" />
@@ -1923,6 +1924,7 @@
     <icon drawable="@drawable/viber" package="com.viber.voip" name="Viber" />
     <icon drawable="@drawable/videotranscoder" package="protect.videoeditor" name="Video Transcoder" />
     <icon drawable="@drawable/vimpay" package="net.petafuel.mobile.vimpay" name="Vimpay" />
+    <icon drawable="@drawable/vinyl" package="com.poupa.vinylmusicplayer" name="Vinyl" />
     <icon drawable="@drawable/vi_music" package="it.vfsfitvnm.vimusic" name="ViMusic" />
     <icon drawable="@drawable/viper4android" package="com.pittvandewitt.viperfx" name="ViPER4Android FX" />
     <icon drawable="@drawable/viperfx" package="com.aam.viper4android" name="ViperFX" />
