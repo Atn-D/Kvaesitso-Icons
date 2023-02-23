@@ -1434,6 +1434,8 @@
     <icon drawable="@drawable/protonmail" package="ch.protonmail.android" name="Proton Mail" />
     <icon drawable="@drawable/protonvpn" package="ch.protonvpn.android" name="Proton VPN" />
     <icon drawable="@drawable/proxmox" package="com.proxmox.app.pve_flutter_frontend" name="Proxmox" />
+    <icon drawable="@drawable/psiphon" package="com.psiphon3" name="Psiphon" />
+    <icon drawable="@drawable/psiphon" package="com.psiphon3.subscription" name="Psiphon" />
     <icon drawable="@drawable/pstube" package="com.prateekmedia.pstube" name="PS Tube" />
     <icon drawable="@drawable/pubg" package="com.pubg.newstate" name="PUBG" />
     <icon drawable="@drawable/pubg" package="com.tencent.ig" name="PUBG" />
