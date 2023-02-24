@@ -635,7 +635,7 @@
     <icon drawable="@drawable/fotmob" package="com.mobilefootie.wc2010" name="FotMob" />
     <icon drawable="@drawable/fourpda" package="ru.fourpda.client" name="4PDA" />
     <icon drawable="@drawable/fox_mmm" package="com.fox2code.mmm" name="Fox's Magisk Module Manager" />
-    <icon drawable="@drawable/fox_mmm" package="com.fox2code.mmm.dedug" name="Fox's Magisk Module Manager" />
+    <icon drawable="@drawable/fox_mmm" package="com.fox2code.mmm.debug" name="Fox's Magisk Module Manager" />
     <icon drawable="@drawable/foxydroid" package="nya.kitsunyan.foxydroid" name="Foxy Droid" />
     <icon drawable="@drawable/foxydroid" package="nya.kitsunyan.foxydroid.neo" name="Foxy Droid" />
     <icon drawable="@drawable/fraenk" package="de.congstar.fraenk" name="fraenk" />
