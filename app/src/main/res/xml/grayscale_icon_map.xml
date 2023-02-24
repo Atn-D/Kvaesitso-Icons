@@ -323,6 +323,7 @@
     <icon drawable="@drawable/catogram" package="org.nift4.catox" name="Catogram" />
     <icon drawable="@drawable/catogram" package="ua.itaysonlab.messenger" name="Catogram" />
     <icon drawable="@drawable/cellmapper" package="cellmapper.net.cellmapper" name="Cellmapper" />
+    <icon drawable="@drawable/check24" package="de.check24.check24" name="Check24" />
     <icon drawable="@drawable/cheogram" package="com.cheogram.android" name="Cheogram" />
     <icon drawable="@drawable/chess" package="com.chess" name="Chess" />
     <icon drawable="@drawable/child_growth_tracker" package="com.abqappsource.childgrowthtracker" name="Child Growth Tracker" />
