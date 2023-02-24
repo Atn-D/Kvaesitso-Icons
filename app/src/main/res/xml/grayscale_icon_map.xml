@@ -691,6 +691,8 @@
     <icon drawable="@drawable/generic_downloader" package="sic.nzb.app" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="tweeter.gif.twittervideodownloader" name="Downloader" />
     <icon drawable="@drawable/generic_downloader" package="video.downloader.videodownloader" name="Downloader" />
+    <icon drawable="@drawable/generic_earth" package="com.afkettler.earth" name="Earth" />
+    <icon drawable="@drawable/generic_earth" package="com.afkettler.pro.earth" name="Earth" />
     <icon drawable="@drawable/generic_email" package="com.android.email" name="Email" />
     <icon drawable="@drawable/generic_email" package="com.skemailmobileapp" name="Email" />
     <icon drawable="@drawable/generic_games" package="com.YovoGames.dentist" name="Games" />
