@@ -336,6 +336,7 @@
     <icon drawable="@drawable/citra" package="org.citra.citra_emu" name="Citra" />
     <icon drawable="@drawable/citra" package="org.citra.emu" name="Citra" />
     <icon drawable="@drawable/citymapper" package="com.citymapper.app.release" name="Citymapper" />
+    <icon drawable="@drawable/ciudadana" package="es.gob.carpeta" name="Mi carpeta ciudadana" />
     <icon drawable="@drawable/clash_of_clans" package="com.supercell.clashofclans" name="Clash Of Clans" />
     <icon drawable="@drawable/clash_royale" package="com.supercell.clashroyale" name="Clash Royale" />
     <icon drawable="@drawable/classysharkexodus" package="com.oF2pks.classyshark3xodus" name="ClassySharkexodus" />
@@ -850,6 +851,7 @@
     <icon drawable="@drawable/hypatia" package="us.spotco.malwarescanner" name="Hypatia" />
     <icon drawable="@drawable/hype" package="it.hype.app" name="Hype" />
     <icon drawable="@drawable/ibispaint_x" package="jp.ne.ibis.ibispaintx.app" name="ibisPaint X" />
+    <icon drawable="@drawable/ibood" package="com.ibood.app" name="IBOOD.com" />
     <icon drawable="@drawable/iceraven" package="io.github.forkmaintainers.iceraven" name="Iceraven" />
     <icon drawable="@drawable/icon_pack_studio" package="ginlemon.iconpackstudio" name="Icon Pack Studio" />
     <icon drawable="@drawable/icon_request" package="de.kaiserdragon.iconrequest" name="Icon Request" />
