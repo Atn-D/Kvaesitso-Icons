@@ -1778,7 +1778,7 @@
     <icon drawable="@drawable/tachiyomi" package="eu.kanade.tachiyomi.sy" name="Tachiyomi" />
     <icon drawable="@drawable/tagesschau" package="de.tagesschau" name="tagesschau" />
     <icon drawable="@drawable/talon" package="com.klinker.android.twitter_l" name="Talon for Twitter" />
-    <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalkpro.activity" name="Tapatalk Pro" />
+    <icon drawable="@drawable/tapatalk" package="com.quoord.tapatalkpro.activity" name="Tapatalk" />
     <icon drawable="@drawable/tapatalk_pro" package="com.quoord.tapatalkHD" name="Tapatalk Pro" />
     <icon drawable="@drawable/tapo" package="com.tplink.iot" name="Tapo" />
     <icon drawable="@drawable/taptap" package="com.kieronquinn.app.taptap" name="Tap, Tap" />
