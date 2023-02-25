@@ -41,6 +41,10 @@ If you want to help translating, go to [the project page](https://i18n.mm20.de/p
 
 Note that you'll need to have a GitHub account.
 
+## FAQ
+
+Please see [FAQ.md](FAQ.md) for Troubleshooting 
+
 ## License
 
 Kvaesitso-Icons is licensed under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See [LICENSE](LICENSE) for additional information.
