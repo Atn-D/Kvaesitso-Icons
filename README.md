@@ -31,6 +31,10 @@ Note that you'll need to have a GitHub account to download the Kvaesitso Icons f
 
 Or join the [Telegram Group](https://t.me/KvaesitsoIcons).
 
+## Adding icons
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for info on adding icons.
+
 ## Translate
 
 If you want to help translating, go to [the project page](https://i18n.mm20.de/projects/kvaesitso-icons/strings/).
