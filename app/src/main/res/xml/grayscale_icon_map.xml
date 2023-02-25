@@ -395,6 +395,7 @@
     <icon drawable="@drawable/cpu_z" package="com.cpuid.cpu_z" name="CPU Z" />
     <icon drawable="@drawable/cred" package="com.dreamplug.androidapp" name="Cred" />
     <icon drawable="@drawable/credit_mutuel" package="com.cm_prod.bad" name="Crédit Mutuel" />
+    <icon drawable="@drawable/croc" package="com.github.howeyc.crocgui" name="Croc GUI" />
     <icon drawable="@drawable/crosswords" package="org.eehouse.android.xw4" name="CrossWords" />
     <icon drawable="@drawable/crunchyroll" package="com.crunchyroll.crunchyroid" name="Crunchyroll" />
     <icon drawable="@drawable/cryptomator" package="org.cryptomator" name="Cryptomator" />
