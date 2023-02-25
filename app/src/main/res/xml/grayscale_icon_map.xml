@@ -1482,11 +1482,11 @@
     <icon drawable="@drawable/quizduel" package="se.maginteractive.quizduel2" name="Quizduel" />
     <icon drawable="@drawable/quora" package="com.quora.android" name="Quora" />
     <icon drawable="@drawable/quotes" package="com.github.gouravkhunger.quotesapp" name="Quotes" />
-    <icon drawable="@drawable/quotes" package="com.lijukay.quotesAltDesign" name="Quotes" />
     <icon drawable="@drawable/quotes" package="phone.vishnu.quotes" name="Quotes" />
     <icon drawable="@drawable/quran" package="com.andi.alquran.en" name="Quran" />
     <icon drawable="@drawable/quran" package="com.andi.alquran.id" name="Quran" />
     <icon drawable="@drawable/quran" package="com.quran.labs.androidquran" name="Quran" />
+    <icon drawable="@drawable/qwotable" package="com.lijukay.quotesAltDesign" name="Qwotable" />
     <icon drawable="@drawable/rabobank" package="nl.rabomobiel" name="rabobank" />
     <icon drawable="@drawable/rabo_wallet" package="nl.rabowallet" name="Rabo Wallet" />
     <icon drawable="@drawable/radiodroid" package="net.programmierecke.radiodroid2" name="RadioDroid" />
