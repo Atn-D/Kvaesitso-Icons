@@ -469,7 +469,6 @@
     <icon drawable="@drawable/dkb" package="com.dkbcodefactory.banking" name="DKB" />
     <icon drawable="@drawable/dkb" package="de.dkb.portalapp" name="DKB" />
     <icon drawable="@drawable/dkb_pushtan" package="com.starfinanz.mobile.android.dkbpushtan" name="DKB TAN2go" />
-    <icon drawable="@drawable/documents" package="com.onlyoffice.documents" name="Documents OnlyOffice" />
     <icon drawable="@drawable/dolby" package="com.atmos" name="Dolby" />
     <icon drawable="@drawable/dolby" package="com.dolby" name="Dolby" />
     <icon drawable="@drawable/dolby" package="com.dolby.daxappui" name="Dolby" />
@@ -521,6 +520,7 @@
     <icon drawable="@drawable/ebay_kleinanzeigen" package="com.ebay.kleinanzeigen" name="eBay Kleinanzeigen" />
     <icon drawable="@drawable/ecovacs_home" package="com.eco.global.app" name="Ecovacs Home" />
     <icon drawable="@drawable/edevlet" package="tr.gov.turkiye.edevlet.kapisi" name="e-Devlet" />
+    <icon drawable="@drawable/edison_mail" package="com.easilydo.mail" name="Edison Mail" />
     <icon drawable="@drawable/eight_ball_pool" package="com.miniclip.eightballpool" name="8 Ball Pool" />
     <icon drawable="@drawable/eksi_sozluk" package="com.drdisagree.iconify" name="ekşi sözlük" />
     <icon drawable="@drawable/eksi_sozluk" package="com.eksiteknoloji.eksisozluk" name="ekşi sözlük" />
@@ -877,6 +877,7 @@
     <icon drawable="@drawable/infinity_for_reddit" package="ml.docilealligator.infinityforreddit" name="Infinity" />
     <icon drawable="@drawable/ing" package="de.ingdiba.bankingapp" name="Ing" />
     <icon drawable="@drawable/inshorts" package="com.nis.app" name="Inshorts" />
+    <icon drawable="@drawable/inshot" package="com.camerasideas.instashot" name="InShot" />
     <icon drawable="@drawable/instagram" package="com.instagram.android" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instagram.lite" name="Instagram" />
     <icon drawable="@drawable/instagram" package="com.instander.android" name="Instagram" />
@@ -938,6 +939,7 @@
     <icon drawable="@drawable/just_eat" package="uk.takeaway.android" name="Just Eat / Pyszne.pl / Lieferando.de / Takeaway.com / Thuisbezorgd.nl" />
     <icon drawable="@drawable/justalk" package="com.juphoon.justalk" name="Justalk" />
     <icon drawable="@drawable/k9_mail" package="com.fsck.k9" name="K-9 Mail" />
+    <icon drawable="@drawable/kahoot" package="no.mobitroll.kahoot.android" name="Kahoot!" />
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
     <icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
     <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI" />
@@ -951,6 +953,7 @@
     <icon drawable="@drawable/keyboard" package="com.simplemobiletools.keyboard" name="Simple Keyboard" />
     <icon drawable="@drawable/khan_academy" package="org.khanacademy.android" name="Khan Academy" />
     <icon drawable="@drawable/kicker" package="com.netbiscuits.kicker" name="kicker" />
+    <icon drawable="@drawable/kimcy_screen_recorder" package="com.kimcy929.screenrecorder" name="Kimcy Screen Recorder" />
     <icon drawable="@drawable/kindle" package="com.amazon.kindle" name="Amazon Kindle" />
     <icon drawable="@drawable/kindle" package="com.amazon.klite" name="Amazon Kindle" />
     <icon drawable="@drawable/kinopoisk" package="ru.kinopoisk" name="Kinopoisk" />
@@ -1009,6 +1012,8 @@
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
     <icon drawable="@drawable/linux_android_backup" package="com.example.companion_app" name="Linux Android Backup" />
     <icon drawable="@drawable/liputan6" package="com.woi.liputan6.android" name="Liputan6" />
+    <icon drawable="@drawable/lithium" package="com.faultexception.reader" name="Lithium" />
+    <icon drawable="@drawable/lithium_pro" package="com.faultexception.reader.pro" name="Lithium Pro" />
     <icon drawable="@drawable/localsend" package="org.localsend.localsend_app" name="LocalSend" />
     <icon drawable="@drawable/locket_widget" package="com.locket.Locket" name="Locket Widget" />
     <icon drawable="@drawable/logfox" package="com.f0x1d.logfox" name="LogFox" />
@@ -1278,6 +1283,7 @@
     <icon drawable="@drawable/onedrive" package="com.microsoft.skydrive" name="OneDrive" />
     <icon drawable="@drawable/onepassword" package="com.agilebits.onepassword" name="1Password" />
     <icon drawable="@drawable/one_second_diary" package="com.kylekun.one_second_diary" name="One Second Diary" />
+    <icon drawable="@drawable/only_office" package="com.onlyoffice.documents" name="ONLYOFFICE Documents" />
     <icon drawable="@drawable/onvista" package="de.onvista.ovone" name="onvista" />
     <icon drawable="@drawable/ooniprobe" package="org.openobservatory.ooniprobe" name="OONI Probe" />
     <icon drawable="@drawable/openapk" package="com.dkanada.openapk" name="Open APK" />
@@ -1553,6 +1559,8 @@
     <icon drawable="@drawable/revolut" package="com.revolut.revolut" name="Revolut" />
     <icon drawable="@drawable/rewe" package="de.rewe.app.mobile" name="REWE" />
     <icon drawable="@drawable/rhvoice" package="com.github.olga_yakovleva.rhvoice.android" name="RHVoice" />
+    <icon drawable="@drawable/rif_reddit" package="com.andrewshu.android.reddit" name="rif is fun" />
+    <icon drawable="@drawable/rif_reddit" package="com.andrewshu.android.redditdonation" name="rif is fun" />
     <icon drawable="@drawable/riot_mobile" package="com.riotgames.mobile.leagueconnect" name="Riot Mobile" />
     <icon drawable="@drawable/riseup_vpn" package="se.leap.riseupvpn" name="Riseup VPN" />
     <icon drawable="@drawable/roblox" package="com.roblox.client" name="Roblox" />
@@ -1968,6 +1976,7 @@
     <icon drawable="@drawable/waistline" package="com.waist.line" name="Waistline" />
     <icon drawable="@drawable/wallcandy" package="in.wallpaper.wallpapers" name="Wallcandy"/>
     <icon drawable="@drawable/wallfactory" package="wallfactory.at4u.walls" name="Wall Factory" />
+    <icon drawable="@drawable/wallfever" package="com.amaan.wallfever" name="Wallfever" />
     <icon drawable="@drawable/wallmewallpaper" package="com.alaory.wallmewallpaper" name="Wallme-Wallpaper" />
     <icon drawable="@drawable/wallpapers" package="com.mathyeckerdt.wallrod" name="WallRod" />
     <icon drawable="@drawable/warnwetter" package="de.dwd.warnapp" name="WarnWetter" />
