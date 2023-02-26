@@ -545,6 +545,7 @@
     <icon drawable="@drawable/facer" package="com.jeremysteckling.facerrel" name="Facer" />
     <icon drawable="@drawable/fairemail" package="eu.faircode.email" name="FairEmail" />
     <icon drawable="@drawable/fallzahlen_aktuell" package="com.kokoschka.michael.casestoday" name="Fallzahlen Aktuell" />
+    <icon drawable="@drawable/familygem" package="app.familygem" name="Family Gem" />
     <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylink" name="Family Link" />
     <icon drawable="@drawable/familylink" package="com.google.android.apps.kids.familylinkhelper" name="Family Link" />
     <icon drawable="@drawable/familypark" package="com.intermaps.familypark" name="Family Park" />
@@ -853,6 +854,7 @@
     <icon drawable="@drawable/hype" package="it.hype.app" name="Hype" />
     <icon drawable="@drawable/ibispaint_x" package="jp.ne.ibis.ibispaintx.app" name="ibisPaint X" />
     <icon drawable="@drawable/ibood" package="com.ibood.app" name="IBOOD.com" />
+    <icon drawable="@drawable/ibkr" package="atws.app" name="IBKR Mobile" />
     <icon drawable="@drawable/iceraven" package="io.github.forkmaintainers.iceraven" name="Iceraven" />
     <icon drawable="@drawable/icon_pack_studio" package="ginlemon.iconpackstudio" name="Icon Pack Studio" />
     <icon drawable="@drawable/icon_request" package="de.kaiserdragon.iconrequest" name="Icon Request" />
@@ -1141,13 +1143,14 @@
     <icon drawable="@drawable/moodle" package="com.moodle.moodlemobile" name="Moodle" />
     <icon drawable="@drawable/moon_reader" package="com.flyersoft.moonreader" name="Moon+ Reader" />
     <icon drawable="@drawable/moovit" package="com.tranzmate" name="Moovit" />
-    <icon drawable="@drawable/mpv_android" package="is.xyz.mpv" name="mpv" />
     <icon drawable="@drawable/morse" package="rocks.poopjournal.morse" name="Morse" />
+    <icon drawable="@drawable/mosmetro" package="pw.thedrhax.mosmetro" name="Moscow Wi-Fi autologin" />
     <icon drawable="@drawable/movie_lab" package="com.movielab.mobile" name="MovieLab" />
     <icon drawable="@drawable/moshidon" package="org.joinmastodon.android.moshinda" name="Moshidon" />
     <icon drawable="@drawable/moto" package="com.motorola.moto" name="Moto" />
     <icon drawable="@drawable/mozilla_vpn" package="org.mozilla.firefox.vpn" name="Mozilla VPN" />
     <icon drawable="@drawable/mpatcher" package="ru.maximoff.sheller" name="MPatcher" />
+    <icon drawable="@drawable/mpv_android" package="is.xyz.mpv" name="mpv" />
     <icon drawable="@drawable/mt_manager" package="bin.mt.plus" name="MT Manager" />
     <icon drawable="@drawable/mt_manager_canary" package="bin.mt.plus.canary" name="MT Manager Canary" />
     <icon drawable="@drawable/muehle" package="com.calcitem.sanmill" name="Muehle" />
@@ -1901,6 +1904,7 @@
     <icon drawable="@drawable/two_zero_four_eight" package="com.gabrielecirulli.app2048" name="2048" />
     <icon drawable="@drawable/two_zero_four_eight" package="com.ketchapp.play2048" name="2048" />
     <icon drawable="@drawable/two_zero_four_eight" package="com.tpcstld.twozerogame" name="2048" />
+    <icon drawable="@drawable/twogis" package="ru.dublgis.dgismobile" name="2GIS: Offline map &amp; Navigation" />
     <icon drawable="@drawable/twrp" package="me.twrp.twrpapp" name="TWRP" />
     <icon drawable="@drawable/uber" package="com.ubercab" name="Uber" />
     <icon drawable="@drawable/uber_driver" package="com.ubercab.driver" name="Uber Driver" />
