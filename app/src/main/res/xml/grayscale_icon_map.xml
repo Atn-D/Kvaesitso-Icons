@@ -1988,7 +1988,7 @@
     <icon drawable="@drawable/wallfactory" package="wallfactory.at4u.walls" name="Wall Factory" />
     <icon drawable="@drawable/wallfever" package="com.amaan.wallfever" name="Wallfever" />
     <icon drawable="@drawable/wallmewallpaper" package="com.alaory.wallmewallpaper" name="Wallme-Wallpaper" />
-    <icon drawable="@drawable/wallpaper_engine" package="io.wallpaperengine.weclient" name="Wallpaper Engine" /
+    <icon drawable="@drawable/wallpaper_engine" package="io.wallpaperengine.weclient" name="Wallpaper Engine" />
     <icon drawable="@drawable/wallpapers" package="com.mathyeckerdt.wallrod" name="WallRod" />
     <icon drawable="@drawable/warnwetter" package="de.dwd.warnapp" name="WarnWetter" />
     <icon drawable="@drawable/warpinator" package="slowscript.warpinator" name="Warpinator" />
