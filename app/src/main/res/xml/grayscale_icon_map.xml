@@ -29,6 +29,7 @@
     <icon drawable="@drawable/ajio" package="com.ril.ajio" name="Ajio" />
     <icon drawable="@drawable/aktionmensch" package="de.aktionmensch.AMMobileAppDistribution" name="Aktion Mensch Lotterie" />
     <icon drawable="@drawable/alazan" package="com.github.meypod.al_azan" name="Al-Azan" />
+    <icon drawable="@drawable/al_chan" package="com.zen.alchan" name="AL-chan" />
     <icon drawable="@drawable/aldi_talk" package="de.eplus.mappecc.client.android.alditalk" name="Aldi Talk" />
     <icon drawable="@drawable/alert_swiss" package="ch.admin.babs.alertswiss" name="AlertSwiss" />
     <icon drawable="@drawable/alfagift" package="com.alfamart.alfagift" name="Alfagift" />
@@ -81,7 +82,9 @@
     <icon drawable="@drawable/app_manager" package="io.github.muntashirakon.AppManager" name="App Manager" />
     <icon drawable="@drawable/app_manager_debug" package="io.github.muntashirakon.AppManager.debug" name="App Manager Debug" />
     <icon drawable="@drawable/appsales" package="net.tsapps.appsales" name="AppSales" />
+    <icon drawable="@drawable/aptoide" package="cm.aptoide.pt" name="Aptoide" />
     <icon drawable="@drawable/arbeitstage" package="de.lausitzsoftware.workdays" name="Arbeitstage" />
+    <icon drawable="@drawable/arcaea" package="moe.low.arc" name="Arcaea" />
     <icon drawable="@drawable/arcticons_dark" package="com.donnnno.arcticons" name="Arcticons Dark" />
     <icon drawable="@drawable/ard_mediathek" package="de.swr.avp.ard" name="ARD Mediathek" />
     <icon drawable="@drawable/arevelation" package="de.igloffstein.maik.aRevelation" name="aRevelation" />
@@ -404,6 +407,7 @@
     <icon drawable="@drawable/currencies" package="de.salomax.currencies" name="Currencies" />
     <icon drawable="@drawable/curve" package="com.imaginecurve.curve.prd" name="Curve" />
     <icon drawable="@drawable/cx_file_explorer" package="com.cxinventor.file.explorer" name="Cx File Explorer" />
+    <icon drawable="@drawable/cytoid" package="me.tigerhix.cytoid" name="Cytoid" />
     <icon drawable="@drawable/dailydozen" package="org.nutritionfacts.dailydozen" name="Daily Dozen" />
     <icon drawable="@drawable/dana" package="id.dana" name="DANA" />
     <icon drawable="@drawable/darq" package="com.kieronquinn.app.darq" name="DarQ" />
@@ -535,6 +539,7 @@
     <icon drawable="@drawable/epassgo" package="de.passgo.passgo" name="ePassGo" />
     <icon drawable="@drawable/erste_hilfe" package="com.cube.gdpc.che" name="Erste Hilfe" />
     <icon drawable="@drawable/espn" package="com.espn.score_center" name="ESPN" />
+    <icon drawable="@drawable/eufy_clean" package="com.eufylife.smarthome" name="eufy Clean" />
     <icon drawable="@drawable/eventim" package="de.eventim.mobile.app.Android" name="EVENTIM" />
     <icon drawable="@drawable/every_proxy" package="com.gorillasoftware.everyproxy" name="Every Proxy" />
     <icon drawable="@drawable/exodusprivacy" package="org.eu.exodus_privacy.exodusprivacy" name="Exodus" />
@@ -942,6 +947,7 @@
     <icon drawable="@drawable/kahoot" package="no.mobitroll.kahoot.android" name="Kahoot!" />
     <icon drawable="@drawable/kakaotalk" package="com.kakao.talk" name="KakaoTalk" />
     <icon drawable="@drawable/kanji_study" package="com.mindtwisted.kanjistudy" name="Kanji Study" />
+    <icon drawable="@drawable/kartaview" package="com.telenav.streetview" name="KartaView" />
     <icon drawable="@drawable/karwei" package="nl.karwei.app.android" name="KARWEI" />
     <icon drawable="@drawable/kayseri_ulam" package="com.aktifbank.nkolaykayseriulasim" name="Kayseri Ulaşım" />
     <icon drawable="@drawable/kbb_trafik" package="com.iltelis.kbbtrafik" name="KBB Trafik" />
@@ -1008,6 +1014,7 @@
     <icon drawable="@drawable/lidl_plus" package="com.lidl.eci.lidlplus" name="Lidl Plus" />
     <icon drawable="@drawable/life360" package="com.life360.android.safetymapd" name="Life360" />
     <icon drawable="@drawable/lifesum" package="com.sillens.shapeupclub" name="Lifesum" />
+    <icon drawable="@drawable/lighthouse_pm" package="com.jeroen1602.lighthouse_pm" name="Lighthouse PM" />
     <icon drawable="@drawable/line" package="jp.naver.line.android" name="LINE" />
     <icon drawable="@drawable/linkedin" package="com.linkedin.android" name="LinkedIn" />
     <icon drawable="@drawable/linux_android_backup" package="com.example.companion_app" name="Linux Android Backup" />
@@ -1122,6 +1129,7 @@
     <icon drawable="@drawable/mind_tracker" package="com.fedosov.mindtracker" name="Mind Tracker" />
     <icon drawable="@drawable/mindustry" package="io.anuke.mindustry" name="Mindustry" />
     <icon drawable="@drawable/minecraft" package="com.mojang.minecraftpe" name="Minecraft" />
+    <icon drawable="@drawable/minetest" package="net.minetest.minetest" name="Minetest" />
     <icon drawable="@drawable/miniflutt" package="be.martinelli.miniflutt" name="Miniflutt" />
     <icon drawable="@drawable/mini_metro" package="nz.co.codepoint.minimetro" name="Mini Metro" />
     <icon drawable="@drawable/minisweeper" package="com.AntonBergaker.minisweeper" name="miniSweeper" />
@@ -1132,7 +1140,7 @@
     <icon drawable="@drawable/mixplorer" package="com.mixplorer" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.beta" name="MiXplorer" />
     <icon drawable="@drawable/mixplorer" package="com.mixplorer.silver" name="MiXplorer" />
-    <icon drawable="@drawable/mj_pdf" package="com.gitlab.mudlej.MjPdfReader" name="MJ PDF" />
+    <icon drawable="@drawable/mj_pdf_reader" package="com.gitlab.mudlej.MjPdfReader" name="MJ PDF Reader" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanager" name="ML Manager" />
     <icon drawable="@drawable/mlmanager" package="com.javiersantos.mlmanagerpro" name="ML Manager" />
     <icon drawable="@drawable/mobikwik" package="com.mobikwik_new" name="Mobikwik" />
@@ -1142,6 +1150,7 @@
     <icon drawable="@drawable/moelist" package="com.axiel7.moelist" name="MoeList" />
     <icon drawable="@drawable/molly" package="im.molly.app" name="Molly" />
     <icon drawable="@drawable/momox" package="de.momox" name="momox" />
+    <icon drawable="@drawable/monerujo" package="com.m2049r.xmrwallet" name="Monerujo" />
     <icon drawable="@drawable/monet_generator" package="com.jamal2367.tgmonet" name="Telegram Monet" />
     <icon drawable="@drawable/monobank" package="com.ftband.mono" name="Monobank" />
     <icon drawable="@drawable/monzo" package="co.uk.getmondo" name="Monzo" />
@@ -1761,6 +1770,7 @@
     <icon drawable="@drawable/subhub" package="com.crazylegend.subhub" name="Subhub" />
     <icon drawable="@drawable/subito" package="it.subito" name="Subito" />
     <icon drawable="@drawable/substratum_lite" package="projekt.substratum.lite" name="substratum Lite" />
+    <icon drawable="@drawable/subway_surf" package="com.kiloo.subwaysurf" name="Subway Surf" />
     <icon drawable="@drawable/sudoku" package="com.easybrain.sudoku.android" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="com.kaajjo.libresudoku" name="Sudoku" />
     <icon drawable="@drawable/sudoku" package="ee.dustland.android.dustlandsudoku" name="Sudoku" />
@@ -1978,6 +1988,7 @@
     <icon drawable="@drawable/wallfactory" package="wallfactory.at4u.walls" name="Wall Factory" />
     <icon drawable="@drawable/wallfever" package="com.amaan.wallfever" name="Wallfever" />
     <icon drawable="@drawable/wallmewallpaper" package="com.alaory.wallmewallpaper" name="Wallme-Wallpaper" />
+    <icon drawable="@drawable/wallpaper_engine" package="io.wallpaperengine.weclient" name="Wallpaper Engine" /
     <icon drawable="@drawable/wallpapers" package="com.mathyeckerdt.wallrod" name="WallRod" />
     <icon drawable="@drawable/warnwetter" package="de.dwd.warnapp" name="WarnWetter" />
     <icon drawable="@drawable/warpinator" package="slowscript.warpinator" name="Warpinator" />
