@@ -1,10 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg id="SVGRoot" width="192px" height="192px" version="1.1" viewBox="0 0 192 192" xmlns="http://www.w3.org/2000/svg">
- <g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12">
-  <path class="b" d="m162 22h-132c-4.4 0-8 3.6-8 8v132c0 4.4 3.6 8 8 8h132c4.4 0 8-3.6 8-8v-132c0-4.4-3.6-8-8-8z"/>
-  <circle class="b" cx="95.2" cy="94.8" r="24"/>
-  <line class="b" x1="22.8" x2="64" y1="68.8" y2="23.2"/>
-  <line class="b" x1="22" x2="81.6" y1="157.2" y2="22.8"/>
-  <line class="b" x1="105.6" x2="46.8" y1="168.8" y2="104.8"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="192" viewBox="0 0 192 192"><g fill="none" stroke="#000" stroke-linecap="round" stroke-linejoin="round" stroke-width="12"><path d="M162 22H30c-4.4 0-8 3.6-8 8v132c0 4.4 3.6 8 8 8h132c4.4 0 8-3.6 8-8V30c0-4.4-3.6-8-8-8z" class="b"/><circle cx="95.2" cy="94.8" r="24" class="b"/><path d="M22.8 68.8 64 23.2M22 157.2 81.6 22.8M105.6 168.8l-58.8-64" class="b"/></g></svg>
