@@ -1265,6 +1265,7 @@
     <icon drawable="@drawable/octodroid" package="com.gh4a" name="OctoDroid" />
     <icon drawable="@drawable/octoremote" package="com.kabacon.octoremote" name="OctoRemote" />
     <icon drawable="@drawable/odysee" package="com.odysee.app" name="Odysee" />
+    <icon drawable="@drawable/odysee" package="com.odysee.floss" name="Odysee" />
     <icon drawable="@drawable/oebb" package="at.oebb.ts" name="ÖBB" />
     <icon drawable="@drawable/office_suite" package="com.mobisystems.office" name="OfficeSuite" />
     <icon drawable="@drawable/ola_cabs" package="com.olacabs.customer" name="Ola Cabs" />
